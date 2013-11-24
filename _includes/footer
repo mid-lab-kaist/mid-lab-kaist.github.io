@@ -1,0 +1,59 @@
+<!-- footer include -->
+<footer>
+  <div class="grid">
+     <div class="unit one-third">
+        <h1>about</h1>
+        <p>
+In Meta Industrial Design we look at users as the designers of their own life.
+</p>
+<p>
+We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
+</p>
+
+<img src="/style/idKAIST.png" width="40%">
+
+</div>
+     <div class="unit one-third">
+        <h1>follow us</h1>
+<p>
+
+<a href="/feeds"><img src="/style/feed_icon.png" width="20", height="20"></a>
+
+
+<a href="https://twitter.com/saakes" class="twitter-follow-button" data-show-count="false">Follow @saakes</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<iframe src="http://ghbtns.com/github-btn.html?user=mid-lab-kaist&type=follow"
+  allowtransparency="true" frameborder="0" scrolling="0" width="160" height="20"></iframe>
+
+</p>
+
+</div>
+     <div class="unit one-third">
+        <h1>contact</h1>
+<p>
+MID lab is based at the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul. How to <a href="/contact">get here</a>.
+</p>
+<p>
+<strong>Address:</strong> MIDlab, id KAIST, room 417~9, bldg N25, 291 daehak-ro yuseong-gu, Daejeon 305-701, Republic of Korea <br/>
+<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
+<strong>Tel:</strong> +82 (0) 42 350 4502 (Korean)<br/>
+<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
+</p>
+
+</div>
+
+</div> <!-- grid -->
+
+<div class="grid">
+<div id="copyright" class="unit half">
+<p>(c) 2013 MID Lab KAIST. Some rights reserved.</p>
+</div>
+<div id="credits"  class="unit half">
+<p>Based on awesome open source css projects</p>
+</div>
+
+</div> <!-- grid -->
+<div class="clearfix"></div>
+</footer>
+

@@ -1,0 +1,252 @@
+
+
+body {
+  background-color: #aaa;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,h2,h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  padding-right:20px;
+  max-width: 700px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+html, body, footer, header, section, nav, article {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+footer, header, section, nav {
+  display: block;
+  width: 100%;
+}
+
+body, section {
+  background-color:#fff;
+}
+
+header {
+  background-color: #E0005B;
+  color: #ffffff;
+}
+
+
+section p,h1 {
+  padding-left: 20px;
+}
+
+header h1 {
+  font-weight: 200;  
+  font-size: 4em;
+  margin: 0;
+  padding: 0;
+  padding-left:20px;
+  word-spacing:-0.2em;
+}
+
+header h1 strong {
+  font-weight: 700;
+}
+
+
+nav {
+  font-weight: 200;
+  font-size: 1.5em;
+  color: #ffff00;
+  padding-top:0px;
+  background-color:#E0005B;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  padding-left:20px;
+  padding-bottom:40px;
+  list-style: none;
+  clear:both;
+}
+
+nav li {
+  float: left;
+  padding: 0;
+ padding-right: 20px;
+  position: relative;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #ffff00;
+}
+
+nav li .active {
+  font-weight: 700;
+}
+
+.bxslider {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: #0ff;
+}
+
+#people {
+  background-color:#FFD400;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-image: url(/style/wood.jpg);
+}
+
+
+#people * img {
+  width:100%;
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+#people * .grid {
+  display:block;
+  margin: 0;
+  padding: 0;
+}
+
+#people * .one-fifth {
+  max-width:200px;
+  margin: 0;
+  padding: 0;
+}
+
+
+#people * .four-fifths {
+  padding: 0;
+  margin: 0;
+  padding-left: 10px;
+
+}
+
+#address {
+  display:block;
+  background-color:#ddd;
+
+}
+
+#kaist-map {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+}
+
+
+.join {
+ display:block;
+ padding: 20px;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-image: url(/style/wood.jpg);
+}
+
+.join h1 {
+  font-weight: 700;
+  font-size: 3em;
+  font-style: italic;
+  color: #333;
+}
+.join p {
+  font-weight: 200;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+
+.teaser {
+  display:block;
+  width:100%;
+  padding:0;
+  margin:0;
+  background-color: #ffffff;
+}
+
+footer {
+  background-color: #333333;
+  color: #ffff00;
+  display: block;
+  width:100%;
+  padding: 0;
+  background-color: #8c999b; 
+
+  background-position: fixed; 
+  background-repeat: repeat; 
+  background-attachment: scroll;
+  background-image: url(/style/purty_wood.png);
+}
+
+footer * h1 {
+  color: #ffff00;
+  font-weight:200;
+  font-size: 3em;
+  padding:10px 0 10px 0;
+  margin:0;
+}
+footer * p {
+  padding: 0;
+  width: 100%;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 0.9em;
+  line-height:1.4em;
+}
+
+footer * p strong {
+   text-transform: uppercase;
+   font-weight:200;
+
+}
+
+#credits p {
+ text-align:right;
+}
+
+.clearfix {
+  clear:both;
+  margin:0;
+  padding:0;
+}
+
+.bib {
+ margin-left: 20px;
+ max-width:700px;
+
+}
+.bib ol {
+  padding-left:20px;
+}
+.bib li {
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.bib li a {
+  text-decoration:none;
+  color:#00aeef;
+}
+
+
+
+
+
+
+
+
+

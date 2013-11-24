@@ -36,6 +36,11 @@ body, section {
   background-color:#fff;
 }
 
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 header {
   background-color: #E0005B;
   color: #ffffff;
@@ -148,21 +153,18 @@ nav li .active {
 
 }
 
-
 .join {
- display:block;
- padding: 20px;
   background-repeat: repeat;
   background-attachment: fixed;
   background-image: url(/style/wood.jpg);
 }
 
-.join h1 {
+.join h1, .recruit h1 {
   font-weight: 200;
   font-size: 3em;
   color: #333;
 }
-.join p {
+.join p, .recruit h1 {
   font-weight: 200;
   font-size: 1.5em;
   font-style: italic;

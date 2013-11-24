@@ -1,8 +1,6 @@
 name: "meta INDUSTRIAL DESIGN lab"
 description: "designing for designers since 2013"
 
-safe:true
-
+safe: true
 paginate: 10
-
 permalink: pretty

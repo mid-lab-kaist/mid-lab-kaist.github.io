@@ -1,8 +1,7 @@
 ---
 title: projects
-layout: default
+layout: projects
 weight: 4
 ---
 
-# Projects
 

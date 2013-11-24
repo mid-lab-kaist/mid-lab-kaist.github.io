@@ -158,9 +158,8 @@ nav li .active {
 }
 
 .join h1 {
-  font-weight: 700;
+  font-weight: 200;
   font-size: 3em;
-  font-style: italic;
   color: #333;
 }
 .join p {

@@ -4,8 +4,6 @@ layout: default
 weight: 5
 ---
 
-# Publications
-
 <p>
 <ol class="bib">
 <li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. Accepted in <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013.</li>

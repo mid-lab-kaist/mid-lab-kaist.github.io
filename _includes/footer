@@ -10,14 +10,14 @@ In Meta Industrial Design we look at users as the designers of their own life.
 We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
 </p>
 
-<img src="/style/idKAIST.png" width="40%">
+<img src="/style/idKAIST.png" class="idkaist_logo" alt="idKAIST logo"/>
 
 </div>
      <div class="unit one-third">
         <h1>follow us</h1>
 <p>
 
-<a href="/feeds"><img src="/style/feed_icon.png" width="20", height="20"></a>
+<a href="/feeds"><img src="/style/feed_icon.png" width="20" height="20" alt="feed"/></a>
 
 
 <a href="https://twitter.com/saakes" class="twitter-follow-button" data-show-count="false">Follow @saakes</a>

@@ -105,7 +105,7 @@ nav li .active {
   background-color: #0ff;
 }
 
-#people {
+.people, .join {
   background-color:#FFD400;
   background-repeat: repeat;
   background-attachment: fixed;
@@ -113,32 +113,33 @@ nav li .active {
 }
 
 
-#people * img {
+.people * img {
   width:100%;
   margin:0;
   padding:0;
   border:0;
 }
 
-#people * .grid {
+.people * .grid {
   display:block;
   margin: 0;
   padding: 0;
 }
 
-#people * .one-fifth {
+.people * .one-fifth {
   max-width:200px;
   margin: 0;
   padding: 0;
 }
 
 
-#people * .four-fifths {
+.people * .four-fifths {
   padding: 0;
   margin: 0;
   padding-left: 10px;
 
 }
+
 
 #address {
   display:block;
@@ -153,22 +154,37 @@ nav li .active {
 
 }
 
-.join {
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-image: url(/style/wood.jpg);
-}
-
 .join h1, .recruit h1 {
+  margin:0;
   font-weight: 200;
   font-size: 3em;
-  color: #333;
+  color: #000;
 }
-.join p, .recruit h1 {
+.recruit {
+   background-color:#ff0;
+}
+
+.join p, .recruit p {
   font-weight: 200;
   font-size: 1.5em;
   font-style: italic;
 }
+
+.projects * img {
+  width:100%;
+  border:0;
+}
+
+.projects * p {
+  margin:0;
+  padding: 5px;
+  font-size: 0.9em;
+}
+
+.projects {
+ padding: 0;
+}
+
 
 
 .teaser {
@@ -213,6 +229,10 @@ footer * p strong {
    text-transform: uppercase;
    font-weight:200;
 
+}
+
+footer * .idkaist_logo {
+  width:60%;
 }
 
 #credits p {

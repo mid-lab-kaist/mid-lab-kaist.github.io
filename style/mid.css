@@ -105,6 +105,12 @@ nav li .active {
   background-color: #0ff;
 }
 
+
+.people {
+  padding: 0;
+
+}
+
 .people, .join {
   background-color:#FFD400;
   background-repeat: repeat;

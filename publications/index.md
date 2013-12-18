@@ -6,8 +6,8 @@ weight: 5
 
 <p>
 <ol class="bib">
-<li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. Accepted in <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013.</li>
-<li style="list-style-type:none">Saakes, D.P., Tsujii, T., Nishimura, K. Hashida, T., Naemura, T., Photochromic Carpet: Playful Floor Canvas with Color-changing Footprints. Accepted in <i>ACE 2013: 10th international conference on Advances in Computer Entertainment technology. Creative Showcase</i>, Nov 2013.</li>
+<li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. In <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013.<b>Best Paper Award</b></li>
+<li style="list-style-type:none">Saakes, D.P., Tsujii, T., Nishimura, K. Hashida, T., Naemura, T., Photochromic Carpet: Playful Floor Canvas with Color-changing Footprints. In <i>ACE 2013: 10th international conference on Advances in Computer Entertainment technology. Creative Showcase</i>, Nov 2013.</li>
 <li style="list-style-type:none">Saakes, D.P., Cambazard, T., Mitani, J. and Igarashi, T., <a href="http://www.jst.go.jp/erato/igarashi/en/projects/PacCAM/pac-cam.pdf">PacCAM: Material Capture and Interactive 2D Packing for Efficient Material Usage on CNC Cutting Machines.</a>  <i>UIST 2013: Proceedings of the 26th annual ACM symposium on User interface software and technology</i>, pp 441-446, Oct 2013.</li>
 <li style="list-style-type:none">Saakes, D.P., <a href="http://design-cu.jp/iasdr2013/papers/1575-2b.pdf">Iterative and Participative Action Research.</a> In <i>IASDR 2013</i>, August 2013.</li>
 

@@ -163,7 +163,10 @@ nav li .active {
   margin: 0;
   padding: 0;
   width: 100%;
+}
 
+#kaist-map img {
+  width: 100%;
 }
 
 .join h1, .recruit h1 {

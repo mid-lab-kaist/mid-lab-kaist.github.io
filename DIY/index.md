@@ -1,5 +1,5 @@
 ---
-title: beta
+title: DIY
 layout: default
 weight: 8
 ---

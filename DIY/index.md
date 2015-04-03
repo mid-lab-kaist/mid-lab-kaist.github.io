@@ -4,9 +4,16 @@ layout: default
 weight: 8
 ---
 
-# Beta
+# DIY
 
 Ideas, Thoughts, Experiments, Work in Progress and Abandoned projects.
+
+# 3D Printed Silicon molds
+
+<img src="silicon/img/3.gif">
+
+We 3D print moulds from PLA to make silicon rubber objects. <a href="silicon/">read more</a>
+
 
 # Serial Displays
 

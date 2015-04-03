@@ -6,6 +6,11 @@ weight: 5
 
 <p>
 <ol class="bib">
+<li value="2015">Post, R., Saakes, D.P., Hekkert, P.P.M. <a href="http://www.desform2015.polimi.it/about-desform/">A Design Research Methodology using 3D-Printed Modular Designs to Study the Aesthetic Appreciation of Form and Material</a> <i>DesForM 2015.</i> Accepted.</li>
+<li style="list-style-type:none">Visch, V.T., Tan, E.S.H., Saakes, D.P. <a href="http://www.ijdesign.org">Viewers’ knowledge: Application of exposure-based lay user knowledge in genre specific animation production</a> <i>International Journal of Design.</i> Accepted.</li>
+<li value="2014">Chia, F-Y, Saakes, D.P. <a href="http://www.ace2014.info/">Interactive Training Chopsticks to improve fine motor skills</a> <i>Proceeding of the 11th Advancements in Computer Entertainment Technology Conference</i>, November 2014, <b>Bronze demo award</b></li> 
+<li style="list-style-type:none">Back, S.Y., Min, J., Saakes, D.P. <a href="">Personalizing 3D Printing through rich textures.</a><i>KSDS 2014 Undergraduate Design Research Conference.</i>, October 2014, <b>Second Best Price</b></li> 
+<li style="list-style-type:none">Lee, B, Saakes, D.P. <a href="">User Review Analysis: Extracting Design Factors from Big Data</a> <i>Proceeding of the 1st Bi-annual Design Conference of Korea Society of Design Science</i>, May 2014, pp. 222-223</li> 
 <li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. In <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013.<b>Best Paper Award</b></li>
 <li style="list-style-type:none">Saakes, D.P., Tsujii, T., Nishimura, K. Hashida, T., Naemura, T., Photochromic Carpet: Playful Floor Canvas with Color-changing Footprints. In <i>ACE 2013: 10th international conference on Advances in Computer Entertainment technology. Creative Showcase</i>, Nov 2013.</li>
 <li style="list-style-type:none">Saakes, D.P., Cambazard, T., Mitani, J. and Igarashi, T., <a href="http://www.jst.go.jp/erato/igarashi/en/projects/PacCAM/pac-cam.pdf">PacCAM: Material Capture and Interactive 2D Packing for Efficient Material Usage on CNC Cutting Machines.</a>  <i>UIST 2013: Proceedings of the 26th annual ACM symposium on User interface software and technology</i>, pp 441-446, Oct 2013.</li>

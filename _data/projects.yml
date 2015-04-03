@@ -1,0 +1,50 @@
+- title: Flying Camera
+  abstract: We designed novel flying cameras that provide teleoperators a 3rd person view on ground robots.
+  link: http://saakes.net/projects/3rd-person
+  picture: flying_camera.jpg
+
+- title: Shader Printer
+  abstract: The Shader Printer is a stateful projector display that uses bi-stable color changing inks.
+  link: http://vimeo.com/42260705
+  picture: shader_printer.jpg
+
+- title: Skin
+  abstract: Skin is an spatial augmented reality application to "sketch" materials on objects.
+  link: http://www.studiolab.nl/skin
+  picture: skin.jpg
+
+- title: Lampan
+  abstract: Ikea Hacking as open design.
+  link: http://saakes.net/projects/lampan
+  picture: lampan.jpg
+
+- title: Photochromic Carpet
+  abstract: http://saakes.net/projects/lampan
+  link: http://saakes.net/projects/carpet
+  picture: carpet.jpg
+
+
+- title: Paccam
+  abstract: Paccam helps users of laser cutters to make overlap free 2D layouts.
+  link: http://saakes.net/projects/paccam
+  picture: paccam.jpg
+
+
+- title: Delft Blue By Me
+  abstract: Delft Blue By Me helps tourists design and order their customized Delft Blue pottery.
+  link: http://www.delftbluebyme.com/
+  picture: delftblue.jpg
+
+
+- title: Slow Display
+  abstract: The Slow Display a novel tradeoff between projection and print.
+  link: http://vimeo.com/13505605
+  picture: slow.jpg
+
+
+- title: Interactive Chopsticks
+  abstract: We designed interactive training chopsticks.
+  link: /projects/chopsticks
+  picture: chopsticks.jpg
+
+

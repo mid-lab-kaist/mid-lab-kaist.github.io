@@ -1,0 +1,47 @@
+---
+title: news
+layout: news
+weight: 2
+---
+
+{% for post in paginator.posts %}
+<div class="grid no-gutters {% cycle 'white', 'blue' %}">
+   <div class="unit one-quarter">
+{% if post.picture %}
+<img src="/news/img/{{ post.picture }}">
+{% else %}
+<img src="/news/img/white.png">
+{% endif %}
+
+</div>
+   <div class="unit three-quarters">
+     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+     <p><b>{{ post.date | date_to_long_string }}.</b> {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+    </p>
+
+ </div>
+
+</div>
+<div class="clearfix"></div>
+
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+
+

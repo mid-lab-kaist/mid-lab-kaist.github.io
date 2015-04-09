@@ -1,7 +1,6 @@
 ---
 title: DIY
 layout: default
-weight: 8
 ---
 
 # DIY

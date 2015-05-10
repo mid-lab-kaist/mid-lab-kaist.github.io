@@ -88,6 +88,7 @@ header h1 strong {
 }
 .news * * p {
   margin-top:4px;
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 0.9em;
 }
 
@@ -168,10 +169,10 @@ nav li .active {
 }
 
 .people, .join {
-  background-color:#FFD400;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color:#FFFFF0;
   background-repeat: repeat;
   background-attachment: fixed;
-  background-image: url(/style/wood.jpg);
 }
 
 
@@ -232,7 +233,6 @@ nav li .active {
 .join p, .recruit p {
   font-weight: 200;
   font-size: 1.5em;
-  font-style: italic;
 }
 
 .projects * img {

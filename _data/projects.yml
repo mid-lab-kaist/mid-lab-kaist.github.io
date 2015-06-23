@@ -1,54 +1,67 @@
+- title: Mirror Mirror
+  abstract: Mirror Mirror is a design system that combines spatial augmented reality with a mirror display.
+  link: /projects/mirror
+  picture: mirror.jpg
+  picture_change: mirror_change.jpg
+
+- title: Interactive Chopsticks
+  abstract: We designed interactive training chopsticks.
+  link: /projects/chopsticks
+  picture: chopsticks.jpg
+  picture_change: chopsticks_change.jpg
+
+
 - title: Flying Camera
   abstract: We designed novel flying cameras that provide teleoperators a 3rd person view on ground robots.
   link: http://saakes.net/projects/3rd-person
   picture: flying_camera.jpg
+  picture_change: flying_camera_change.jpg
 
 - title: Shader Printer
   abstract: The Shader Printer is a stateful projector display that uses bi-stable color changing inks.
   link: http://vimeo.com/42260705
   picture: shader_printer.jpg
+  picture_change: shader_printer_change.jpg
 
 - title: Skin
   abstract: Skin is an spatial augmented reality application to "sketch" materials on objects.
   link: http://www.studiolab.nl/skin
   picture: skin.jpg
+  picture_change: skin_change.jpg
 
 - title: Lampan
   abstract: Ikea Hacking as open design.
   link: http://saakes.net/projects/lampan
   picture: lampan.jpg
+  picture_change: lampan_change.jpg
 
 - title: Photochromic Carpet
-  abstract: http://saakes.net/projects/lampan
+  abstract: The photochromic carpet is a large size interactive floor display that captures visitors' footsteps in playful prints to make an environment into a canvas of past activities.
   link: http://saakes.net/projects/carpet
   picture: carpet.jpg
-
+  picture_change: carpet_change.jpg
 
 - title: Paccam
   abstract: Paccam helps users of laser cutters to make overlap free 2D layouts.
   link: http://saakes.net/projects/paccam
   picture: paccam.jpg
+  picture_change: paccam_change.jpg
 
 
 - title: Delft Blue By Me
   abstract: Delft Blue By Me helps tourists design and order their customized Delft Blue pottery.
   link: http://www.delftbluebyme.com/
   picture: delftblue.jpg
+  picture_change: delftblue_change.jpg
 
 
 - title: Slow Display
   abstract: The Slow Display a novel tradeoff between projection and print.
   link: http://vimeo.com/13505605
   picture: slow.jpg
+  picture_change: slow_change.jpg
 
-- title: Interactive Chopsticks
-  abstract: We designed interactive training chopsticks.
-  link: /projects/chopsticks
-  picture: chopsticks.jpg
 
-- title: Mirror Mirror
-  abstract: Mirror Mirror is a design system that combines spatial augmented reality with a mirror display.
-  link: /projects/mirror
-  picture: mirror.jpg
+
 
 

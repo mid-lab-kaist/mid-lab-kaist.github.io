@@ -14,7 +14,7 @@ weight: 4
 <div class='grid no-gutters'>
 {% endif %}
 <div class='unit one-quarter'>
-<a href="{{ p.link }}"><img src='img/{{ p.picture }}' alt="{{ p.title }}" /></a><p>{{ p.abstract }}</p>
+<a href="{{ p.link }}"><img src='img/{{ p.picture }}' onmouseover="this.src='img/{{ p.picture_change }}'" onmouseout="this.src='img/{{ p.picture }}'" alt="{{ p.title }}" /></a><p>{{ p.abstract }}</p>
 </div>
 {% if pos == 'last' %}
 </div> <!-- grid -->

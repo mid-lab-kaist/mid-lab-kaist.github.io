@@ -6,8 +6,8 @@ weight: 5
 
 <p>
 <ol class="bib">
-
-<li value="2015">Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W.<a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>SIGGRAPH '15: Studio Installation</i> Accepted.</li>
+<li value="2015">Post, R., Saakes, D.P., Hekkert, P.P.M. <a href="http://www.desform2015.polimi.it/about-desform/">A Design Research Methodology using 3D-Printed Modular Designs to Study the Aesthetic Appreciation of Form and Material</a> <i>DesForM 2015.</i> Accepted.</li>
+<li style="list-style-type:none">Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W.<a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>SIGGRAPH '15: Studio Installation</i> Accepted.</li>
 <li style="list-style-type:none">Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W. <a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>SIGGRAPH '15: Talks</i> Accepted.</li>
 
 <li style="list-style-type:none">Nam, TJ., Saakes, D.P. <a href="https://projects.hci.sbg.ac.at/fabrication2015/">An Industrial Designer’s Perspective on Future Makers</a> in <i><a href="http://aarhus2015.org">Critical Alternatives 2015</a> workshop: The Future of Making: Where Industrial and Personal Fabrication Meet.</i> Accepted.</li>

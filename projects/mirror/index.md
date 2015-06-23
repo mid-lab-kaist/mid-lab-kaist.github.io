@@ -3,7 +3,7 @@ title: Mirror Mirror, An On-Body Clothing Design System
 layout: project
 weight: 0
 ---
-<iframe src="https://player.vimeo.com/video/130410404" width="1000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/130410404" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Magic mirrors superimpose virtual clothing over viewers’ mirror image to let them evaluate fashion items without actually wearing them. We contribute the mirror Mirror system that supports not only mixing and matching existing fashion items, but also lets users design new items in front of the mirror and export designs to fabrication devices. Mirror Mirror makes use of spatial augmented reality and a mirror Virtual garments are visible both on the body for precise manipulation as well as in the reflection to obtain a third person perspective. While much previous work deals with re-texturing and registering virtual garments to live user data, we focus on collaborative design and show various ways of designing using real bodies as mannequins. 
 

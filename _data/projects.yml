@@ -41,10 +41,14 @@
   link: http://vimeo.com/13505605
   picture: slow.jpg
 
-
 - title: Interactive Chopsticks
   abstract: We designed interactive training chopsticks.
   link: /projects/chopsticks
   picture: chopsticks.jpg
+
+- title: Mirror Mirror
+  abstract: Mirror Mirror is a design system that combines spatial augmented reality with a mirror display.
+  link: /projects/mirror
+  picture: mirror.jpg
 
 

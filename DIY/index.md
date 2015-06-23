@@ -11,7 +11,7 @@ Ideas, Thoughts, Experiments, Work in Progress and Abandoned projects.
 
 <img src="silicon/img/3.gif">
 
-We 3D print moulds from PLA to make silicon rubber objects. (Conducted by Tanya Sha, Undergraduate student in ID KAIST) <a href="silicon/">read more</a>
+We 3D print moulds from PLA to make silicon rubber objects. (Conducted by Tetiana Parshakova, Undergraduate student in ID KAIST) <a href="silicon/">read more</a>
 
 
 # Serial Displays

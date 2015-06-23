@@ -88,7 +88,7 @@ header h1 strong {
 }
 .news * * p {
   margin-top:4px;
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 0.9em;
 }
 
@@ -170,7 +170,7 @@ nav li .active {
 }
 
 .people, .join {
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   background-color:#FFFFF0;
   background-repeat: repeat;
   background-attachment: fixed;

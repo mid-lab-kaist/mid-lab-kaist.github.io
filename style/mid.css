@@ -67,7 +67,7 @@ header h1 {
   padding: 0;
   padding-left:20px;
   word-spacing:-0.2em;
- font-family: 'Josefin Sans';
+ font-family: 'Source Sans Pro';
 }
 
 header h1 strong {
@@ -109,7 +109,7 @@ nav {
   color: #ffff00;
   padding-top:0px;
   background-color:#E0005B;
-  font-family: 'Josefin Sans';
+  font-family: 'Source Sans Pro';
 }
 
 nav ul {

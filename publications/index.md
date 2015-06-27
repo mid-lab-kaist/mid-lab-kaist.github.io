@@ -7,6 +7,7 @@ weight: 5
 <p>
 <ol class="bib">
 <li value="2015">Post, R., Saakes, D.P., Hekkert, P.P.M. <a href="http://www.desform2015.polimi.it/about-desform/">A Design Research Methodology using 3D-Printed Modular Designs to Study the Aesthetic Appreciation of Form and Material</a> <i>DesForM 2015.</i> Accepted.</li>
+<li style="list-style-type:none">Shin H-S (Felix), Lee, B., Saakes, D.P. <a href="http://ubicomp.org/ubicomp2015/">TagRadar: Locating Objects Using a Smart Phone Accessory</a> <i>Ubicomp/ISWC 2015 Demos</i> Accepted.</li>
 <li style="list-style-type:none">Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W.<a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>SIGGRAPH '15: Studio Installation</i> Accepted.</li>
 <li style="list-style-type:none">Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W. <a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>SIGGRAPH '15: Talks</i> Accepted.</li>
 

@@ -14,12 +14,31 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <!-- bxSlider Javascript file -->
 <script src="/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript">
+// Popup window code
+/*function newPopup(url) {
+  popupWindow = window.open(url,'1437374300557','width=678,height=960,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0')*/
+
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=678,height=960,scrollbars=yes resizable=1,left=0,top=0');
+return false;
+}
+
+</script>
+
 <!-- bxSlider CSS file -->
 <link href="/style/jquery.bxslider.css" rel="stylesheet" />
 
 </head>
 
-<body>
+<body onLoad = "popup('../img/mirror_popup.jpg','ad')">
 
 {% include header_nav %}
 
@@ -49,6 +68,7 @@
           </ul>
 </section>
 <section class="join">
+
 <h1>Designing for Designers since 2013</h1>
 <p>Brand new and based at <a href="http://id.kaist.ac.kr">Industrial Design</a> <a href="http://kaist.ac.kr">KAIST</a> in the Republic of Korea. We are looking for students and partners with an interest in building the future design tools. <a href="/contact/">Contact us for information.</a></p>
 <p>

@@ -26,6 +26,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #3399FF;
 }
 
 
@@ -40,6 +41,8 @@ footer, header, section, nav {
   display: block;
   width: 100%;
 }
+
+
 
 body, section {
   background-color:#fff;
@@ -281,6 +284,11 @@ footer * h1 {
   padding:10px 0 10px 0;
   margin:0;
 }
+
+footer * a{
+  color: #CCE5FF;
+}
+
 footer * p {
   padding: 0;
   width: 100%;

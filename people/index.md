@@ -5,7 +5,7 @@ weight: 3
 ---
 
 
-<section class="people">
+<section class="members">
 
 <h1>Members</h1>
 {% for member in site.data.members %}

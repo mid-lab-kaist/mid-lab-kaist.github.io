@@ -4,7 +4,7 @@
      <div class="unit one-third">
         <h1>about</h1>
         <p>
-In the My Design Lab at Industrial Design we look at users as the designers of their own life.
+In My Design Lab at Industrial Design we look at users as the designers of their own life.
 </p>
 <p>
 We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
@@ -32,10 +32,10 @@ We innovate in open design, physical design tools, custom design as service and 
      <div class="unit one-third">
         <h1>contact</h1>
 <p>
-My Design Lab is based in the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul. How to <a href="/contact">get here</a>.
+My Design Lab is based in the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul and you can find us by following these <a href="/contact">directions</a>.
 </p>
 <p>
-<strong>Address:</strong> My Design Lab, id KAIST, room 417~9, bldg N25, 291 daehak-ro yuseong-gu, Daejeon 305-701, Republic of Korea <br/>
+<strong>Address:</strong> My Design Lab, ID KAIST, Room 417~9, Building N25, 291 Daehak-Ro Yuseong-Gu, Daejeon 305-701, Republic of Korea <br/>
 <strong>Tel:</strong> +82 (0) 42 350 4525<br/>
 <strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
 <strong>Fax:</strong> +82 (0) 42 350 4510<br/>
@@ -50,7 +50,7 @@ My Design Lab is based in the department of <a href="http://id.kaist.ac.kr">Indu
 <p>(c) 2013 My Design Lab KAIST. Some rights reserved.</p>
 </div>
 <div id="credits"  class="unit half">
-<p>Based on awesome open source css projects</p>
+<p>Based on awesome open source CSS projects.</p>
 </div>
 
 </div> <!-- grid -->

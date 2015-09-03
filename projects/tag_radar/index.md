@@ -14,7 +14,11 @@ heading of the target object. A user test showed that
 users favor TagRadar and that it is both faster and has a
 higher accuracy compared to using only signal strength.
 
-![](<img/tag_radar_interface.jpg>)
+<video id="tagradar" class="video-js vjs-default-skin" controls
+preload="auto" width="683" height="384" poster="img/tag_radar_interface.jpg"
+data-setup="{}">
+<source src="video/tagRadar_submission.mp4" type='video/mp4'>
+</video>
 
 Tracking and locating objects is important in many
 situations. TagRadar provides an approach to locate items with RF
@@ -23,5 +27,5 @@ with beacons or similar technology.
 
 ![](<img/tag_radar_phone.jpg>)
 
-TagRadar will be shown off at UbiCompt 2015 in Osaka, Japan.
+TagRadar will be shown off at UbiComp 2015 in Osaka, Japan.
 

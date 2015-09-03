@@ -4,6 +4,12 @@
   picture: mirror.jpg
   picture_change: mirror_change.jpg
 
+- title: Tag Radar
+  abstract: TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags.
+  link: /projects/tag_radar
+  picture: tag_radar.png
+  picture_change: tag_radar_change.png
+  
 - title: Interactive Chopsticks
   abstract: We designed interactive training chopsticks.
   link: /projects/chopsticks

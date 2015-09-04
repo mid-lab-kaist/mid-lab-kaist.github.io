@@ -9,7 +9,7 @@ Traditionally, end-users are involved in evaluative stages of design processes: 
 
 Two contemporary trends indicate a transformation in current practice and are likely to re-introduce the paradigm of “single design for single user”. Decentralized, digital manufacturing facilities such as 3D printers, make way for per-user customized products. Second, the internet is connecting buyers and sellers, designers and users in virtual space. New communities of producers, designers, co-designer and users are emerging and lead to personalization of relationship between designer and end-user. Digital media facilitate these relationships through customization tools.
 
-The Meta Industrial Design lab aims to address the current transformation of design practice and seeks to perform design research in order to support the traditional and the new designers. We focus on exploratory research into design tools that are aimed at end-users instead of professional designers. Our goal is to support end-users to design their own life.
+My Design Lab aims to address the current transformation of design practice and seeks to perform design research in order to support the traditional and the new designers. We focus on exploratory research into design tools that are aimed at end-users instead of professional designers. Our goal is to support end-users to design their own life.
 
 
 

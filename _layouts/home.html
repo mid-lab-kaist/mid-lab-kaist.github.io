@@ -43,7 +43,14 @@ return false;
 
 <section class="teaser">
           <ul class="bxslider">
-            <li>
+				{% for p in site.data.projects %}
+					{% if forloop.index < 5 %}
+						<li style = "max-width:100%;">
+							<a href = '{{p.link}}'><img src = '../projects/img/{{p.picture_gallery}}' title = '{{p.title}}' alt = '{{p.title}}'/></a>
+						</li>
+					{% endif %}
+				{% endfor %}
+            <!--<li>
               <a href="/projects/mirror"><img src="img/mirror.jpg" alt="mirror" /></a>
             </li>
             <li>
@@ -63,7 +70,7 @@ return false;
             </li>
              <li>
               <a href="http://www.instructables.com/id/Big-lamps-from-Ikea-lampan-lamps./"><img src="img/lampan.jpg" alt="lampan" /></a>
-            </li>
+            </li>-->
           </ul>
 </section>
 <section class="join">

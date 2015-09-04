@@ -3,24 +3,28 @@
   link: /projects/mirror
   picture: mirror.jpg
   picture_change: mirror_change.jpg
+  picture_gallery: mirror_gallery.jpg
 
 - title: Tag Radar
   abstract: TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags.
   link: /projects/tag_radar
   picture: tag_radar.png
   picture_change: tag_radar_change.png
+  picture_gallery: tag_radar_gallery.png
   
 - title: I-Eng
   abstract: I-Eng is an interactive toy set aiming to teach new languages to young children between the ages of 3 - 5.
   link: /projects/i_eng
   picture: i_eng.png
   picture_change: i_eng_change.png
+  picture_gallery: i_eng_gallery.png
   
 - title: Interactive Chopsticks
   abstract: We present interactive training chopsticks that help children develop fine motor skills and eye-hand coordination that are needed for eating with chopsticks.
   link: /projects/chopsticks
   picture: chopsticks.jpg
   picture_change: chopsticks_change.jpg
+  picture_gallery: chopsticks_gallery.jpg
 
 
 - title: Flying Camera

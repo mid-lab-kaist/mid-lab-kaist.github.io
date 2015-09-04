@@ -11,5 +11,5 @@ Various sensors are embedded in the interactive chopsticks to capture user behav
 
 ![](<img/chopsticks_in_action.jpg>)
 
-The chopsticks at the ACE 2014 conference in Madeira Portugal.
+The chopsticks were presented at the ACE 2014 conference in Madeira, Portugal.
 

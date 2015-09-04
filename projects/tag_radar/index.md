@@ -14,11 +14,7 @@ heading of the target object. A user test showed that
 users favor TagRadar and that it is both faster and has a
 higher accuracy compared to using only signal strength.
 
-<video id="tagradar" class="video-js vjs-default-skin" controls
-preload="auto" width="683" height="384" poster="img/tag_radar_interface.jpg"
-data-setup="{}">
-<source src="video/tagRadar_submission.mp4" type='video/mp4'>
-</video>
+<iframe src="https://player.vimeo.com/video/138178621" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Tracking and locating objects is important in many
 situations. TagRadar provides an approach to locate items with RF

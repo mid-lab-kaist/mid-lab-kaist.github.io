@@ -20,15 +20,9 @@ weight: 3
 
 {% endfor %}
 
-
 <ul>
-<li>Alex Dalio and Sam Stark joined the lab through the KAIST Undergraduate Research Proposal scholarship.</li>
-<li>Hayeon Jeong joined the lab for the 2013/2014 Winter break for undergraduate individual study.</li>
-<li>Shin Hyung Sup (Felix) joined the lab in the Winter of 2013 as an undergraduate research intern.</li>
-<li>Seoyoung Baek and Joonhee Min joined the lab through the KAIST Undergraduate Research Proposal scholarship. They worked on surface texture experience in 3D printing until the Summer of 2015.
-</li>
+<li>Tetiana Parshakova is currently working in the lab on an undergraduate research project dealing with moving everyday objects wirelessly with gestured controls.</li>
 </ul>
-
 
 <h1>Alumni</h1>
 {% for member in site.data.alumni %}
@@ -42,6 +36,13 @@ weight: 3
 <div class="clearfix"></div>
 
 {% endfor %}
+
+<ul>
+<li>Shin Hyung Sup (Felix) joined the lab in the Winter of 2013 as an undergraduate research intern working on <a href = '../projects/tag_radar/'>TagRadar</a>, a smart phone accessory for locating items.</li>
+<li>Seoyoung Baek and Joonhee Min joined the lab through the KAIST Undergraduate Research Proposal scholarship. They worked on surface texture experience in 3D printing until the Summer of 2015.</li>
+<li>Alex Balio and Sam Stark joined the lab through the KAIST Undergraduate Research Proposal scholarship from Winter 2014 to Summer 2015. They worked on the Painting Drone.</li>
+<li>Hayeon Jeong joined the lab for the 2013/2014 Winter break for undergraduate individual study.</li>
+</ul>
 
 </section>
 

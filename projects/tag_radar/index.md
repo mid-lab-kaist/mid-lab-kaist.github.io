@@ -23,5 +23,5 @@ with beacons or similar technology.
 
 ![](<img/tag_radar_phone.jpg>)
 
-TagRadar will be shown off at UbiComp 2015 in Osaka, Japan.
+TagRadar was shown off at UbiComp 2015 in Osaka, Japan.
 

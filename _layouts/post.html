@@ -17,7 +17,11 @@
 
 <section>
 <h1>{{page.title}}</h1>
-<p class="small">posted on {{ page.date | date_to_long_string }}</p>
+<p class="small">{{ page.date | date_to_long_string }}.</p>
+
+<div style = "width: 50%; margin: auto;">
+<img src = '/news/img/{{page.picture}}'  style = "width: 100%;" title = '{{page.title}}'/>
+</div>
 
 {{content}}
 

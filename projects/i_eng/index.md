@@ -11,5 +11,5 @@ Play is one of the main learning activities of children. We aim to expand second
 
 ![](<img/children_learning.png>)
 
-I-Eng will be shown off at UbiComp 2015 in Osaka, Japan.
+I-Eng was shown off at UbiComp 2015 in Osaka, Japan.
 

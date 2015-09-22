@@ -6,7 +6,7 @@ weight: 5
 
 <p>
 <ol class="bib">
-<li value="2015">Cho, MJ., Lee, B, Min, J., Saakes, D.P. <a href="http://www.design-science.or.kr/">Sketching in virtual reality for rapid and situated idea generationk</a> In<i> KSDS Fall Conference 2015.</i> Accepted.</li>
+<li value="2015">Cho, MJ., Lee, B, Min, J., Saakes, D.P. <a href="http://www.design-science.or.kr/">Sketching in virtual reality for rapid and situated idea generation</a> In<i> KSDS Fall Conference 2015.</i> Accepted.</li>
 <li style="list-style-type:none">Lee, B., Sleeswijk Visser, F., Saakes, D.P.  <a href="http://iasdr2015.com/">Online User Reviews as a Design Resource</a> In<i> proceedings of the International Assocations of Societies of Design Resarch (IASDR) 2015.</i></li>
 <li style="list-style-type:none">Post, R., Saakes, D.P., Hekkert, P.P.M. <a href="http://www.desform2015.polimi.it/about-desform/">A Design Research Methodology using 3D-Printed Modular Designs to Study the Aesthetic Appreciation of Form and Material</a> <i>DesForM 2015.</i> Accepted.</li>
 
@@ -21,7 +21,7 @@ weight: 5
 <li style="list-style-type:none">Visch, V.T., Tan, E.S.H., Saakes, D.P. <a href="http://www.ijdesign.org">Viewers’ knowledge: Application of exposure-based lay user knowledge in genre specific animation production</a> <i>International Journal of Design.</i> 9(1), April 2015</li>
 <li style="list-style-type:none">Saakes, D.P. <a href="http://opendesignnow.org/">모든 사람이 디자인에 참여하는 세상에서 디자인은 우리의 일상이 될 것이다.</a> In Van Abel, B., et.al. ed. <i>오픈 디자인(Open Design Now) 누구도 독점하지 않는 디자인 누구나 할 수 있는 디자인</i>, Ahn Graphics, Seoul, 2015.</li>
 <li style="list-style-type:none">Verlinden, J., Saakes, D.P., Luxen, R. <a href="http://www.aodr.org/main.php">Learning from the trenches of embodiment design
-The designing, prototyping, and fabricating a large interactive display</a><i>Archives of Design Research.</i>, KSDS, 28(3) August 2015.</li>
+The designing, prototyping, and fabricating a large interactive display</a> <i>Archives of Design Research.</i>, KSDS, 28(3) August 2015.</li>
 <li value="2014">Chia, F-Y, Saakes, D.P. <a href="http://www.ace2014.info/">Interactive Training Chopsticks to improve fine motor skills</a> <i>Proceeding of the 11th Advancements in Computer Entertainment Technology Conference</i>, November 2014, <b>Bronze demo award</b></li> 
 <li style="list-style-type:none">Back, S.Y., Min, J., Saakes, D.P. <a href="">Personalizing 3D Printing through rich textures.</a><i>KSDS 2014 Undergraduate Design Research Conference.</i>, October 2014, <b>Second Best Price</b></li> 
 <li style="list-style-type:none">Lee, B, Saakes, D.P. <a href="">User Review Analysis: Extracting Design Factors from Big Data</a> <i>Proceeding of the 1st Bi-annual Design Conference of Korea Society of Design Science</i>, May 2014, pp. 222-223</li> 

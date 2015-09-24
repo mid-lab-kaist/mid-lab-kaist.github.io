@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MirrorMirror exhibits at DDP, Seoul 
+title: MirrorMirror Exhibits at DDP, Seoul 
 picture: DDP.jpg
 ---
 

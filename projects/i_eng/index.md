@@ -11,5 +11,14 @@ Play is one of the main learning activities of children. We aim to expand second
 
 ![](<img/children_learning.png>)
 
-I-Eng was shown off at UbiComp 2015 in Osaka, Japan.
+
+**Publications**
+Jeong, H., Saakes, D.P., Lee, U., I-Eng: An Interactive Toy for Second Language Learning Ubicomp/ISWC 2015 Demos Accepted.
+
+**Demos**
+Tokyo Designers Week 2014, Oct 25-Nov 3, Tokyo, Japan.
+UbiComp 2015, Sept 7-11, Osaka, Japan.
+
+
+
 

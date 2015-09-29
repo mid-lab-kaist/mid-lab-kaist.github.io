@@ -1,5 +1,5 @@
 ---
-title: I-Eng
+title: I-Eng: An Interactive Toy for Second Language Learning.
 layout: project
 weight: 0
 ---

@@ -39,6 +39,7 @@ weight: 3
 
 <ul>
 <li>Shin Hyung Sup (Felix) joined the lab in the Winter of 2013 as an undergraduate research intern working on <a href = '../projects/tag_radar/'>TagRadar</a>, a smart phone accessory for locating items.</li>
+<li>Sang Yeob Lee worked in the lab in the Summer of 2015 on gesture and touch based controls for an interactive camera system.</li>
 <li>Seoyoung Baek and Joonhee Min joined the lab through the KAIST Undergraduate Research Proposal scholarship. They worked on surface texture experience in 3D printing until the Summer of 2015.</li>
 <li>Alex Balio and Sam Ukolov joined the lab through the KAIST Undergraduate Research Proposal scholarship from Winter 2014 to Summer 2015. They worked on the <a href = "../projects/misc/painting_drone.pdf">Painting Drone</a>.</li>
 <li>Hayeon Jeong joined the lab for the 2013/2014 Winter break for undergraduate individual study.</li>

@@ -5,30 +5,30 @@ weight: 2
 ---
 
 {% for post in paginator.posts %}
-<div class="grid no-gutters {% cycle 'white', 'blue' %}">
-   <div class="unit one-quarter">
-{% if post.picture %}
-<img src="/news/img/{{ post.picture }}">
-{% else %}
-<img src="/news/img/default.png">
-{% endif %}
+	<div class = "grid no-gutters {% cycle 'white', 'blue' %}">
+		<div class = "unit one-quarter">
+		<a href = "{{ post.url }}">
+			{% if post.picture %}
+				<img src = "/news/img/{{ post.picture }}">
+			{% else %}
+				<img src = "/news/img/default.png">
+			{% endif %}
+		</a>
 
-</div>
-   <div class="unit three-quarters">
-     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		</div>
+		<div class = "unit three-quarters">
+			<h2><a href = "{{ post.url }}">{{ post.title }}</a></h2>
 
-     <p><b>{{ post.date | date_to_long_string }}.</b> {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-    </p>
-
- </div>
-
-</div>
-<div class="clearfix"></div>
+			<p><b>{{ post.date | date_to_long_string }}.</b> {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+		
+			<br><br><a href = "{{ post.url }}"><b>Read More</b></a></p>
+		</div>
+	</div>	
+	<div class = "clearfix"></div>
 
 {% endfor %}
 
-<!-- Pagination links -->
-<div class="pagination">
+<!--<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% endif %}
@@ -36,8 +36,20 @@ weight: 2
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% endif %}
+</div>-->
+
+<div style = "width:100%; text-align:center;">
+	<ul class = "pagination">
+		{% for i in (1..paginator.total_pages) %}
+			{% if i == paginator.page %}
+				<li class = "active"><a href = "#">{{ i }}</a></li>
+			{% else %}
+				{% if i == 1 %}
+					<li><a href = "/news/">{{ i }}</a></li>
+				{% else %}
+					<li><a href = "/news/page{{ i }}">{{ i }}</a></li>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	</ul>
 </div>
-
-
-
-

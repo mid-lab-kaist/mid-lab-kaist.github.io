@@ -5,6 +5,13 @@
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
 
+- title: User Review Analysis
+  abstract: User Review Analysis is a new technique that uses big data to uncover user needs for product designers.
+  link: /projects/user_review_analysis
+  picture: user_review_analysis.png
+  picture_change: user_review_analysis_change.png
+  picture_gallery: user_review_analysis_gallery.png
+  
 - title: Tag Radar
   abstract: TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags.
   link: /projects/tag_radar

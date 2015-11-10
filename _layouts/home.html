@@ -44,7 +44,7 @@ return false;
 <section class="teaser">
           <ul class="bxslider">
 				{% for p in site.data.projects %}
-					{% if forloop.index < 5 %}
+					{% if forloop.index <= 5 %}
 						<li style = "max-width:100%; text-align: center;">
 							<a href = '{{p.link}}'><img src = '../projects/img/{{p.picture_gallery}}' title = '{{p.title}}' alt = '{{p.title}}'/></a>
 						</li>

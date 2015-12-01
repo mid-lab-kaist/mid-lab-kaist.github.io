@@ -6,7 +6,8 @@ weight: 5
 
 <p>
 <ol class="bib">
-<li value="2015">Cho, MJ., Lee, B, Min, J., Saakes, D.P. <a href="http://www.design-science.or.kr/">Sketching in virtual reality for rapid and situated idea generation</a> In<i> KSDS Fall Conference 2015.</i> Accepted. [<a href="files/2015_vr_sketching_paper.pdf">pdf</a>] [<a href="files/2015_vr_sketching_presentation.pdf">presentation</a>]</li>
+<li value="2015"> Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo <a href="http://www.hcikorea.org/">공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Realityn</a> In<i> HCI KOREA 2016.</i> Accepted.</li>
+<listyle="list-style-type:none">Cho, MJ., Lee, B, Min, J., Saakes, D.P. <a href="http://www.design-science.or.kr/">Sketching in virtual reality for rapid and situated idea generation</a> In<i> KSDS Fall Conference 2015.</i> Accepted. [<a href="files/2015_vr_sketching_paper.pdf">pdf</a>] [<a href="files/2015_vr_sketching_presentation.pdf">presentation</a>]</li>
 <li style="list-style-type:none">Lee, B., Sleeswijk Visser, F., Saakes, D.P.  <a href="/projects/user_review_analysis/">Online User Reviews as a Design Resource</a> In<i> proceedings of the International Assocations of Societies of Design Resarch (IASDR) 2015.</i> [<a href="files/2015_user_review_analysis_paper.pdf">pdf</a>] [<a href="files/2015_user_review_analysis_presentation.pdf">presentation</a>]</li>
 <li style="list-style-type:none">Post, R., Saakes, D.P., Hekkert, P.P.M. <a href="http://www.desform2015.polimi.it/about-desform/">A Design Research Methodology using 3D-Printed Modular Designs to Study the Aesthetic Appreciation of Form and Material</a> <i>DesForM 2015.</i> Accepted.</li>
 

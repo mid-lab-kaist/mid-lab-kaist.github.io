@@ -21,7 +21,7 @@ h2,h3 {
 
 p {
   padding-right:20px;
-  max-width: 700px;
+  max-width: 1024px;
 }
 
 a {
@@ -61,6 +61,7 @@ header {
 
 section p,h1 {
   padding-left: 20px;
+  
 }
 
 header h1 {
@@ -305,7 +306,7 @@ footer * p strong {
 }
 
 footer * .idkaist_logo {
-  width:60%;
+  max-width: 256px;
 }
 
 #credits p {

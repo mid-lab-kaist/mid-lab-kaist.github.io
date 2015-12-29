@@ -4,6 +4,10 @@ layout: projects
 weight: 4
 ---
 
+<section>
+	<h1>Projects</h1>
+</section>
+
 <section class="projects">
 
 {% for p in site.data.projects %}

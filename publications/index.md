@@ -4,6 +4,8 @@ layout: default
 weight: 5
 ---
 
+<h1>Publications</h1>
+
 <p>
 <ol class="bib">
 <!-- <li value="2016"> Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W. <a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>CHI '16 Papers and Notes</i> Conditionally Accepted.</li> 

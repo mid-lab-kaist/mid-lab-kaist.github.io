@@ -4,13 +4,13 @@
      <div class="unit one-third">
         <h1>about</h1>
         <p>
-In My Design Lab at Industrial Design we look at users as the designers of their own life.
+We at myDesignLab believe that everyone is a designer. We design tools and environments to enable everyone to design.
 </p>
 <p>
-We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
+We are always looking for students and partners to join us so please <a href="/contact/">contact us</a> for more information.
 </p>
 
-<img src="/style/idKAIST.png" class="idkaist_logo" alt="idKAIST logo"/>
+<img src = "/style/idKAIST.png" class = "idkaist_logo" alt = "idKAIST logo"/>
 
 </div>
      <div class="unit one-third">
@@ -28,10 +28,29 @@ We innovate in open design, physical design tools, custom design as service and 
 
 <div class="fb-follow" data-href="https://www.facebook.com/mydesignlabkaist" data-layout="standard" data-show-faces="true"></div>
 
-<a class="twitter-timeline" href="https://twitter.com/myIDKAIST" data-widget-id="413292405496885249">Tweets by @myIDKAIST</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a class="twitter-follow-button"
+  href="https://twitter.com/myIDKAIST">
+Follow @myIDKAIST</a>
 
-<a href="/feeds"><img src="/style/feed_icon.png" width="20" height="20" alt="feed"/></a>
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+<br>
+
 <a href="https://github.com/mid-lab-kaist"><img src="/style/github.png" width="147" height="20" alt="Follow on Github" /></a>
 
 
@@ -44,29 +63,26 @@ We innovate in open design, physical design tools, custom design as service and 
      <div class="unit one-third">
         <h1>contact</h1>
 <p>
-My Design Lab is based in the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul and you can find us by following these <a href="/contact">directions</a>.
+myDesignLab is based in the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul and you can find us by following these <a href = "/contact">directions</a>.
 </p>
 <p>
-<strong>Address:</strong> My Design Lab, ID KAIST, Room 417~9, Building N25, 291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
-<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
-<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
-<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
-<strong>Email:</strong> saakes@kaist.ac.kr<br/>
+<strong>Address:</strong> myDesignLab, Building N25, Room 311, 291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br><br>
+<strong>Tel:</strong> +82 (0) 42 350 4525<br>
+<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br>
+<strong>Fax:</strong> +82 (0) 42 350 4510<br>
+<strong>Email:</strong> saakes@kaist.ac.kr<br>
 </p>
 
 </div>
 
 </div> <!-- grid -->
 
-<div class="grid">
-<div id="copyright" class="unit half">
-<p>(c) 2013 My Design Lab KAIST. Some rights reserved.</p>
-</div>
-<div id="credits"  class="unit half">
-<p>Based on awesome open source CSS projects.</p>
+<div class = "grid">
+<div id = "copyright" style = "text-align: center;">
+<p style = "width = 100%; margin-right: auto; margin-left: auto;">(c) 2013 My Design Lab KAIST. Some rights reserved.</p>
 </div>
 
 </div> <!-- grid -->
-<div class="clearfix"></div>
+<div class = "clearfix"></div>
 </footer>
 

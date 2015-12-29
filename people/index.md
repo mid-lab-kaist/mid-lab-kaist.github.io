@@ -6,84 +6,89 @@ weight: 3
 
 
 <section class="members">
+	<h1>Members</h1>
+	<section style = "max-width: 1024px; margin-left: auto; margin-right: auto;">
+	{% for member in site.data.members %}		
+			<div class='grid no-gutters'>
+			 <div class='unit one-fifth'><img style = "margin-left: 10px;" src='img/{{ member.picture }}' alt="{{ member.name }}" /></div>
+			 <div class='unit four-fifths'>
+			<h3>{{ member.name }} / {{ member.title }}</h3>
+			<p>{{ member.bio }}</p>
+			</div>
+			</div>
+			<div class="clearfix"></div>
+	{% endfor %}
 
-<h1>Members</h1>
-{% for member in site.data.members %}
-		<div class='grid no-gutters'>
-		 <div class='unit one-fifth'><img style = "margin-left: 10px;" src='img/{{ member.picture }}' alt="{{ member.name }}" /></div>
-		 <div class='unit four-fifths'>
-		<h3>{{ member.name }} / {{ member.title }}</h3>
-		<p>{{ member.bio }}</p>
-		</div>
-		</div>
-		<div class="clearfix"></div>
-{% endfor %}
+	<br>
+		<table style = "width: 80%; margin-left: 20px;">
+			<tr>
+				<td><b>Name</b></td>
+				<td><b>Duration</b></td>
+				<td><b>Project</b></td>
+			</tr>	
+			<tr>
+				<td>Maria Reyes</td>
+				<td>2016</td>
+				<td>TBD</td>
+			</tr>		
+			<tr>
+				<td>Tetiana Parshakova</td>
+				<td>2015</td>
+				<td>Moving Objects Wirelessly using Gestures and Vibrations</td>
+			</tr>		
+		</table>
+	</section>
+	
+	<hr>
 
-<br>
-	<table style = "width: 80%; margin-left: 20px;">
-		<tr>
-			<td><b>Name</b></td>
-			<td><b>Duration</b></td>
-			<td><b>Project</b></td>
-		</tr>	
-		<tr>
-			<td>Maria Reyes</td>
-			<td>2016</td>
-			<td>TBD</td>
-		</tr>		
-		<tr>
-			<td>Tetiana Parshakova</td>
-			<td>2015</td>
-			<td>Moving Objects Wirelessly using Gestures and Vibrations</td>
-		</tr>		
-	</table>
-
-<h1>Alumni</h1>
+<section style = "max-width: 1024px; margin-left: auto; margin-right: auto;">
 {% for member in site.data.alumni %}
-<div class='grid no-gutters'>
- <div class='unit one-fifth'><img style = "margin-left: 10px;" src = 'img/{{ member.picture }}' alt="{{ member.name }}" /></div>
- <div class='unit four-fifths'>
-<h3>{{ member.name }} / {{ member.title }}</h3>
-<p>{{ member.bio }}</p>
-</div>
-</div>
-<div class="clearfix"></div>
+	
+	<div class='grid no-gutters'>
+	 <div class='unit one-fifth'><img style = "margin-left: 10px;" src = 'img/{{ member.picture }}' alt="{{ member.name }}" /></div>
+	 <div class='unit four-fifths'>
+	<h3>{{ member.name }} / {{ member.title }}</h3>
+	<p>{{ member.bio }}</p>
+	</div>
+	</div>
+	<div class="clearfix"></div>
 
-{% endfor %}
+	{% endfor %}
 
-<br>
+	<br>
 
-	<table style = "width: 80%; margin-left: 20px;">
-		<tr>
-			<td><b>Name</b></td>
-			<td><b>Duration</b></td>
-			<td><b>Project</b></td>
-		</tr>		
-		<tr>
-			<td>Sang Yeob Lee</td>
-			<td>Summer 2015</td>
-			<td>Gesture and Touch Based Controls for an Interactive Camera System</td>
-		</tr>
-		<tr>
-			<td>Seoyoung Baek and Joonhee Min</td>
-			<td>Summer 2015</td>
-			<td>Surface Texturing in 3D Printing</td>
-		</tr>
-		<tr>
-			<td>Alex Balio and Sam Ukolov</td>
-			<td>2014 - 2015</td>
-			<td><a href = "../projects/misc/painting_drone.pdf">Painting Drone</a></td>
-		</tr>
-		<tr>
-			<td>Felix Shin</td>
-			<td>2013 - 2015</td>
-			<td><a href = '../projects/tag_radar/'>TagRadar</a></td>
-		</tr>
-		<tr>
-			<td>Hayeon Jeong</td>
-			<td>Winter 2013</td>
-			<td><a href = '../projects/i_eng/'>I-Eng</a></td>
-		</tr>
-	</table>
+		<table style = "width: 80%; margin-left: 20px;">
+			<tr>
+				<td><b>Name</b></td>
+				<td><b>Duration</b></td>
+				<td><b>Project</b></td>
+			</tr>		
+			<tr>
+				<td>Sang Yeob Lee</td>
+				<td>Summer 2015</td>
+				<td>Gesture and Touch Based Controls for an Interactive Camera System</td>
+			</tr>
+			<tr>
+				<td>Seoyoung Baek and Joonhee Min</td>
+				<td>Summer 2015</td>
+				<td>Surface Texturing in 3D Printing</td>
+			</tr>
+			<tr>
+				<td>Alex Balio and Sam Ukolov</td>
+				<td>2014 - 2015</td>
+				<td><a href = "../projects/misc/painting_drone.pdf">Painting Drone</a></td>
+			</tr>
+			<tr>
+				<td>Felix Shin</td>
+				<td>2013 - 2015</td>
+				<td><a href = '../projects/tag_radar/'>TagRadar</a></td>
+			</tr>
+			<tr>
+				<td>Hayeon Jeong</td>
+				<td>Winter 2013</td>
+				<td><a href = '../projects/i_eng/'>I-Eng</a></td>
+			</tr>
+		</table>
+	</section>
 </section>
 

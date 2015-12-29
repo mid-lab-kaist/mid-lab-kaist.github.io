@@ -54,8 +54,17 @@ section {
 }
 
 header {
-  background-color: #E0005B;
-  color: #ffffff;
+  /*background-color: #E0005B;
+  background-color: #FFF;*/
+  
+  background-color: #8c999b; 
+  background-repeat: repeat; 
+  background-attachment: scroll;
+  background-image: url(/style/purty_wood.png);
+  
+  min-height: 100px;
+  
+  color: #FFF;
 }
 
 
@@ -109,11 +118,15 @@ header h1 strong {
 
 nav {
   font-weight: 200;
-  font-size: 1.5em;
+  font-size: 20px;
   color: #ffff00;
   padding-top:0px;
-  background-color:#E0005B;
+  display: -webkit-box;
+
   font-family: 'Source Sans Pro';
+  max-width: 512px; 
+  margin: 2px auto; 
+  line-height: 2;"
 }
 
 nav ul {
@@ -132,12 +145,16 @@ nav li {
   position: relative;
 }
 
-nav li a {
+nav a {
   text-decoration: none;
-  color: #ffff00;
+  color: #FFF;
+  display: block; 
+  position: relative;
+  text-transform: uppercase;
+  -webkit-box-flex: 1;
 }
 
-nav li .active {
+nav .active {
   font-weight: 700;
 }
 
@@ -271,19 +288,20 @@ footer {
   display: block;
   width:100%;
   padding: 0;
+  
   background-color: #8c999b; 
-
   background-repeat: repeat; 
   background-attachment: scroll;
   background-image: url(/style/purty_wood.png);
 }
 
 footer * h1 {
-  color: #ffff00;
-  font-weight:200;
+  color: #000;
+  font-weight:300;
   font-size: 3em;
   padding:10px 0 10px 0;
   margin:0;
+  text-transform: uppercase;
 }
 
 footer * a{

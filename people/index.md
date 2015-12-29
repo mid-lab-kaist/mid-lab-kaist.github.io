@@ -6,7 +6,7 @@ weight: 3
 
 
 <section class="members">
-	<h1>Members</h1>
+	<h1>People</h1>
 	<section style = "max-width: 1024px; margin-left: auto; margin-right: auto;">
 	{% for member in site.data.members %}		
 			<div class='grid no-gutters'>

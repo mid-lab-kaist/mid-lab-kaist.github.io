@@ -16,8 +16,6 @@
 {% include header_nav %}
 
 <br>
-
-
 	<section class = "teaser" style = "max-width: 1024px; margin-left: auto; margin-right: auto;">
 			  <ul class = "bxslider">
 					{% for p in site.data.projects %}
@@ -29,13 +27,11 @@
 					{% endfor %}
 			  </ul>
 	</section>
-	<a name = "load">
-		<section class = "join">
-			<div name = "intro" style = "width = 100%; text-align: center;">
-				<h1>"Designing for Designers since 2013"</h1>
-			</div>		
-		</section>
-	</a>
+	<section class = "join">
+		<div name = "intro" style = "width = 100%; text-align: center;">
+			<h1>"Designing for Designers since 2013"</h1>
+		</div>		
+	</section>
 	<br>
 
 
@@ -54,7 +50,7 @@
 				</a>
 
 				</div>
-				<div class = "unit three-quarters">
+				<div class = "unit three-quarters alternateRows">
 					<h2><a href = "{{ post.url }}">{{ post.title }}</a></h2>
 
 					<p><b>{{ post.date | date_to_long_string }}.</b> {{ post.excerpt | remove: '<p>' | remove: '</p>' }}

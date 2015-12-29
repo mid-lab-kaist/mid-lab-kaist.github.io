@@ -29,8 +29,6 @@ a {
   color: #3399FF;
 }
 
-
-
 html, body, footer, header, section, nav, article {
   margin: 0;
   padding: 0;
@@ -41,8 +39,6 @@ footer, header, section, nav {
   display: block;
   width: 100%;
 }
-
-
 
 body, section {
   background-color:#fff;
@@ -115,11 +111,16 @@ header h1 strong {
   display: inline-block;
 }
 
+.news * .alternateRows
+{
+	nth-of-type(even) {background-color: #000;}
+}
+
 
 nav {
   font-weight: 200;
   font-size: 20px;
-  color: #ffff00;
+  background-color: rgba(0, 0, 0, 0.1); 
   padding-top:0px;
   display: -webkit-box;
 

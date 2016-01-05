@@ -8,6 +8,6 @@ picture: tagradar_tokyo_design_week.png
 
 TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags. It is an undergraduate graduation project that was made in collaboration with myDesignLab. Previously, TagRadar was shown off in Osaka at UbiComp 2015.
 
-<div style = "text-align: center;"><img src = "../../../../projects/tag_radar/img/polished_prototype.png" style = "width:50%;"/></div><br>
+<div style = "text-align: center;"><img src = "../../../../projects/tag_radar/img/polished_prototype.png" style = "max-width:50%;"/></div><br>
 
 Find out more about Tokyo Design Week <a href = "http://tokyodesignweek.jp/en_index.html">here</a>.

@@ -16,14 +16,20 @@
 
 
 <section>
-<h1>{{page.title}}</h1>
-<p class="small">{{ page.date | date_to_long_string }}.</p>
+<h1 style = "text-align: center;">{{page.title}}</h1>
+<div class = "small" style = "text-align: center; margin-right: auto;">{{ page.date | date_to_long_string }}</div><br>
 
 <div style = "width: 50%; margin: auto;">
 <img src = '/news/img/{{page.picture}}'  style = "width: 100%;" title = '{{page.title}}'/>
 </div><br>
 
-<div align = "center"><font size = "4">{{content}}</font></div>
+<div style = "margin-left: auto; margin-right: auto; max-width: 1024px;">
+	{{content}}
+</div>
+
+<form action = "/#load" style = "text-align: center;">
+	<input type = "submit" class = "btn btn-primary" value = "Back to Home"></input>
+</form>
 
 </section>
 

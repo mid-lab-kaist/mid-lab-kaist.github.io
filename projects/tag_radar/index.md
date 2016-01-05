@@ -23,11 +23,13 @@ with beacons or similar technology.
 
 ![](<img/tag_radar_phone.jpg>)
 
+<hr>
+
 **Publications**   
 Shin H-S (Felix), Lee, B., Saakes, D.P. TagRadar: Locating Objects Using a Smart Phone Accessory Proceedings of The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Proceedings. 2015
 
 **Demos**   
-Tokyo Design Week 2015, Oct 24 - Nov 3, Tokyo, Japan.   
-UbiComp 2015, Sept 7 - 11, Osaka, Japan.   
+Tokyo Design Week 2015, 24 Oct 2015 - 3 Nov 2015. Tokyo, Japan.   
+UbiComp 2015, 7 Sept 2015 - 11 Sept 2015. Osaka, Japan.   
 
 

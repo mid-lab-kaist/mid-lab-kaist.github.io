@@ -1,53 +1,52 @@
 - title: Mirror Mirror
-  abstract: Mirror Mirror is a design system that combines spatial augmented reality with a mirror display.
+  abstract: A design system that combines spatial augmented reality with a mirror display.
   link: /projects/mirror
   picture: mirror.jpg
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
 
 - title: User Review Analysis
-  abstract: User Review Analysis is a new technique that uses big data to uncover user needs for product designers.
+  abstract: A new technique that uses big data to uncover user needs for product designers.
   link: /projects/user_review_analysis
   picture: user_review_analysis.png
   picture_change: user_review_analysis_change.png
   picture_gallery: user_review_analysis_gallery.png
   
 - title: Tag Radar
-  abstract: TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags.
+  abstract: A smart phone accessory that helps users to locate objects with radio frequency tags.
   link: /projects/tag_radar
   picture: tag_radar.png
   picture_change: tag_radar_change.png
   picture_gallery: tag_radar_gallery.png
   
 - title: I-Eng
-  abstract: I-Eng is an interactive toy set aiming to teach new languages to young children between the ages of 3 - 5.
+  abstract: An interactive toy set aiming to teach new languages to young children between the ages of 3 - 5.
   link: /projects/i_eng
   picture: i_eng.png
   picture_change: i_eng_change.png
   picture_gallery: i_eng_gallery.png
   
 - title: Interactive Chopsticks
-  abstract: We present interactive training chopsticks that help children develop fine motor skills and eye-hand coordination that are needed for eating with chopsticks.
+  abstract: Interactive training chopsticks that help children develop fine motor skills and eye-hand coordination that are needed for eating with chopsticks.
   link: /projects/chopsticks
   picture: chopsticks.jpg
   picture_change: chopsticks_change.jpg
   picture_gallery: chopsticks_gallery.jpg
 
-
 - title: Flying Camera
-  abstract: We designed novel flying cameras that provide teleoperators a 3rd person view on ground robots.
+  abstract: Novel flying cameras that provide teleoperators a 3rd person view on ground robots.
   link: http://saakes.net/projects/3rd-person
   picture: flying_camera.jpg
   picture_change: flying_camera_change.jpg
 
 - title: Shader Printer
-  abstract: The Shader Printer is a stateful projector display that uses bi-stable color changing inks.
+  abstract: A stateful projector display that uses bi-stable color changing inks.
   link: http://vimeo.com/42260705
   picture: shader_printer.jpg
   picture_change: shader_printer_change.jpg
 
 - title: Skin
-  abstract: Skin is an spatial augmented reality application to "sketch" materials on objects.
+  abstract: An spatial augmented reality application to "sketch" materials on objects.
   link: http://www.studiolab.nl/skin
   picture: skin.jpg
   picture_change: skin_change.jpg
@@ -59,27 +58,27 @@
   picture_change: lampan_change.jpg
 
 - title: Photochromic Carpet
-  abstract: The photochromic carpet is a large size interactive floor display that captures visitors' footsteps in playful prints to make an environment into a canvas of past activities.
+  abstract: A large size interactive floor display that captures visitors' footsteps in playful prints to make an environment into a canvas of past activities.
   link: http://saakes.net/projects/carpet
   picture: carpet.jpg
   picture_change: carpet_change.jpg
 
 - title: Paccam
-  abstract: Paccam helps users of laser cutters to make overlap free 2D layouts.
+  abstract: A tool that assists users of laser cutters to make overlap-free 2D layouts.
   link: http://saakes.net/projects/paccam
   picture: paccam.jpg
   picture_change: paccam_change.jpg
 
 
 - title: Delft Blue By Me
-  abstract: Delft Blue By Me helps tourists design and order their customized Delft Blue pottery.
+  abstract: A system that helps tourists design and order their customized Delft Blue pottery.
   link: http://www.delftbluebyme.com/
   picture: delftblue.jpg
   picture_change: delftblue_change.jpg
 
 
 - title: Slow Display
-  abstract: The Slow Display a novel tradeoff between projection and print.
+  abstract: A novel tradeoff between projection and print.
   link: http://vimeo.com/13505605
   picture: slow.jpg
   picture_change: slow_change.jpg

@@ -6,7 +6,7 @@ weight: 3
 
 
 <section class="members">
-	<h1>People</h1>
+	<h1 style = "text-align: center;">People</h1>
 	<section style = "max-width: 1024px; margin-left: auto; margin-right: auto;">
 	{% for member in site.data.members %}		
 			<div class='grid no-gutters'>
@@ -22,9 +22,9 @@ weight: 3
 	<br>
 		<table style = "width: 80%; margin-left: 20px;">
 			<tr>
-				<td><b>Name</b></td>
-				<td><b>Duration</b></td>
-				<td><b>Project</b></td>
+				<td style = "width: 30%;"><b>Name</b></td>
+				<td style = "width: 15%;"><b>Duration</b></td>
+				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>	
 			<tr>
 				<td>Maria Reyes</td>
@@ -59,9 +59,9 @@ weight: 3
 
 		<table style = "width: 80%; margin-left: 20px;">
 			<tr>
-				<td><b>Name</b></td>
-				<td><b>Duration</b></td>
-				<td><b>Project</b></td>
+				<td style = "width: 30%;"><b>Name</b></td>
+				<td style = "width: 15%;"><b>Duration</b></td>
+				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
 			<tr>
 				<td>Sang Yeob Lee</td>

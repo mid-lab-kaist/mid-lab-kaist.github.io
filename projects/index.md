@@ -5,10 +5,10 @@ weight: 4
 ---
 
 <section>
-	<h1>Projects</h1>
+	<h1 style = "text-align: center;">Projects</h1>
 </section>
 
-<section class="projects">
+<section class = "projects" style = "max-width: 1400px; margin-left: auto; margin-right: auto;">
 
 {% for p in site.data.projects %}
 {%capture pos %}{% cycle 'first', 'second', 'third', 'last' %}{% endcapture %}

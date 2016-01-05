@@ -26,7 +26,8 @@ p {
 
 a {
   text-decoration: none;
-  color: #3399FF;
+  color: #3397ff;
+  
 }
 
 html, body, footer, header, section, nav, article {
@@ -42,6 +43,10 @@ footer, header, section, nav {
 
 body, section {
   background-color:#fff;
+  
+  background-repeat: repeat; 
+  background-attachment: scroll;
+  background-image: url(/style/crossword.png);
 }
 
 section {
@@ -50,13 +55,13 @@ section {
 }
 
 header {
-  /*background-color: #E0005B;
+  /*background-color: #8c999b;
   background-color: #FFF;*/
   
   background-color: #8c999b; 
   background-repeat: repeat; 
   background-attachment: scroll;
-  background-image: url(/style/purty_wood.png);
+  background-image: url(/style/squared_metal.png);
   
   min-height: 100px;
   
@@ -196,6 +201,7 @@ nav .active {
   background-color:#FFFFF0;
   background-repeat: repeat;
   background-attachment: fixed;
+  background-image:none;
 }
 
 
@@ -293,7 +299,7 @@ footer {
   background-color: #8c999b; 
   background-repeat: repeat; 
   background-attachment: scroll;
-  background-image: url(/style/purty_wood.png);
+  background-image: url(/style/squared_metal.png);
 }
 
 footer * h1 {
@@ -306,15 +312,17 @@ footer * h1 {
 }
 
 footer * a{
-  color: #CCE5FF;
+  /*color: #CCE5FF;*/
+  
+  color: #3397ff;
 }
 
 footer * p {
   padding: 0;
   width: 100%;
-  color: #ffffff;
+  color: #000;
   font-weight: 400;
-  font-size: 0.9em;
+  font-size: 1.0em;
   line-height:1.4em;
 }
 
@@ -339,9 +347,9 @@ footer * .idkaist_logo {
 }
 
 .bib {
- margin-left: 20px;
- max-width:700px;
-
+ margin-left: auto;
+ max-width:720px;
+ margin-right:auto;
 }
 .bib ol {
   padding-left:20px;

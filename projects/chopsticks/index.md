@@ -11,5 +11,11 @@ Various sensors are embedded in the interactive chopsticks to capture user behav
 
 ![](<img/chopsticks_in_action.jpg>)
 
-The chopsticks were presented at the ACE 2014 conference in Madeira, Portugal.
+<hr>
+
+**Publications**   
+Chia, F-Y, Saakes, D.P. Interactive Training Chopsticks to improve fine motor skills <i>Proceeding of the 11th Advancements in Computer Entertainment Technology Conference</i>, November 2014, <b>Bronze Demo Award.</b>
+
+**Demos**   
+ACE 2014, 11 Nov 2014 - 14 Nov 2014. Madeira, Portugal.
 

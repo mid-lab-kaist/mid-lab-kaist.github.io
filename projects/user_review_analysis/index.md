@@ -26,10 +26,12 @@ with other methods, as its informational characteristics are complementary.
 
 ![](<img/diagram_picture.png>)
 
+<hr>
+
 **Publications**   
 Lee, B., Sleeswijk Visser, F., Saakes, D.P. Online User Reviews as a Design Resource In proceedings of the International Assocations of Societies of Design Resarch (IASDR) 2015.
 
 **Demos**   
-IASDR 2015, Nov 2 - 5, Brisbane, Australia.
+IASDR 2015, 2 Nov 2015 - 5 Nov 2015. Brisbane, Australia.
 
 

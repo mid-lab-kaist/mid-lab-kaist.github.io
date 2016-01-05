@@ -4,7 +4,7 @@ layout: default
 weight: 5
 ---
 
-<h1>Publications</h1>
+<h1 style = "text-align: center;">Publications</h1>
 
 <p>
 <ol class="bib">
@@ -29,10 +29,10 @@ weight: 5
 <li style="list-style-type:none">Saakes, D.P. <a href="http://opendesignnow.org/">모든 사람이 디자인에 참여하는 세상에서 디자인은 우리의 일상이 될 것이다.</a> In Van Abel, B., et.al. ed. <i>오픈 디자인(Open Design Now) 누구도 독점하지 않는 디자인 누구나 할 수 있는 디자인</i>, Ahn Graphics, Seoul, 2015.</li>
 <li style="list-style-type:none">Verlinden, J., Saakes, D.P., Luxen, R. <a href="http://www.aodr.org/main.php">Learning from the trenches of embodiment design
 The designing, prototyping, and fabricating a large interactive display</a> <i>Archives of Design Research.</i>, KSDS, 28(3) August 2015.</li>
-<li value="2014">Chia, F-Y, Saakes, D.P. <a href="http://www.ace2014.info/">Interactive Training Chopsticks to improve fine motor skills</a> <i>Proceeding of the 11th Advancements in Computer Entertainment Technology Conference</i>, November 2014, <b>Bronze demo award</b></li> 
-<li style="list-style-type:none">Back, S.Y., Min, J., Saakes, D.P. <a href="">Personalizing 3D Printing through rich textures.</a><i>KSDS 2014 Undergraduate Design Research Conference.</i>, October 2014, <b>Second Best Price</b></li> 
+<li value="2014">Chia, F-Y, Saakes, D.P. <a href="http://www.ace2014.info/">Interactive Training Chopsticks to improve fine motor skills</a> <i>Proceeding of the 11th Advancements in Computer Entertainment Technology Conference</i>, November 2014, <b>Bronze Demo Award.</b></li> 
+<li style="list-style-type:none">Back, S.Y., Min, J., Saakes, D.P. <a href="">Personalizing 3D Printing through rich textures.</a><i>KSDS 2014 Undergraduate Design Research Conference.</i>, October 2014, <b>Second Best Prize.</b></li> 
 <li style="list-style-type:none">Lee, B, Saakes, D.P. <a href="">User Review Analysis: Extracting Design Factors from Big Data</a> <i>Proceeding of the 1st Bi-annual Design Conference of Korea Society of Design Science</i>, May 2014, pp. 222-223</li> 
-<li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. In <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013.<b>Best Paper Award</b></li>
+<li value="2013">Saakes, D.P., Choudhary, V., Sakamoto, D., Inami, M., Igarashi, T., A Teleoperating Interface for Ground Vehicles using Autonomous Flying Cameras. In <i>ICAT 2013: The 23rd International Conference on Artificial Reality and Telexistence</i>, Dec 2013. <b>Best Paper Award.</b></li>
 <li style="list-style-type:none">Saakes, D.P., Tsujii, T., Nishimura, K. Hashida, T., Naemura, T., Photochromic Carpet: Playful Floor Canvas with Color-changing Footprints. In <i>ACE 2013: 10th international conference on Advances in Computer Entertainment technology. Creative Showcase</i>, Nov 2013.</li>
 <li style="list-style-type:none">Saakes, D.P., Cambazard, T., Mitani, J. and Igarashi, T., <a href="http://www.jst.go.jp/erato/igarashi/en/projects/PacCAM/pac-cam.pdf">PacCAM: Material Capture and Interactive 2D Packing for Efficient Material Usage on CNC Cutting Machines.</a>  <i>UIST 2013: Proceedings of the 26th annual ACM symposium on User interface software and technology</i>, pp 441-446, Oct 2013.</li>
 <li style="list-style-type:none">Saakes, D.P., <a href="http://design-cu.jp/iasdr2013/papers/1575-2b.pdf">Iterative and Participative Action Research.</a> In <i>IASDR 2013</i>, August 2013.</li>

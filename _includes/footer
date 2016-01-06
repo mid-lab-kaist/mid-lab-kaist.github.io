@@ -2,60 +2,36 @@
 <footer>
   <div class = "grid">   
 	 <div class = "unit one-third">
-		<p>
-			<div id = "wrapper">
-				<div id = "fb-root"></div>
-				<script>(function(d, s, id) {
-				  var js, fjs = d.getElementsByTagName(s)[0];
-				  if (d.getElementById(id)) return;
-				  js = d.createElement(s); js.id = id;
-				  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-				  fjs.parentNode.insertBefore(js, fjs);
-				}(document, 'script', 'facebook-jssdk'));</script>
-
-				<div class = "fb-follow" data-href = "https://www.facebook.com/mydesignlabkaist" data-layout = "standard" data-show-faces = "true"></div>
-
-				<a class = "twitter-follow-button" href = "https://twitter.com/myIDKAIST">Follow @myIDKAIST</a>
-
-				<script>window.twttr = (function(d, s, id) {
-				  var js, fjs = d.getElementsByTagName(s)[0],
-					t = window.twttr || {};
-				  if (d.getElementById(id)) return t;
-				  js = d.createElement(s);
-				  js.id = id;
-				  js.src = "https://platform.twitter.com/widgets.js";
-				  fjs.parentNode.insertBefore(js, fjs);
-					 
-				  t._e = [];
-				  t.ready = function(f) {
-					t._e.push(f);
-				  };
-						 
-				  return t;
-				}(document, "script", "twitter-wjs"));</script>
-
-				<br>
-
-				<a href = "https://github.com/mid-lab-kaist"><img src = "/style/github.png" width = "147" height = "20" alt = "Follow on Github" /></a>
-			</div>
+		<p style = "width = 100%; margin-right: auto; margin-left: auto; text-align: center;">
+		<br>
+			<a href = "https://www.facebook.com/mydesignlabkaist/" target = "_blank" style = "margin-left: 3%; margin-right: 3%;" ><img src = "/style/facebook_icon.png" alt = "Facebook Icon" style = "min-width: 32px; width: 10%;"/></a>
+			<a href = "https://twitter.com/myIDKAIST" target = "_blank" style = "margin-left: 3%; margin-right: 3%;"><img src = "/style/twitter_icon.png" alt = "Twitter Icon" style = "min-width: 32px; width: 10%;"/></a>
+			<a href = "https://github.com/mid-lab-kaist" target = "_blank" style = "margin-left: 3%; margin-right: 3%;"><img src = "/style/github_icon.png" alt = "Github Icon" style = "min-width: 32px; width: 10%;"/></a>
+			<a href = "https://vimeo.com/mydesignlab" target = "_blank" style = "margin-left: 3%; margin-right: 3%;"><img src = "/style/vimeo_icon.png" alt = "Vimeo Icon" style = "min-width: 32px; width: 10%;"/></a>
+			
 		</p>
-	</div>
+	</div> 
 	
 	<div class = "unit one-third">
 		<p>
 		<div id = "copyright" style = "text-align: center;">
-			<p style = "width = 100%; margin-right: auto; margin-left: auto;">
-				myDesignLab, <a href = "http://id.kaist.ac.kr" target = "_blank">Department of Industrial Design</a>, <a href = "http://kaist.ac.kr" target = "_blank">KAIST</a><br>
+			<p style = "width = 100%; margin-right: auto; margin-left: auto;">		
+
+				<br>
 				Building N25, Room 311, 291 Daehak-Ro, Yuseong-Gu, Daejeon 34141, Republic of Korea <br>
-				<strong>Tel:</strong> +82 (0) 42 350 4525 / <strong>Fax:</strong> +82 (0) 42 350 4510 / <strong>Email:</strong> <a href = "mailto:saakes@kaist.ac.kr">saakes@kaist.ac.kr</a><br>
-				(c) 2013. Some rights reserved.
+				<b>Tel:</b> +82 (0) 42 350 4525 / <b>Fax:</b> +82 (0) 42 350 4510 / <b>Email:</b> <a href = "mailto:saakes@kaist.ac.kr">saakes@kaist.ac.kr</a><br>
+				myDesignLab is affiliated with the <a href = "http://id.kaist.ac.kr" target = "_blank">Department of Industrial Design</a> at <a href = "http://kaist.ac.kr" target = "_blank">KAIST</a>.			
+				
 			</p>
 			</div>
 		</p>
 	</div>
 	
 	<div class = "unit one-third">
-		<a href = "http://id.kaist.ac.kr" target = "_blank"><img src = "/style/IDKAIST_Icon.png" class = "idkaist_logo" alt = "idKAIST logo" style = "float: right;"/></a>
+		<p style = "width = 100%; margin-right: auto; margin-left: auto; text-align: center;">
+			<br>
+			<a href = "http://kaist.ac.kr" target = "_blank"><img src = "/style/kaist_logo.png" alt = "KAIST Logo" style = "min-width: 128px; width: 40%;" /></a>
+		</p>
 	</div> 
 
 	</div> <!-- grid -->

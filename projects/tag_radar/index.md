@@ -26,7 +26,7 @@ with beacons or similar technology.
 <hr>
 
 **Publications**   
-Shin H-S (Felix), Lee, B., Saakes, D.P. TagRadar: Locating Objects Using a Smart Phone Accessory Proceedings of The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Proceedings. 2015
+Felix Shin, Bokyung Lee, Daniel Saakes. TagRadar: Locating Objects Using a Smart Phone Accessory Proceedings of The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Proceedings. 2015
 
 **Demos**   
 Tokyo Design Week 2015, 24 Oct 2015 - 3 Nov 2015. Tokyo, Japan.   

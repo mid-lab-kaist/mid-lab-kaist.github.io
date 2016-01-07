@@ -15,7 +15,8 @@ Play is one of the main learning activities of children. We aim to expand second
 <hr>
 
 **Publications**   
-Jeong, H., Saakes, D.P., Lee, U., *I-Eng: An Interactive Toy for Second Language Learning.* Ubicomp Adjunct Proceedings. 2015.
+Hayeon Jeong, Daniel Saakes, Uichin Lee, et al. *Demo Hour 1. I-Eng: A Toy for Second-Language Learning in Demo Hour.* January 2016 interactions: Volume 23 Issue 1, January + February 2016<br>
+Hayeon Jeong, Daniel Saakes, Uichin Lee, *I-Eng: An Interactive Toy for Second Language Learning.* Ubicomp Adjunct Proceedings. 2015.
 
 **Demos**   
 Tokyo Designers Week 2015, 25 Oct 2015 - 3 Nov 2015. Tokyo, Japan.   

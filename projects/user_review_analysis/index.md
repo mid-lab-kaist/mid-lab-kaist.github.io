@@ -29,7 +29,7 @@ with other methods, as its informational characteristics are complementary.
 <hr>
 
 **Publications**   
-Lee, B., Sleeswijk Visser, F., Saakes, D.P. Online User Reviews as a Design Resource In proceedings of the International Assocations of Societies of Design Resarch (IASDR) 2015.
+Bokyung Lee, Froukje Sleeswijk Visser, Daniel Saakes. Online User Reviews as a Design Resource In proceedings of the International Assocations of Societies of Design Resarch (IASDR) 2015.
 
 **Demos**   
 IASDR 2015, 2 Nov 2015 - 5 Nov 2015. Brisbane, Australia.

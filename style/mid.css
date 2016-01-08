@@ -27,12 +27,16 @@ p {
 a {
   text-decoration: none;
   color: #3397ff;
-  
+}
+
+footer a:hover, header a:hover
+{
+	color: #4EBDEC;
+	text-decoration: none;
 }
 
 a:hover
 {
-	color: #cc00cc;
 	text-decoration: none;
 }
 
@@ -67,7 +71,7 @@ header {
   background-color: #8c999b; 
   background-repeat: repeat; 
   background-attachment: scroll;
-  background-image: url(/style/squared_metal.png);
+  background-image: url(/style/squared_metal_dark.png);
   
   min-height: 130px;
   
@@ -306,7 +310,7 @@ footer {
   background-color: #8c999b; 
   background-repeat: repeat; 
   background-attachment: scroll;
-  background-image: url(/style/squared_metal.png);
+  background-image: url(/style/squared_metal_dark.png);
 }
 
 footer * h1 {
@@ -327,7 +331,7 @@ footer * a{
 footer * p {
   padding: 0;
   width: 100%;
-  color: #000;
+  color: #FFF;
   font-weight: 400;
   font-size: 1.0em;
   line-height:1.4em;

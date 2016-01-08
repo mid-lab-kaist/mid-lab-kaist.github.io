@@ -21,6 +21,7 @@ weight: 3
 
 	<br>
 		<table style = "width: 80%; margin-left: 20px;">
+			<caption>Undergradute Students</caption>
 			<tr>
 				<td style = "width: 30%;"><b>Name</b></td>
 				<td style = "width: 15%;"><b>Duration</b></td>
@@ -58,6 +59,7 @@ weight: 3
 	<br>
 
 		<table style = "width: 80%; margin-left: 20px;">
+			<caption>Previous Undergradute Students</caption>
 			<tr>
 				<td style = "width: 30%;"><b>Name</b></td>
 				<td style = "width: 15%;"><b>Duration</b></td>

@@ -2,7 +2,7 @@
 <header>
 <div style = "width: 100%; text-align: center; position: relative;">
 	<a href = "/">
-		<img src = "/img/logo.png" style = "min-width: 256px; max-width: 30%" />
+		<img src = "/img/Lab-Logo-Blue.png" alt = "myDesignLab" title = "myDesignLab" style = "min-width: 256px; max-width: 30%" />
 	</a>
 
 	<nav style = "position: absolute; left: 0; right: 0; top: 65%; margin-left: auto; margin-right: auto;">

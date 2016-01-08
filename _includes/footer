@@ -1,72 +1,38 @@
 <!-- footer include -->
 <footer>
-  <div class="grid">
-     <div class="unit one-third">
-        <h1>about</h1>
-        <p>
-In My Design Lab at Industrial Design we look at users as the designers of their own life.
-</p>
-<p>
-We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
-</p>
+  <div class = "grid">   
+	 <div class = "unit one-third">
+		<p style = "width = 100%; margin-right: auto; margin-left: auto; text-align: center;">
+		<br>
+			<a href = "https://www.facebook.com/mydesignlabkaist/" target = "_blank" style = "margin-left: 2%; margin-right: 2%;" ><img src = "/style/facebook_icon.png" onmouseover = "this.src = '/style/facebook_icon_hover.png'" onmouseout = "this.src = '/style/facebook_icon.png'" alt = "Facebook Icon" style = "min-width: 32px; width: 5%;"/></a>
+			<a href = "https://twitter.com/myIDKAIST" target = "_blank" style = "margin-left: 2%; margin-right: 2%;"><img src = "/style/twitter_icon.png" onmouseover = "this.src = '/style/twitter_icon_hover.png'" onmouseout = "this.src = '/style/twitter_icon.png'" alt = "Twitter Icon" style = "min-width: 32px; width: 5%;"/></a>
+			<a href = "https://github.com/mid-lab-kaist" target = "_blank" style = "margin-left: 2%; margin-right: 2%;"><img src = "/style/github_icon.png" onmouseover = "this.src = '/style/github_icon_hover.png'" onmouseout = "this.src = '/style/github_icon.png'" alt = "Github Icon" style = "min-width: 32px; width: 5%;"/></a>
+			<a href = "https://vimeo.com/mydesignlab" target = "_blank" style = "margin-left: 2%; margin-right: 2%;"><img src = "/style/vimeo_icon.png" onmouseover = "this.src = '/style/vimeo_icon_hover.png'" onmouseout = "this.src = '/style/vimeo_icon.png'" alt = "Vimeo Icon" style = "min-width: 32px; width: 5%;"/></a>
+			
+		</p>
+	</div> 
+	
+	<div class = "unit one-third">
+		<p>
+		<div id = "copyright" style = "text-align: center;">
+			<p style = "width = 100%; margin-right: auto; margin-left: auto;">		
 
-<img src="/style/idKAIST.png" class="idkaist_logo" alt="idKAIST logo"/>
+				Building N25, Room 311, 291 Daehak-Ro, Yuseong-Gu, Daejeon 34141, Republic of Korea <br>
+				<b>Tel:</b> +82 (0) 42 350 4565 / <b>Fax:</b> +82 (0) 42 350 4510 / <b>Email:</b> <a href = "mailto:mydesign.kaist@gmail.com">mydesign.kaist@gmail.com</a><br>
+				myDesignLab of the <a href = "http://id.kaist.ac.kr" target = "_blank">Department of Industrial Design</a> at <a href = "http://kaist.ac.kr" target = "_blank">KAIST</a>.			
+				
+			</p>
+			</div>
+		</p>
+	</div>
+	
+	<div class = "unit one-third">
+		<p style = "width = 100%; margin-right: auto; margin-left: auto; text-align: center;">
+			<br>
+			<a href = "http://kaist.ac.kr" target = "_blank"><img src = "/style/kaist_logo_white.png" onmouseover = "this.src = '/style/kaist_logo.png'" onmouseout = "this.src = '/style/kaist_logo_white.png'" alt = "KAIST Logo" style = "min-width: 128px; width: 25%;" /></a>
+		</p>
+	</div> 
 
-</div>
-     <div class="unit one-third">
-        <h1>follow us</h1>
-<p>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="fb-follow" data-href="https://www.facebook.com/mydesignlabkaist" data-layout="standard" data-show-faces="true"></div>
-
-<a class="twitter-timeline" href="https://twitter.com/myIDKAIST" data-widget-id="413292405496885249">Tweets by @myIDKAIST</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<a href="/feeds"><img src="/style/feed_icon.png" width="20" height="20" alt="feed"/></a>
-<a href="https://github.com/mid-lab-kaist"><img src="/style/github.png" width="147" height="20" alt="Follow on Github" /></a>
-
-
-
-
-
-</p>
-
-</div>
-     <div class="unit one-third">
-        <h1>contact</h1>
-<p>
-My Design Lab is based in the department of <a href="http://id.kaist.ac.kr">Industrial Design</a> at <a href="http://kaist.ac.kr">KAIST</a> Korea. We are one hour from Seoul and you can find us by following these <a href="/contact">directions</a>.
-</p>
-<p>
-<strong>Address:</strong> My Design Lab, ID KAIST, Room 417~9, Building N25, 291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
-<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
-<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
-<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
-<strong>Email:</strong> saakes@kaist.ac.kr<br/>
-</p>
-
-</div>
-
-</div> <!-- grid -->
-
-<div class="grid">
-<div id="copyright" class="unit half">
-<p>(c) 2013 My Design Lab KAIST. Some rights reserved.</p>
-</div>
-<div id="credits"  class="unit half">
-<p>Based on awesome open source CSS projects.</p>
-</div>
-
-</div> <!-- grid -->
-<div class="clearfix"></div>
+	</div> <!-- grid -->
+	<div class = "clearfix"></div>
 </footer>
-

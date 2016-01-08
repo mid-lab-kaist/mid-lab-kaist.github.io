@@ -1,0 +1,213 @@
+<!doctype html>
+<html>
+
+<head>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>myDesignLab {{page.title}}</title>
+
+{% include header_stylesheets %}
+
+
+ <style type="text/css"> 
+  #map-canvas { height: 400px; width: 100%; margin:0; padding:0; }
+  #ktx-timetable {margin:30px;}
+  .tg  {border-collapse:collapse;border-spacing:0;}
+  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+  .tg .tg-s6z2{text-align:center}
+  .tg .tg-hgcj{font-weight:bold;text-align:center}
+ </style>
+ <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script>
+var map;
+var idkaist = new google.maps.LatLng(36.373656, 127.361798);
+
+function initialize() {
+  var mapOptions = {
+    zoom: 14,
+    center: idkaist,
+    scrollwheel: false,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+ 
+
+  map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+
+marker = new google.maps.Marker({
+    map:map,
+    draggable: true,
+    animation: google.maps.Animation.DROP,
+    position: idkaist
+  });
+
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+
+
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+{% include header_nav %}
+
+<div id="map-canvas">&nbsp;</div>
+
+
+<section id="address">
+
+<p><strong>Address:</strong> My Design Lab, Building N25,Room 311,  291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
+<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
+<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
+<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
+<strong>Email:</strong> saakes@kaist.ac.kr<br/>
+</p>
+</section>
+
+
+
+<!--<section id="kaist-map">
+<img src="img/campusmap_idKaist.jpg" alt="map of kaist bldg. N25 highlighted" />
+
+</section>
+
+<section id ="Limousine Bus">
+<p style="font-size:2.0em;"><strong>How to get to ID KAIST</strong>
+</p>
+<p style="font-size:1.5em;"><strong> [ Airport Limousine Bus ]</strong> 
+</p>
+<p> <strong>We recommend one of two ways to get to KAIST from the airports.</strong><br/>
+  by Airpot Limousine bus and Express Train(KTX). The picture and explanation below will help your comfortable travel</p>
+  <img src="img/way_incheon.jpg" width ="100%"/></br>
+  <img src="img/way_gimpo.jpg" width ="100%"/></br>
+</p>
+<p style="font-size:1.5em;"><strong> 1. Airport to Daejeon Government Complex</br> </strong> 
+</p>
+<p>
+      <strong>1) Incheon International Airport - Daejeon Government Complex</strong></br>
+      You can buy the limousine bus tickets for Daejeon Government Complex at the Transportation Information Counters (near the exits 4, 6, 7, 8, 11, 13 on the 1st floor). With the bus ticket, you should go to 9D (The bus stop for Daejeon Government Complex) on the 1st floor to get on the bus. The bus runs every 30 minutes from 06:00 to 23:10 and it will take you about 2 hours 30 minutes to 3 hours.</br>
+      <img src="img/way1.jpg" width ="100%"/></br>
+
+      <strong>2) Gimpo International Airport - Daejeon Government Complex</strong></br>
+      You can buy the limousine bus tickets for Daejeon Government Complex at the 2nd floor. With the bus ticket, you should go to gate 3. The bus runs 7:25, 10:55, 11:55, 13:55, 14:55, 16:55, 18:45, and 20:25 and it will take you about 150 to 180 minutes.</br>
+      <img src="img/way4.jpg" width ="100%"/>
+</p>
+<p style="font-size:1.5em;"><strong> 2. Daejeon Government Complex to KAIST </strong> 
+</p>
+<p>
+      We strongly recommend that you take a taxi to get to KAIST upon arrival at Daejeon Government Complex. It should not be difficult to get a taxi around the Bus Terminal. Please tell the driver your destination <strong>(KAIST, Building N25 / 한국과학기술원 N25)</strong> and show our map. It will take about 10 minutes and cost you about KRW 5,000.</br>
+</p>
+</section>
+
+<section id="ktx">
+<p style="font-size:1.5em;"><strong> [ Express Train - KTX ]</strong> 
+</p>
+<p style="font-size:1.5em;"><strong> 1. Airport to Seoul Station </strong> 
+</p>
+<p>
+      <img src="img/airport_express.jpg" width ="100%"/></br>
+      <strong>1) Incheon International Airport - [Subway] - Seoul Station</strong></br>
+      You can buy the Airport Railroad tickets for Seoul Station at the Airport Railroad (AREX) Incheon International Airport Station (B1 Floor). The AREX runs at the average interval of 12 minutes from 05:20 to 24:00 and it will take about 50 minutes.</br>
+      <strong>2) Gimpo International Airport - [Subway] - Seoul Station</strong></br>
+      The Airport Express Line passes through Gimpo Int'l Airport and it will take about 20 minutes.</br>
+</p>
+<p style="font-size:1.5em;"><strong> 2. Seoul Station to Daejeon Station </strong> 
+</p>
+<p>
+  At Seoul Station, you can take the KTX (Korean Train Express), which is the fastest train in Korea. It runs at the average speed of 300km per hour and will comfortably take you to Daejeon Station within an hour. Please note that the fare is relatively higher than that of Airport Limousine bus.
+</p>
+<p style="font-size:1.5em;"><strong> 3. Daejeon Station to KAIST</strong> 
+</p>
+<p>
+  We strongly recommend that you take a taxi to get to hotels or KAIST upon arrival at Daejeon Station. It should not be difficult to get a taxi at Daejeon Station. Please tell the driver your destination <strong>(KAIST, Building N25 / 한국과학기술원 N25)</strong> and show our map. It will take about 20 to 25 minutes and cost you about KRW 10,000.
+</p>
+</section>--><!--{% include header_nav %}
+
+<div id="map-canvas">&nbsp;</div>
+
+
+<section id="address">
+
+<p><strong>Address:</strong> My Design Lab, Building N25,Room 311,  291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
+<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
+<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
+<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
+<strong>Email:</strong> saakes@kaist.ac.kr<br/>
+</p>
+</section>
+
+
+
+<section id="kaist-map">
+<img src="img/campusmap_idKaist.jpg" alt="map of kaist bldg. N25 highlighted" />
+
+</section>
+
+<section id ="Limousine Bus">
+<p style="font-size:2.0em;"><strong>How to get to ID KAIST</strong>
+</p>
+<p style="font-size:1.5em;"><strong> [ Airport Limousine Bus ]</strong> 
+</p>
+<p> <strong>We recommend one of two ways to get to KAIST from the airports.</strong><br/>
+  by Airpot Limousine bus and Express Train(KTX). The picture and explanation below will help your comfortable travel</p>
+  <img src="img/way_incheon.jpg" width ="100%"/></br>
+  <img src="img/way_gimpo.jpg" width ="100%"/></br>
+</p>
+<p style="font-size:1.5em;"><strong> 1. Airport to Daejeon Government Complex</br> </strong> 
+</p>
+<p>
+      <strong>1) Incheon International Airport - Daejeon Government Complex</strong></br>
+      You can buy the limousine bus tickets for Daejeon Government Complex at the Transportation Information Counters (near the exits 4, 6, 7, 8, 11, 13 on the 1st floor). With the bus ticket, you should go to 9D (The bus stop for Daejeon Government Complex) on the 1st floor to get on the bus. The bus runs every 30 minutes from 06:00 to 23:10 and it will take you about 2 hours 30 minutes to 3 hours.</br>
+      <img src="img/way1.jpg" width ="100%"/></br>
+
+      <strong>2) Gimpo International Airport - Daejeon Government Complex</strong></br>
+      You can buy the limousine bus tickets for Daejeon Government Complex at the 2nd floor. With the bus ticket, you should go to gate 3. The bus runs 7:25, 10:55, 11:55, 13:55, 14:55, 16:55, 18:45, and 20:25 and it will take you about 150 to 180 minutes.</br>
+      <img src="img/way4.jpg" width ="100%"/>
+</p>
+<p style="font-size:1.5em;"><strong> 2. Daejeon Government Complex to KAIST </strong> 
+</p>
+<p>
+      We strongly recommend that you take a taxi to get to KAIST upon arrival at Daejeon Government Complex. It should not be difficult to get a taxi around the Bus Terminal. Please tell the driver your destination <strong>(KAIST, Building N25 / 한국과학기술원 N25)</strong> and show our map. It will take about 10 minutes and cost you about KRW 5,000.</br>
+</p>
+</section>
+
+<section id="ktx">
+<p style="font-size:1.5em;"><strong> [ Express Train - KTX ]</strong> 
+</p>
+<p style="font-size:1.5em;"><strong> 1. Airport to Seoul Station </strong> 
+</p>
+<p>
+      <img src="img/airport_express.jpg" width ="100%"/></br>
+      <strong>1) Incheon International Airport - [Subway] - Seoul Station</strong></br>
+      You can buy the Airport Railroad tickets for Seoul Station at the Airport Railroad (AREX) Incheon International Airport Station (B1 Floor). The AREX runs at the average interval of 12 minutes from 05:20 to 24:00 and it will take about 50 minutes.</br>
+      <strong>2) Gimpo International Airport - [Subway] - Seoul Station</strong></br>
+      The Airport Express Line passes through Gimpo Int'l Airport and it will take about 20 minutes.</br>
+</p>
+<p style="font-size:1.5em;"><strong> 2. Seoul Station to Daejeon Station </strong> 
+</p>
+<p>
+  At Seoul Station, you can take the KTX (Korean Train Express), which is the fastest train in Korea. It runs at the average speed of 300km per hour and will comfortably take you to Daejeon Station within an hour. Please note that the fare is relatively higher than that of Airport Limousine bus.
+</p>
+<p style="font-size:1.5em;"><strong> 3. Daejeon Station to KAIST</strong> 
+</p>
+<p>
+  We strongly recommend that you take a taxi to get to hotels or KAIST upon arrival at Daejeon Station. It should not be difficult to get a taxi at Daejeon Station. Please tell the driver your destination <strong>(KAIST, Building N25 / 한국과학기술원 N25)</strong> and show our map. It will take about 20 to 25 minutes and cost you about KRW 10,000.
+</p>
+</section>-->
+
+
+{% include footer %}
+
+</body>
+</html>

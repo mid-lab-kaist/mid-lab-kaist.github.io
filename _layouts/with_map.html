@@ -4,7 +4,7 @@
 <head>
  <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
- <title>my DESIGN LAB {{page.title}}</title>
+ <title>myDesignLab {{page.title}}</title>
 
 {% include header_stylesheets %}
 
@@ -47,136 +47,45 @@ marker = new google.maps.Marker({
 google.maps.event.addDomListener(window, 'load', initialize);
 
     </script>
-
-
-
-
-
 </head>
 
 <body>
 
 {% include header_nav %}
 
+<section>
+	<h1 style = "text-align: center;">Contact and Directions</h1>
+</section>
+
 <div id="map-canvas">&nbsp;</div>
 
+<div style = "margin-left: auto; margin-right: auto; max-width: 1024px;">
+	<p style = "margin-left: 20px;">
+		<br>
+		myDesignLab is located in Daejeon, South Korea, a city an hour south of the capital, Seoul.<br><br>
+		<strong>Address:</strong> myDesignLab, Building N25, Room 311, 291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
+		<strong>Tel:</strong> +82 (0) 42 350 4565<br/>
+		<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
+		<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
+		<strong>Email:</strong> <a href = "mailto:mydesign.kaist@gmail.com">mydesign.kaist@gmail.com</a><br/>
+	</p>
+</div>
 
-<section id="address">
+<hr>
 
-<p><strong>Address:</strong> My Design Lab, ID KAIST, Room 417~9, Building N25, 291 Daehak-Ro Yuseong-Gu, Daejeon 34141, Republic of Korea <br/>
-<strong>Tel:</strong> +82 (0) 42 350 4525<br/>
-<strong>Tel:</strong> +82 (0) 42 350 4502 (ID KAIST)<br/>
-<strong>Fax:</strong> +82 (0) 42 350 4510<br/>
-<strong>Email:</strong> saakes@kaist.ac.kr<br/>
-</p>
-</section>
-
-
-
-<section id="kaist-map">
-<img src="img/campusmap_idKaist.jpg" alt="map of kaist bldg. N25 highlighted" />
-
-</section>
-<section id ="Limousine Bus">
-<p style="font-size:2.0em;"><strong>How to get to id KAIST</strong>
-</p>
-<p style="font-size:1.5em;"><strong> [ Airport Limousine Bus ]</strong> 
-</p>
-<p> <strong>We recommend 2 main ways from Two Int'l Airport to KAIST</strong><br/>
-  by Airpot Limousine bus and Express Train(KTX). The picture and explanation below will help your comfortable travel</p>
-  <img src="img/way_incheon.jpg" width ="100%"/></br>
-  <img src="img/way_gimpo.jpg" width ="100%"/></br>
-</p>
-<p style="font-size:1.5em;"><strong> 1. Airport to Daejeon Government Complex</br> </strong> 
-</p>
-<p>
-      <strong>1) Incheon Int'l Airport - Daejeon Government Complex</strong></br>
-      You can buy the limousine bus tickets for Daejeon Government Complex at the Transportation Information Counters (near the exits 4, 6, 7, 8, 11, 13 on the 1st floor). With the bus ticket, you should go to 9D (The bus stop for Daejeon Government Complex) on the 1st floor to get on the bus. The bus runs every 30 minutes from 06:00 to 23:10 and it will take you about 2 hours 30 minutes~3 hours and cost you KRW 23,100 as of January, 2013.</br>
-      <img src="img/way1.jpg" width ="100%"/></br>
-
-      <strong>2) Gimpo Int'l Airport - Daejeon Government Complex</strong></br>
-      You can buy the limousine bus tickets for Daejeon Government Complex at the 2nd floor. With the bus ticket, you should go to gate 3. The bus runs 7:25, 10:55, 11:55, 13:55, 14:55, 16:55, 18:45, and 20:25 and it will take you about 150~180 minutes and cost you KRW 14,300 as of January, 2013.</br>
-      <img src="img/way4.jpg" width ="100%"/>
-</p>
-<p style="font-size:1.5em;"><strong> 2. Daejeon Government Complex to KAIST(Venue) </strong> 
-</p>
-<p>
-      We strongly recommend that you take a taxi to get to KAIST upon arrival at Daejeon Government Complex. It should not be difficult to get a taxi around Bus Terminal. Please tell the driver your destination <strong>(KAIST, Industrial Design Building B/D No. #N25 / In Korean, KAIST SanEop Design Hakkua Building)</strong>. It will take about 10 minutes and cost you about KRW 5,000.</br>
-</p>
-</section>
-
-<section id="ktx">
-<p style="font-size:1.5em;"><strong> [ Express Train - KTX ]</strong> 
-</p>
-<p style="font-size:1.5em;"><strong> 1. Airport to Seoul Station </strong> 
-</p>
-<p>
-      <img src="img/airport_express.jpg" width ="100%"/></br>
-      <strong>1) Incheon Int'l Airport - [Subway] - Seoul Station</strong></br>
-      You can buy the Airport Railroad tickets for Seoul Station at the Airport Railroad (AREX) Incheon Int’l Airport Station (B1 Floor). The AREX runs at the average interval of 12 minutes from 05:20 to 24:00 and it will take about 50 minutes and cost you 4,050 won as of January, 2013. And the deposit is 500 won.</br>
-      <strong>2) Gimpo Int'l Airport - [Subway] - Seoul Station</strong></br>
-      The Airport Express Line passes through Gimpo Int'l Airport and it will take about 20 minutes.</br>
-</p>
-<p style="font-size:1.5em;"><strong> 2. Seoul Station to Daejeon Station </strong> 
-</p>
-<p>
-  At Seoul Station, you can take KTX (Korean Train Express), which is the fastest train in Korea. It runs at the average speed of 300km per hour and will comfortably take you to Daejeon Station within an hour. Please note that its fare is relatively higher than that of Airport Limousine bus. Please refer the table below.
-</p>
-  <div id="ktx-timetable">
-    <table class="tg">
-          <tr>
-            <th class="tg-hgcj">Interval</th>
-            <th class="tg-hgcj" colspan="2">10~20 minutes</th>
-          </tr>
-          <tr>
-            <td class="tg-hgcj">Travel Time</td>
-            <td class="tg-s6z2" colspan="2">55~60 minutes</td>
-          </tr>
-          <tr>
-            <td class="tg-hgcj" rowspan="2">The First Train</td>
-            <td class="tg-s6z2">To Daejeon Station</td>
-            <td class="tg-s6z2">5:25</td>
-          </tr>
-          <tr>
-            <td class="tg-s6z2">To Seoul Station</td>
-            <td class="tg-s6z2">6:20</td>
-          </tr>
-          <tr>
-            <td class="tg-hgcj" rowspan="2">The Last Train</td>
-            <td class="tg-s6z2">To Daejeon Station</td>
-            <td class="tg-s6z2">22:30</td>
-          </tr>
-          <tr>
-            <td class="tg-s6z2">To Seoul Station</td>
-            <td class="tg-s6z2">23:28</td>
-          </tr>
-          <tr>
-            <td class="tg-hgcj" rowspan="2">Week Rate</td>
-            <td class="tg-s6z2">To Daejeon Station</td>
-            <td class="tg-s6z2">KRW 30,800</td>
-          </tr>
-          <tr>
-            <td class="tg-s6z2">To Seoul Station</td>
-            <td class="tg-s6z2">KRW 22,000</td>
-          </tr>
-          <tr>
-            <td class="tg-hgcj" rowspan="2">Weekend Rate<br>[Fri,Sat,Sun]</td>
-            <td class="tg-s6z2">To Daejeon Station</td>
-            <td class="tg-s6z2">KRW 33,200</td>
-          </tr>
-          <tr>
-            <td class="tg-s6z2">To Seoul Station</td>
-            <td class="tg-s6z2">KRW 23,700</td>
-          </tr>
-        </table>
-  </div>
-<p style="font-size:1.5em;"><strong> 3. Daejeon Station to KAIST(Venue) </strong> 
-</p>
-<p>
-  We strongly recommend that you take a taxi to get to hotels or KAIST upon arrival at Daejeon Station. It should not be difficult to get a taxi at Daejeon Station. Please tell the driver your destination <strong>(KAIST, Industrial Design Building B/D No. #N25 / In Korean, KAIST SanEop Design Hakkua Building)</strong>. It will take about 20~25 minutes and cost you about KRW 7,000~8000.
-</p>
-</section>
-
+<div style = "margin-left: auto; margin-right: auto; max-width: 1024px;">
+	<p style = "margin-left: 20px;">
+		 To reach KAIST by subway, get off at <b>Wolpyeong Station (월평역)</b> and take exit 3. Walk straight and you will cross two rivers. After crossing the second river (near Home Plus), turn right and after a five minute walk you will reach the KAIST main gate on your left. Alternatively, there is also a shuttle bus that runs on weekdays. The full schedule can be found <a href = "http://www.kaist.edu/html/en/kaist/kaist_010701.html" target = "_blank">here</a>.
+		 
+		 <br><br>
+		 
+		 KAIST can also be reached by bus. The <b>KAIST Bus Stop (한국과학기술원)</b> is right in front of the main gate and is serviced by buses 104, 121 and 604.
+		
+		<br><br>
+		
+		For more detailed instructions on getting to <b>Daejeon from Seoul</b>, please refer to <a href = "myDesignLab Directions.pdf" target = "_blank">these instructions</a>.
+	</p>
+</div>
 
 {% include footer %}
 

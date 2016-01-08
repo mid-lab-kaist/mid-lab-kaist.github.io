@@ -1,25 +1,24 @@
 - name: Daniel Saakes
   title: Director
   picture: daniel.jpg
-  bio: Daniel Saakes (석 다니엘) is trained as an industrial design engineer at <a href="http://www.tudelft.nl/">Delft University of Technology</a> and he likes <strong>making things</strong> and making <strong>things that make things</strong>. In recent years he has been active at <a href="http://www.studiolab.nl">ID Studiolab</a>, <a href="http://cameraculture.media.mit.edu/">MIT Medialab</a>, <a href="http://kmd.keio.ac.jp">Keio University</a>, <a href="http://www.designinterface.jp">Japan Science and Technology Agency</a>, <a href="http://www.nae-lab.org">University of Tokyo</a> and <a href="http://www.dh.umu.se">Umea Institute of Design</a>.<br/><br> <a href="http://saakes.net">Personal Home Page</a>
+  bio: Daniel Saakes (석 다니엘) is trained as an industrial design engineer at <a href = "http://www.tudelft.nl/" target = "_blank">Delft University of Technology</a> and he likes <strong>making things</strong> and <strong>making things that make things</strong>. In recent years he has been active at <a href = "http://www.studiolab.nl" target = "_blank">ID Studiolab</a>, <a href = "http://cameraculture.media.mit.edu/" target = "_blank">MIT Medialab</a>, <a href = "http://kmd.keio.ac.jp" target = "_blank">Keio University</a>, <a href = "http://www.designinterface.jp" target = "_blank">Japan Science and Technology Agency</a>, <a href = "http://www.nae-lab.org" target = "_blank">University of Tokyo</a> and <a href = "http://www.dh.umu.se" target = "_blank">Umea Institute of Design</a>.<br><br> <a href = "http://saakes.net" target = "_blank">Personal Home Page</a>
 
-- name: Lydia Bo Kyung Lee
+- name: Lydia Bokyung Lee
   title: PhD Student
-  bio: Lydia Bo Kyung Lee graduated ID Kaist with MyPill++, a pill container design for seniors. She started in Spring of 2014 in the graduate school of Industrial Design with the tentative topic of Designing in the Living Room.
+  bio: Bokyung graduated ID Kaist with MyPill++, a pill container design for seniors. She started in Spring of 2014 in the graduate school of Industrial Design with the tentative topic of Designing in the Living Room. <br><br><a href = "http://lydiabklee.com/" target = "_blank"> Portfolio </a>
   picture: bokyung.png
 
 - name : Gyeol Han
   title : Master's Candidate
   picture: gyeol.jpg
-  bio : Gyeol Han graduated KAIST's undergraduate Industrial Design program with BOP, Between Openness and Privacy, tools to protect privacy offline. She joined the My Design Lab in Spring of 2015. She is interested in various design areas such as visual communication as well as merging technology with design.
-
+  bio : Gyeol graduated KAIST's undergraduate Industrial Design program with BOP, Between Openness and Privacy, tools to protect privacy offline. She joined the My Design Lab in Spring of 2015. She is interested in various design areas such as visual communication as well as merging technology with design. <br><br><a href = "http://gyeol.co/" target = "_blank"> Portfolio </a>
 
 - name : Minjoo Lisa Cho
   title : Master's Candidate
-  bio: Minjoo Cho received her bachelors degree in Electrical Engineering in 2011 at KAIST and worked as a Product Manager at Samsung Electronics until 2014. She joined the lab in Spring of 2015.
+  bio: Minjoo received her bachelors degree in Electrical Engineering in 2011 at KAIST. Prior to joining the lab in Spring of 2015, she worked as a Product Manager at Samsung Electronics.
   picture: minjoo.png
 
 - name : Gary Ng
   title : Master's Candidate 
   picture : gary.png
-  bio : Gary received his bachelors degree in Game Development and Entrepreneurship at the University of Ontario Institute of Technology in Canada. He joined the lab in Fall of 2015 and is interested in user experience, interaction design and game design.
+  bio : Gary received his bachelors degree in Game Development and Entrepreneurship at the University of Ontario Institute of Technology in Canada. He joined the lab in Fall of 2015 and is interested in system design, UX/IX and game design. <br><br><a href = "http://www.garykcng.com/" target = "_blank"> Portfolio </a>

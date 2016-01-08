@@ -14,7 +14,7 @@ heading of the target object. A user test showed that
 users favor TagRadar and that it is both faster and has a
 higher accuracy compared to using only signal strength.
 
-<iframe src="https://player.vimeo.com/video/138178621" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/138178621" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Tracking and locating objects is important in many
 situations. TagRadar provides an approach to locate items with RF
@@ -23,11 +23,13 @@ with beacons or similar technology.
 
 ![](<img/tag_radar_phone.jpg>)
 
+<hr>
+
 **Publications**   
-Shin H-S (Felix), Lee, B., Saakes, D.P. TagRadar: Locating Objects Using a Smart Phone Accessory Proceedings of The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Proceedings. 2015
+Felix Shin, Bokyung Lee, Daniel Saakes. TagRadar: Locating Objects Using a Smart Phone Accessory Proceedings of The 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing Adjunct Proceedings. 2015
 
 **Demos**   
-Tokyo Design Week 2015, Oct 24 - Nov 3, Tokyo, Japan.   
-UbiComp 2015, Sept 7 - 11, Osaka, Japan.   
+Tokyo Design Week 2015, 24 Oct 2015 - 3 Nov 2015. Tokyo, Japan.   
+UbiComp 2015, 7 Sept 2015 - 11 Sept 2015. Osaka, Japan.   
 
 

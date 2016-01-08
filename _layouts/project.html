@@ -13,16 +13,22 @@
 <body>
 
 {% include header_nav %}
-<section class="join">
-<h1>{{page.title}}</h1>
+<section style = "text-align: center;">
+	<h1>{{page.title}}</h1>
 </section>
 
-<section class="teaser">
-<img src = 'img/teaser.png' onerror = "this.src='img/teaser.jpg'" width = '100%'>
+<section class = "teaser">
+	<img src = 'img/teaser.png' onerror = "this.src = 'img/teaser.jpg'" width = 100%;>
 </section>
 
-<section class="markdown">
+<section class = "markdown">
+<div style = "margin-left: auto; margin-right: auto; max-width: 1024px;">
 {{content}}
+</div>
+
+<form action = "/projects" style = "text-align: center;">
+	<input type = "submit" class = "btn btn-primary" value = "Back to Projects"></input>
+</form>
 
 </section>
 

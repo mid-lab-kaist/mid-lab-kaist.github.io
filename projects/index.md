@@ -4,7 +4,11 @@ layout: projects
 weight: 4
 ---
 
-<section class="projects">
+<section>
+	<h1 style = "text-align: center;">Projects</h1>
+</section>
+
+<section class = "projects" style = "max-width: 1400px; margin-left: auto; margin-right: auto;">
 
 {% for p in site.data.projects %}
 {%capture pos %}{% cycle 'first', 'second', 'third', 'last' %}{% endcapture %}

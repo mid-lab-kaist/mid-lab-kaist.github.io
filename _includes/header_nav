@@ -1,15 +1,17 @@
 <!-- header nav -->
 <header>
-<h1><strong>my</strong> DESIGN <strong>LAB</strong>KAIST</h1>
+<div style = "width: 100%; text-align: center; position: relative;">
+	<a href = "/">
+		<img src = "/img/Lab-Logo-Blue.png" alt = "myDesignLab" title = "myDesignLab" style = "min-width: 256px; max-width: 30%" />
+	</a>
+
+	<nav style = "position: absolute; left: 0; right: 0; top: 65%; margin-left: auto; margin-right: auto;">
+		<ul>
+			 {% for p in site.data.menu %}			 
+				<li><a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a></li>
+			{% endfor %}
+		</ul>
+		<div class="clearfix"></div>
+	</nav>
+</div>
 </header>
-
-<nav>
-<ul>
-  {% for p in site.data.menu %}
-    <li><a {% if p.url == page.url %} class="active"{% endif %} href="{{ p.url }}">{{ p.title }}</a></li>
-{% endfor %}
-</ul>
-
-<div class="clearfix"></div>
-</nav>
-

@@ -9,7 +9,7 @@ weight: 5
 <p>
 <ol class="bib">
 
-<li value="2016"> Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W. <a href="/projects/mirror/">Mirror Mirror: An On-Body Clothing Design System</a> <i>CHI '16 Papers and Notes</i> Conditionally Accepted.</li> 
+<li value="2016"> Saakes, D.P., Yeo HS., Noh, S-T., Han, G., Woo, W. <a href="/projects/mirror/">Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> Conditionally Accepted.</li> 
 <!--<li style="list-style-type:none">..... Saakes, D.P. <a href="http://www.design-science.or.kr/">How it was made?</a> March 2016 interactions: Volume XX Issue 2, Mar + April 2016</i></li>
 -->
 <li style="list-style-type:none">Hayeon Jeong, Daniel Saakes, Uichin Lee, et al. <a href="http://interactions.acm.org/archive/view/january-february-2016/demo-hour40">Demo hour: 1. I-Eng: A Toy for Second-Language Learning</a> January 2016 interactions: Volume 23 Issue 1, January + February 2016</i></li>

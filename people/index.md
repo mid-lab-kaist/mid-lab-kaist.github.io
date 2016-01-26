@@ -28,14 +28,14 @@ weight: 3
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>	
 			<tr>
+				<td>Jaewoong Han</td>
+				<td>2016</td>
+				<td>3D Printing and Mold Making</td>
+			</tr>	
+			<tr>
 				<td>Maria Reyes</td>
 				<td>2016</td>
-				<td>TBD</td>
-			</tr>		
-			<tr>
-				<td>Tetiana Parshakova</td>
-				<td>2015</td>
-				<td>Moving Objects Wirelessly using Gestures and Vibrations</td>
+				<td>Tangible Programming Toolkit</td>
 			</tr>		
 		</table>
 	</section>
@@ -65,6 +65,11 @@ weight: 3
 				<td style = "width: 15%;"><b>Duration</b></td>
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
+			<tr>
+				<td>Tetiana Parshakova</td>
+				<td>2015</td>
+				<td>Moving Objects Wirelessly using Gestures and Vibrations</td>
+			</tr>	
 			<tr>
 				<td>Sang Yeob Lee</td>
 				<td>Summer 2015</td>

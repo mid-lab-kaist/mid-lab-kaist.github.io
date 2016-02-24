@@ -13,7 +13,7 @@ weight: 3
 			 <div class='unit one-fifth'><img style = "margin-left: 10px;" src='img/{{ member.picture }}' alt="{{ member.name }}" /></div>
 			 <div class='unit four-fifths'>
 			<h3>{{ member.name }} / {{ member.title }}</h3>
-			<p><small><a href = "http://{{ member.website }}" target = "_blank"> {{ member.website }} </a> | <a href = "mailto:{{ member.email }}" target = "_blank">{{ member.email }}</a></small></p>
+			<p><small><a href = "http://{{ member.website }}" target = "_blank"> {{ member.website }} </a> / <a href = "mailto:{{ member.email }}" target = "_blank">{{ member.email }}</a></small></p>
 			<p>{{ member.bio }}</p>
 			</div>
 			</div>

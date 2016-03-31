@@ -8,6 +8,6 @@ In the January - February issue of ACM Interactions, <a href = "../../../../proj
 
 I-Eng is an interactive toy aiming to teach new languages to young children between the ages of 3 - 5. The devices utilizes an Arduino microprocessor and the Processing language housed in a vacuum-formed shell. To learn more about how I-Eng was made, check out <a href = "http://interactions.acm.org/archive/view/march-april-2016/i-eng">the article</a> on the ACM Interactions site.
 
-<div style = "text-align: center;"><img src = "../../../../publications/files/2016_march_interactions_i-eng.jpg" style = "width:50%;"/></div><br>
+<div style = "text-align: center;"><img src = "../../../../publications/files/2016_march_interactions_i-eng.jpg" style = "width:100%;"/></div><br>
 
 Find out more about ACM Interactions <a href = "http://interactions.acm.org/">here</a>.

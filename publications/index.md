@@ -9,9 +9,8 @@ weight: 5
 <p>
 <ol class="bib">
 
+<li style="list-style-type:none">Tetiana Parshakova, Minjoo Cho, Alvaro Casinelli and Daniel Saakes <a href="http://s2016.siggraph.org">Ratchair: Furniture learns to move itself with vibration</a> <i>SIGGRAPH 2012 emerging technologies</i> Accepted.</li>
 <li value="2016"> Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo <a href="/projects/mirror/">Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> Accepted.</li>
-<!--<li style="list-style-type:none">..... Saakes, D.P. <a href="http://www.design-science.or.kr/">How it was made?</a> March 2016 interactions: Volume XX Issue 2, Mar + April 2016</i> [<a href="files/2016_march_interactions_i-eng.jpg">jpg</a>]</li>
--->
 <li style="list-style-type:none">Hayeon Jeong, Daniel Saakes, Uichin Lee, et al. <a href="http://interactions.acm.org/archive/view/march-april-2016/i-eng">How it was made: I-Eng</a> March 2016 interactions: Volume 23 Issue 2, March + April 2016</i> [<a href="files/2016_march_interactions_i-eng.jpg">jpg</a>] </li>
 <li style="list-style-type:none">Hayeon Jeong, Daniel Saakes, Uichin Lee, et al. <a href="http://interactions.acm.org/archive/view/january-february-2016/demo-hour40">Demo hour: 1. I-Eng: A Toy for Second-Language Learning</a> January 2016 interactions: Volume 23 Issue 1, January + February 2016</i> </li>
 <li style="list-style-type:none">Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo <a href="http://www.hcikorea.org/">공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality</a> In<i> HCI KOREA 2016.</i> Accepted.</li>

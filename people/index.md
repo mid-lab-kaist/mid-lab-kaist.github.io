@@ -70,7 +70,7 @@ weight: 3
 			<tr>
 				<td>Tetiana Parshakova</td>
 				<td>2015</td>
-				<td>Moving Objects Wirelessly using Gestures and Vibrations</td>
+				<td><a href = "../projects/ratchair/">RatChair</a></td>
 			</tr>	
 			<tr>
 				<td>Sang Yeob Lee</td>

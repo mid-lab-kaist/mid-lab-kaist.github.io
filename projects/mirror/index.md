@@ -15,7 +15,7 @@ weight: 0
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654370" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 <!--<div class = "videoWrapper"><iframe width = "560" height = "315" src = "https://www.youtube.com/embed/ZI5mod9MCh4" frameborder = "0" allowfullscreen></iframe></div><br>-->
 
-Magic mirrors superimpose virtual clothing over viewers’ mirror image to let them evaluate fashion items without actually wearing them. We contribute the mirror Mirror system that supports not only mixing and matching existing fashion items, but also lets users design new items in front of the mirror and export designs to fabrication devices. Mirror Mirror makes use of spatial augmented reality and a mirror Virtual garments are visible both on the body for precise manipulation as well as in the reflection to obtain a third person perspective. While much previous work deals with re-texturing and registering virtual garments to live user data, we focus on collaborative design and show various ways of designing using real bodies as mannequins. 
+Magic mirrors superimpose virtual clothing over viewers’ mirror image to let them evaluate fashion items without actually wearing them. We contribute the mirror Mirror system that supports not only mixing and matching existing fashion items, but also lets users design new items in front of the mirror and export designs to fabrication devices. Mirror Mirror makes use of spatial augmented reality and a mirror Virtual garments are visible both on the body for precise manipulation as well as in the reflection to obtain a third person perspective. While much previous work deals with re-texturing and registering virtual garments to live user data, we focus on collaborative design and show various ways of designing using real bodies as mannequins.
 
 ![](<img/mirror3.jpg>)
 
@@ -34,6 +34,10 @@ Mirror Mirror reacts on the contemporary fast fashion trend of disposable clothi
 <hr>
 
 **Publications**   
+
+Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo. Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> [<a href="/Publications/files/2016_mirror.pdf">pdf</a>]
+
+
 Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo 공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality In<i> HCI KOREA 2016.</i> Accepted.<br>
 Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Studio Installation</i> Accepted.<br>
 Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Talks</i> Accepted.

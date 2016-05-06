@@ -4,13 +4,13 @@ subtitle: An On-Body Clothing Design System
 layout: project
 weight: 0
 ---
-
+<!--
 <div style =" text-align:center"><br/>
 <a href = "https://drive.google.com/folderview?id=0B8TzO2tMjoHGbFVmQ2Y3VF8ySms&usp=sharing#grid">GOOGLE DRIVE</a>   /
 <a href = "https://www.facebook.com/mirror.kaist?ref=bookmarks">FACEBOOK  </a>    /
 <a href = "https://twitter.com/Mirror_Kaist">TWITTER  </a>
 </div><br/>
-
+-->
 
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654370" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 <!--<div class = "videoWrapper"><iframe width = "560" height = "315" src = "https://www.youtube.com/embed/ZI5mod9MCh4" frameborder = "0" allowfullscreen></iframe></div><br>-->

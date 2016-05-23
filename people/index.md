@@ -29,11 +29,6 @@ weight: 3
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>	
 			<tr>
-				<td>Jaewoong Han</td>
-				<td>2016</td>
-				<td>3D Printing and Mold Making</td>
-			</tr>	
-			<tr>
 				<td>Maria Reyes</td>
 				<td>2016</td>
 				<td>Tangible Programming Toolkit</td>
@@ -67,6 +62,11 @@ weight: 3
 				<td style = "width: 15%;"><b>Duration</b></td>
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
+			<tr>
+				<td>Jaewoong Han</td>
+				<td>2016</td>
+				<td>3D Printing and Mold Making</td>
+			</tr>	
 			<tr>
 				<td>Tetiana Parshakova</td>
 				<td>2015</td>

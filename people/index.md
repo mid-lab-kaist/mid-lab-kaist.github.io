@@ -29,10 +29,10 @@ weight: 3
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>	
 			<tr>
-				<td>Maria Reyes</td>
-				<td>2016</td>
-				<td>Tangible Programming Toolkit</td>
-			</tr>		
+				<td>Sumin Jang</td>
+				<td>Summer 2016</td>
+				<td>TBD</td>
+			</tr>
 		</table>
 	</section>
 	
@@ -63,8 +63,13 @@ weight: 3
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
 			<tr>
+				<td>Maria Reyes</td>
+				<td>Spring 2016</td>
+				<td>Tangible Programming Toolkit</td>
+			</tr>
+			<tr>
 				<td>Jaewoong Han</td>
-				<td>2016</td>
+				<td>Spring 2016</td>
 				<td>3D Printing and Mold Making</td>
 			</tr>	
 			<tr>

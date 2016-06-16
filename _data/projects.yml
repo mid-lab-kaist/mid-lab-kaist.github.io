@@ -4,6 +4,13 @@
   picture: mirror.jpg
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
+  
+- title: RatChair
+  abstract: A strategy for displacing big objects by attaching relatively small vibration sources.
+  link: /projects/ratchair
+  picture: ratchair.png
+  picture_change: ratchair_change.png
+  picture_gallery: ratchair_gallery.png
  
 - title: User Review Analysis
   abstract: A new technique that uses big data to uncover user needs for product designers.

@@ -21,7 +21,7 @@ situations. TagRadar provides an approach to locate items with RF
 and a single radio that does not require a prepared space
 with beacons or similar technology.
 
-![](<img/tag_radar_phone.jpg>)
+![](<img/polished_prototype.png>)
 
 <hr>
 

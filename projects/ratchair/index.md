@@ -6,7 +6,14 @@ weight: 0
 
 RatChair a strategy for displacing big objects by attaching relatively small vibration sources. After learning how several random bursts of vibration affect its pose, an optimization algorithm discovers the optimal sequence of vibration patterns required to (slowly but surely) move the object to a specified position.
 
-<!--![](<img/ratchair_teaser_small.gif>)-->
+<div style = "text-align: center;">
+	<a href = "img/ratchair_fourchairs_side_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_side.jpg" style = "width: 100%;" /></a>
+	<a href = "img/ratchair_solo_large.jpg" target = "_blank"><img src = "img/ratchair_solo.jpg" style = "width: 23.3%;" /></a>
+	<a href = "img/ratchair_fourchairs_front_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_front.jpg" style = "width: 52.45%;" /></a>
+	<a href = "img/ratchair_solo_offset_large.jpg" target = "_blank"><img src = "img/ratchair_solo_offset.jpg" style = "width: 23.3%;" /></a>
+	<br>
+	<p>Click for full size.</p>
+</div>
 
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 

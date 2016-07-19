@@ -29,7 +29,27 @@ weight: 3
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>	
 			<tr>
+				<td>Tanya Parshakova</td>
+				<td>2015 - 2016</td>
+				<td><a href = "../projects/ratchair/">RatChair</a></td>
+			</tr>
+			<tr>
 				<td>Sumin Jang</td>
+				<td>Summer 2016</td>
+				<td>Visualizing Furniture Layouts in AR</td>
+			</tr>
+			<tr>
+				<td>Minkyeong Lee</td>
+				<td>Summer 2016</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>Seungryeol Kim</td>
+				<td>Summer 2016</td>
+				<td>TBD</td>
+			</tr>
+			<tr>
+				<td>Juhyung Park</td>
 				<td>Summer 2016</td>
 				<td>TBD</td>
 			</tr>
@@ -71,14 +91,9 @@ weight: 3
 				<td>Jaewoong Han</td>
 				<td>Spring 2016</td>
 				<td>3D Printing and Mold Making</td>
-			</tr>	
+			</tr>					
 			<tr>
-				<td>Tetiana Parshakova</td>
-				<td>2015</td>
-				<td><a href = "../projects/ratchair/">RatChair</a></td>
-			</tr>	
-			<tr>
-				<td>Sang Yeob Lee</td>
+				<td>Sangyeob Lee</td>
 				<td>Summer 2015</td>
 				<td>Gesture and Touch Based Controls for an Interactive Camera System</td>
 			</tr>

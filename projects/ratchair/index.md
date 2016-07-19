@@ -15,12 +15,15 @@ RatChair a strategy for displacing big objects by attaching relatively small vib
 	<p>Click for full size.</p>
 </div>
 
+The white vibration modules can be attached to any object to make it move, and the coordinate their vibration over wifi. We also designed chairs with built-in vibration sources. 
+
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 <hr>
 
-**Publications**<br>
-Tetiana Parshakova, Minjoo Cho, Alvaro Casinelli and Daniel Saakes. Ratchair: Furniture learns to move itself with vibration. <i>SIGGRAPH 2016 emerging technologies</i>. Accepted.<br>
+**Publication**<br>
+Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. Ratchair: Furniture learns to move itself with vibration. <i>SIGGRAPH 2016 emerging technologies</i>.<br>
 
 **Demos**<br>
 SIGGRAPH 2016 Emerging Technology, 24 July 2016 - 28 July 2016. Anaheim, California, USA.<br>
+<a href="/2015/10/11/Maker_Faire_2015/">Maker Faire Seoul 2015.</a> Seoul, Republic of Korea<br>

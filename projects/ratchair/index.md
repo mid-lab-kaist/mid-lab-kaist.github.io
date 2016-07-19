@@ -25,5 +25,5 @@ The white vibration modules can be attached to any object to make it move, and t
 Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. Ratchair: Furniture learns to move itself with vibration. <i>SIGGRAPH 2016 emerging technologies</i>.<br>
 
 **Demos**<br>
-<a href="/http://s2016.siggraph.org/content/emerging-technologies">SIGGRAPH 2016 Emerging Technologies</a>, 24 July 2016 - 28 July 2016. Anaheim, California, USA.<br>
+<a href="http://s2016.siggraph.org/content/emerging-technologies">SIGGRAPH 2016 Emerging Technologies</a>, 24 July 2016 - 28 July 2016. Anaheim, California, USA.<br>
 <a href="/2015/10/11/Maker_Faire_2015/">Maker Faire Seoul 2015.</a> Seoul, Republic of Korea<br>

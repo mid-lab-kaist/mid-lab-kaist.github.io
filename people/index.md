@@ -41,7 +41,7 @@ weight: 3
 			<tr>
 				<td>Minkyeong Lee</td>
 				<td>Summer 2016</td>
-				<td>TBD</td>
+				<td>Interactive Video Projections</td>
 			</tr>
 			<tr>
 				<td>Seungryeol Kim</td>
@@ -51,7 +51,7 @@ weight: 3
 			<tr>
 				<td>Juhyung Park</td>
 				<td>Summer 2016</td>
-				<td>TBD</td>
+				<td>3D Light Images</td>
 			</tr>
 		</table>
 	</section>

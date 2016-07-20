@@ -15,7 +15,7 @@ RatChair a strategy for displacing big objects by attaching relatively small vib
 	<p>Click for full size.</p>
 </div>
 
-The white vibration modules can be attached to any object to make it move, and the coordinate their vibration over wifi. We also designed chairs with built-in vibration sources. 
+The white vibration modules can be attached to any object to make it move. They work together by coordinating their vibrations over WiFi. We also designed chairs with built-in vibration sources. 
 
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
@@ -26,4 +26,4 @@ Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. Ratchair: F
 
 **Demos**<br>
 <a href="http://s2016.siggraph.org/content/emerging-technologies">SIGGRAPH 2016 Emerging Technologies</a>, 24 July 2016 - 28 July 2016. Anaheim, California, USA.<br>
-<a href="/2015/10/11/Maker_Faire_2015/">Maker Faire Seoul 2015.</a> Seoul, Republic of Korea<br>
+<a href="/2015/10/11/Maker_Faire_2015/">Maker Faire Seoul 2015.</a> 10 October 2015 - 11 October 2015. Seoul, Republic of Korea<br>

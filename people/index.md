@@ -46,7 +46,7 @@ weight: 3
 			<tr>
 				<td>Seungryeol Kim</td>
 				<td>Summer 2016</td>
-				<td>TBD</td>
+				<td>Car Driver Communication</td>
 			</tr>
 			<tr>
 				<td>Juhyung Park</td>

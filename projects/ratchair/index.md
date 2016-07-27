@@ -11,19 +11,21 @@ RatChair a strategy for displacing big objects by attaching relatively small vib
 	<a href = "img/ratchair_fourchairs_front_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_front.jpg" style = "width: 52.45%;" /></a>
 	<a href = "img/ratchair_solo_offset_large.jpg" target = "_blank"><img src = "img/ratchair_solo_offset.jpg" style = "width: 23.3%;" /></a>
 </div>
-<br><br>
+<br>
 We designed sources of vibration that can be easily attached to furniture and objects. Embedding vibration modules as part of mass-produced objects may provide a low-cost way to make almost anything mobile. The principle is agnostic with respect to the shape of the object, number, type, or relative position of the actuators. 
 <br>
 
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-
-
-
 <br>
 
-<br>
+<div style = "text-align: center;">
+	<a href = "img/control1.jpg" target = "_blank"><img src = "img/control1.jpg" style = "width: 50%;" /></a>
+	<a href = "img/control2.jpg" target = "_blank"><img src = "img/control2.jpg" style = "width: 50%;" /></a>
+</div>
 
+<br>
+Using indoor tracking, the user could reconfigure furniture in a room.
 
 <hr>
 

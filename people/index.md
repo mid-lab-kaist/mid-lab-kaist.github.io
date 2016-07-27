@@ -95,7 +95,7 @@ weight: 3
 			<tr>
 				<td>Sangyeob Lee</td>
 				<td>Summer 2015</td>
-				<td>Gesture and Touch Based Controls for an Interactive Camera System</td>
+				<td>Interactive Camera System Interface</td>
 			</tr>
 			<tr>
 				<td>Seoyoung Baek and Joonhee Min</td>

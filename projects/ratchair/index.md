@@ -20,8 +20,8 @@ We designed sources of vibration that can be easily attached to furniture and ob
 <br>
 
 <div style = "text-align: center;">
-	<a href = "img/control1.jpg" target = "_blank"><img src = "img/control1.jpg" style = "width: 50%;" /></a>
-	<a href = "img/control2.jpg" target = "_blank"><img src = "img/control2.jpg" style = "width: 50%;" /></a>
+	<a href = "img/control1.jpg" target = "_blank"><img src = "img/control1.jpg" style = "width: 30%;" /></a>
+	<a href = "img/control2.jpg" target = "_blank"><img src = "img/control2.jpg" style = "width: 30%;" /></a>
 </div>
 
 <br>

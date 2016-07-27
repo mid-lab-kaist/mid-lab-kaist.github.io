@@ -7,14 +7,6 @@ weight: 0
 RatChair a strategy for displacing big objects by attaching relatively small vibration sources. After learning how several random bursts of vibration affect its pose, an optimization algorithm discovers the optimal sequence of vibration patterns required to (slowly but surely) move the object to a specified position.
 
 <div style = "text-align: center;">
-	<a href = "img/ratchair_fourchairs_side_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_side.jpg" style = "width: 100%;" /></a>
-</div>
-
-We designed sources of vibration that can be easily attached to furniture and objects. Embedding vibration modules as part of mass-produced objects may provide a low-cost way to make almost anything mobile. The principle is agnostic with respect to the shape of the object, number, type, or relative position of the actuators. 
-
-<div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-
-<div style = "text-align: center;">
 	<a href = "img/ratchair_solo_large.jpg" target = "_blank"><img src = "img/ratchair_solo.jpg" style = "width: 23.3%;" /></a>
 	<a href = "img/ratchair_fourchairs_front_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_front.jpg" style = "width: 52.45%;" /></a>
 	<a href = "img/ratchair_solo_offset_large.jpg" target = "_blank"><img src = "img/ratchair_solo_offset.jpg" style = "width: 23.3%;" /></a>
@@ -22,6 +14,21 @@ We designed sources of vibration that can be easily attached to furniture and ob
 	<p>Click for full size.</p>
 </div>
 
+<br>
+We designed sources of vibration that can be easily attached to furniture and objects. Embedding vibration modules as part of mass-produced objects may provide a low-cost way to make almost anything mobile. The principle is agnostic with respect to the shape of the object, number, type, or relative position of the actuators. 
+<br>
+
+<div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/164654647" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+
+
+<div style = "text-align: center;">
+	<a href = "img/ratchair_fourchairs_side_large.jpg" target = "_blank"><img src = "img/ratchair_fourchairs_side.jpg" style = "width: 100%;" /></a>
+</div>
+
+<br>
+
+<br>
 
 
 <hr>

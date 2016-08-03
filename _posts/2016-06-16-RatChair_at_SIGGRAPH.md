@@ -4,7 +4,7 @@ title: RatChair to be Demonstrated at SIGGRAPH 2016
 picture: ratchair.jpg
 ---
 
-<a href = "../../../../projects/ratchair/">RatChair</a>, a project by our undergraduate student Tanya, got accepted to SIGGRAPH 2016 Emerging Technologies. RatChair is a strategy for displacing big objects by attaching relatively small vibration sources.
+<a href = "../../../../projects/ratchair/">RatChair</a>, an ongoing project in our lab, got accepted to SIGGRAPH 2016 Emerging Technologies. RatChair is a strategy for displacing big objects by attaching relatively small vibration sources.
 
 MyDesignLab will be showcasing the project at SIGGRAPH in Anaheim, California. SIGGRAPH 2016 Emerging Technologies is a showcase for state of the art human-computer interaction projects from a variety of different sub-disciplines.
 

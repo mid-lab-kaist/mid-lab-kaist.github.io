@@ -32,12 +32,7 @@ weight: 3
 				<td>Tanya Parshakova</td>
 				<td>2015 - 2016</td>
 				<td><a href = "../projects/ratchair/">RatChair</a></td>
-			</tr>
-			<tr>
-				<td>Sumin Jang</td>
-				<td>Summer 2016</td>
-				<td>Visualizing Furniture Layouts in AR</td>
-			</tr>
+			</tr>			
 			<tr>
 				<td>Minkyeong Lee</td>
 				<td>Summer 2016</td>
@@ -82,6 +77,11 @@ weight: 3
 				<td style = "width: 15%;"><b>Duration</b></td>
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
+			<tr>
+				<td>Sumin Jang</td>
+				<td>Summer 2016</td>
+				<td>Visualizing Furniture Layouts in AR</td>
+			</tr>			
 			<tr>
 				<td>Maria Reyes</td>
 				<td>Spring 2016</td>

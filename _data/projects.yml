@@ -4,6 +4,20 @@
   picture: mirror.jpg
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
+
+- title: BodyMeter
+  abstract: A user-centered approach where posing and acting is input for personalizing furniture
+  link: /projects/bodymeter
+  picture: bodymeter.jpg
+  picture_change: bodymeter_change.jpg
+  picture_gallery: bodymeter_gallery.jpg
+  
+- title: TwoShelves
+  abstract: A shelf design application that runs on multiple tablets that projects the design real-time and real-scale in the living room. 
+  link: /projects/twoshelves
+  picture: twoshelves.jpg
+  picture_change: twoshelves_change.jpg
+  picture_gallery: twoshelves_gallery.jpg
   
 - title: RatChair
   abstract: A strategy for displacing big objects by attaching relatively small vibration sources.

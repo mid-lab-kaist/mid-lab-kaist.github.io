@@ -13,4 +13,4 @@ BodyMeter is a user-centered approach where posing and acting is input for perso
 <hr>
 
 **Publication**<br>
-Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://www.nordichi2016.org/program/papersessions/">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="../../publications/files/bodymeter_submitted.pdf">pdf</a>]<br>
+Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://www.nordichi2016.org/program/papersessions/">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="../../publications/files/2016_bodymeter.pdf">pdf</a>]<br>

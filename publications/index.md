@@ -9,7 +9,7 @@ weight: 5
 <p>
 <ol class="bib">
 
-<li value="2016">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://www.nordichi2016.org/program/papersessions/">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted.</li>
+<li value="2016">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://www.nordichi2016.org/program/papersessions/">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="files/bodymeter_submitted.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://www.nordichi2016.org">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> Conditionally Accepted.</li>
 <li style="list-style-type:none">Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. <a href="/projects/ratchair/">Ratchair: Furniture learns to move itself with vibration</a> <i>SIGGRAPH 2016 emerging technologies. </i>Accepted.</li>
 <li style="list-style-type:none">Gary Ng and Daniel Saakes. <a href="http://www.design-science.or.kr/">A Gesture Based Interface for Remote Inspection Tasks with Unmanned Aerial Vehicles</a> In<i> KSDS Spring Conference 2016 </i>. pp. 102-103, May 2016. [<a href="files/2016_gesture_tabletop_paper.pdf">pdf</a>]</li>

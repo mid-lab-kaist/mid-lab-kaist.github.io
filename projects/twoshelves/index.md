@@ -16,4 +16,4 @@ We asked pairs of participants to design with the application using two tablets 
 <hr>
 
 **Publication**<br>
-Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://www.nordichi2016.org">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> Conditionally Accepted. [<a href="../../publications/files/2016_twoshelves.pdf">pdf</a>]<br>
+Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://www.nordichi2016.org">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> Accepted. [<a href="../../publications/files/2016_twoshelves.pdf">pdf</a>]<br>

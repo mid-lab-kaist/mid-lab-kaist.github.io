@@ -46,7 +46,7 @@ weight: 3
 			<tr>
 				<td>Juhyung Park</td>
 				<td>Summer 2016</td>
-				<td>3D Light Images</td>
+				<td><a href = "../projects/ledraw/">LEDraw</a></td>
 			</tr>
 		</table>
 	</section>

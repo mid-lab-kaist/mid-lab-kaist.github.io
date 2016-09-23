@@ -12,5 +12,6 @@ LEDraw uses long time exposure photography, which is similar to some traditional
 
 <div class = "videoWrapper"><iframe src="https://player.vimeo.com/video/183784187" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><br>
 
-<img src = "img/ledraw_rainbow.jpg" style = "width: 100%;" />
+<img src = "img/ledraw_3d.jpg" style = "width: 100%;" />
 <img src = "img/ledraw_emoticon.jpg" style = "width: 100%;" />
+<img src = "img/ledraw_rainbow.jpg" style = "width: 100%;" />

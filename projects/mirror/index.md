@@ -38,7 +38,7 @@ Mirror Mirror reacts on the contemporary fast fashion trend of disposable clothi
 Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo. Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> [<a href="/Publications/files/2016_mirror.pdf">pdf</a>]
 
 
-Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo 공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality In<i> HCI KOREA 2016.</i> Accepted.<br>
+Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo 공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality In<i> HCI KOREA 2016.</i> Accepted. [<a href="/Publications/files/2016_ar_fashion_design_system.pdf">pdf</a>]<br>
 Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Studio Installation</i> Accepted.<br>
 Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Talks</i> Accepted.
 

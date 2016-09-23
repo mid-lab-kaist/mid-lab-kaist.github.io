@@ -46,7 +46,7 @@ weight: 3
 			<tr>
 				<td>Juhyung Park</td>
 				<td>Summer 2016</td>
-				<td><a href = "../projects/ledraw/">LEDraw</a></td>
+				<td><a href = "../projects/ledraw/">LEDraw</a> and Interactive Video Projections</td>
 			</tr>
 		</table>
 	</section>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BodyMeter and TwoShelves to be Accepted to NordiCHI 2016
+title: BodyMeter and TwoShelves Accepted to NordiCHI 2016
 picture: bodymeter.jpg
 ---
 

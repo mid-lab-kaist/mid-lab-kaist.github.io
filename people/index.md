@@ -37,12 +37,7 @@ weight: 3
 				<td>Minkyeong Lee</td>
 				<td>Summer 2016</td>
 				<td>Interactive Video Projections</td>
-			</tr>
-			<tr>
-				<td>Seungryeol Kim</td>
-				<td>Summer 2016</td>
-				<td>Car Driver Communication</td>
-			</tr>
+			</tr>			
 			<tr>
 				<td>Juhyung Park</td>
 				<td>Summer 2016</td>
@@ -77,6 +72,11 @@ weight: 3
 				<td style = "width: 15%;"><b>Duration</b></td>
 				<td style = "width: 55%;"><b>Project</b></td>
 			</tr>		
+			<tr>
+				<td>Seungryeol Kim</td>
+				<td>Summer 2016</td>
+				<td><a href = "../publications/files/2016_gesture_trafficator_paper.pdf">Gesture-Based Trafficator</a></td>
+			</tr>
 			<tr>
 				<td>Sumin Jang</td>
 				<td>Summer 2016</td>

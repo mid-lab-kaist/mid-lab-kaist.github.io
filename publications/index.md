@@ -10,10 +10,10 @@ weight: 5
 <ol class="bib">
 
 
-
+<li value="2017">Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Spatial Physical Computing.</a> <i>TEI 2017 </i>. Conditionally accepted</li>
 <li value="2016">SeungRyeol Kim, Bokyung Lee and Daniel Saakes. <a href="http://www.design-science.or.kr/">Gesture-based Trafficator to Improve Driver to Traffic Communication</a> In<i> KSDS Fall Conference 2016 </i>. October 2016. [<a href="files/2016_gesture_trafficator_paper.pdf">pdf</a>]</li>
-<li style="list-style-type:none">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://www.nordichi2016.org/program/papersessions/">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="files/2016_bodymeter.pdf">pdf</a>]</li>
-<li style="list-style-type:none">Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://www.nordichi2016.org">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> Accepted. [<a href="files/2016_twoshelves.pdf">pdf</a>]</li>
+<li style="list-style-type:none">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/bodymeter">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="files/2016_bodymeter.pdf">pdf</a>]</li>
+<li style="list-style-type:none">Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/twoshelves">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> [<a href="files/2016_twoshelves.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. <a href="/projects/ratchair/">Ratchair: Furniture learns to move itself with vibration</a> <i>SIGGRAPH 2016 emerging technologies. </i>Accepted.</li>
 <li style="list-style-type:none">Gary Ng and Daniel Saakes. <a href="http://www.design-science.or.kr/">A Gesture Based Interface for Remote Inspection Tasks with Unmanned Aerial Vehicles</a> In<i> KSDS Spring Conference 2016 </i>. pp. 102-103, May 2016. [<a href="files/2016_gesture_tabletop_paper.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo. <a href="/projects/mirror/">Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> [<a href="files/2016_mirror.pdf">pdf</a>]</li>

@@ -35,12 +35,12 @@ weight: 3
 			</tr>			
 			<tr>
 				<td>Minkyeong Lee</td>
-				<td>Summer 2016</td>
+				<td>2016</td>
 				<td>Interactive Video Projections</td>
 			</tr>			
 			<tr>
 				<td>Juhyung Park</td>
-				<td>Summer 2016</td>
+				<td>2016</td>
 				<td><a href = "../projects/ledraw/">LEDraw</a> and Interactive Video Projections</td>
 			</tr>
 		</table>

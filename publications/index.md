@@ -10,7 +10,9 @@ weight: 5
 <ol class="bib">
 
 
-<li value="2017">Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted</li>
+<li value="2017">Thomas Van Rompay, Friederike Finger, Daniel Saakes an Anna Fenko.
+ <a href="http://www.journals.elsevier.com/food-quality-and-preference"> &quot;See Me, Feel me&quot;: effects of 3D-printed surface patterns on beverage evaluation</a> <i>Food Quality and Preference</i>. Submitted</li>
+<li style="list-style-type:none">Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted</li>
 <li value="2016">SeungRyeol Kim, Bokyung Lee and Daniel Saakes. <a href="http://www.design-science.or.kr/">Gesture-based Trafficator to Improve Driver to Traffic Communication</a> In<i> KSDS Fall Conference 2016 </i>. October 2016. [<a href="files/2016_gesture_trafficator_paper.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/bodymeter">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="files/2016_bodymeter.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/twoshelves">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> [<a href="files/2016_twoshelves.pdf">pdf</a>]</li>

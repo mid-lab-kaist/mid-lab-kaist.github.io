@@ -11,7 +11,7 @@ weight: 5
 
 
 <li value="2017">Bokyung Lee, Gyeol Han, Jundong Park and Daniel Saakes
- <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces/a> <i>CHI'17</i>. Conditionally Accepted</li>
+ <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces</a> <i>CHI'17</i>. Conditionally Accepted</li>
 <li style="list-style-type:none">Thomas Van Rompay, Friederike Finger, Daniel Saakes and Anna Fenko.
  <a href="http://www.journals.elsevier.com/food-quality-and-preference"> &quot;See Me, Feel me&quot;: effects of 3D-printed surface patterns on beverage evaluation</a> <i>Food Quality and Preference</i>. Submitted</li>
 

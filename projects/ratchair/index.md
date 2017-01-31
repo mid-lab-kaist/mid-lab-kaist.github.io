@@ -30,10 +30,11 @@ Using indoor tracking, the user could reconfigure furniture in a room.
 <hr>
 
 **Publication**<br>
-Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. Ratchair: Furniture learns to move itself with vibration. <i>SIGGRAPH 2016 emerging technologies</i>.<br>
+Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes. Ratchair: Furniture learns to move itself with vibration. <i>SIGGRAPH 2016 emerging technologies</i>. [<a href="../../publications/files/2016_ratchair.pdf">pdf</a>]<br>
 
 **Demos**<br>
-<a href="http://s2016.siggraph.org/content/emerging-technologies">SIGGRAPH 2016 Emerging Technologies</a>, 24 July 2016 - 28 July 2016. Anaheim, California, USA.<br>
+<a href="https://www.dcexpo.jp/en/">Digital Content Expo</a>, 27 October 2016 - 30 October 2016. Tokyo, Japan<br>
+<a href="http://s2016.siggraph.org/content/emerging-technologies">SIGGRAPH 2016 Emerging Technologies</a>, 24 July 2016 - 28 July 2016. Anaheim, California, USA<br>
 <a href="/2015/10/11/Maker_Faire_2015/">Maker Faire Seoul 2015.</a> 10 October 2015 - 11 October 2015. Seoul, Republic of Korea<br>
 
 <div style = "text-align: center;">

@@ -12,6 +12,13 @@ weight: 5
 
 <li value="2017">Bokyung Lee, Gyeol Han, Jundong Park and Daniel Saakes.
  <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces</a> <i>CHI'17</i>. Accepted</li>
+ 
+<li style="list-style-type:none">Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes.
+ <a href="http://chi2017.acm.org/">Furniture that learns to move itself</a> <i>CHI Video Showcase 2017</i>. Accepted</li>
+<li style="list-style-type:none">Bokyung Lee, Jiwoo Hong, Jaeheung Surh and Daniel Saakes.
+ <a href="http://chi2017.acm.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>CHI Video Showcase 2017</i>. Accepted</li>
+
+ 
 <li style="list-style-type:none">Jundong Park, Bokyung Lee, Gyeol Han, Daniel Saakes.
  <a href="http://conference.hcikorea.org/hcik2017/">미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface</a> <i>HCI Korea 2017</i>. Accepted</li>
  

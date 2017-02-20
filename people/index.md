@@ -77,11 +77,11 @@ weight: 3
 				<td>Summer 2016</td>
 				<td>Visualizing Furniture Layouts in AR</td>
 			</tr>			
-			<tr>
+			<!--<tr>
 				<td>Maria Reyes</td>
 				<td>Spring 2016</td>
 				<td>Tangible Programming Toolkit</td>
-			</tr>
+			</tr>-->
 			<tr>
 				<td>Jaewoong Han</td>
 				<td>Spring 2016</td>

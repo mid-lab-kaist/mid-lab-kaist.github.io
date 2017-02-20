@@ -11,24 +11,23 @@ weight: 5
 
 
 <li value="2017">Bokyung Lee, Gyeol Han, Jundong Park and Daniel Saakes.
- <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces</a> <i>CHI'17</i>. Accepted</li>
+ <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces</a> <i>CHI'17</i>. Accepted.</li>
  
 <li style="list-style-type:none">Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes.
- <a href="http://chi2017.acm.org/">Furniture that learns to move itself</a> <i>CHI Video Showcase 2017</i>. Accepted</li>
+ <a href="http://chi2017.acm.org/">Furniture that learns to move itself</a> <i>CHI Video Showcase 2017</i>. Accepted.</li>
 <li style="list-style-type:none">Bokyung Lee, Jiwoo Hong, Jaeheung Surh and Daniel Saakes.
- <a href="http://chi2017.acm.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>CHI Video Showcase 2017</i>. Accepted</li>
+ <a href="http://chi2017.acm.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>CHI Video Showcase 2017</i>. Accepted.</li>
  
 <li style="list-style-type:none">Minjoo Cho and Daniel Saakes. 
- <a href="http://chi2017.acm.org/"> Calm Automaton: A DIY Toolkit for Ambient Displays</a> <i>CHI Interactivity 2017</i>. Accepted</li>
-
+ <a href="http://chi2017.acm.org/"> Calm Automaton: A DIY Toolkit for Ambient Displays</a> <i>CHI Interactivity 2017</i>. Accepted.</li>
 
 <li style="list-style-type:none">Jundong Park, Bokyung Lee, Gyeol Han, Daniel Saakes.
- <a href="http://conference.hcikorea.org/hcik2017/">미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface</a> <i>HCI Korea 2017</i>. Accepted</li>
+ <a href="http://conference.hcikorea.org/hcik2017/">미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface</a>. <i>HCI Korea 2017</i>. Accepted.</li>
  
 <li style="list-style-type:none">Thomas Van Rompay, Friederike Finger, Daniel Saakes and Anna Fenko.
- <a href="http://www.journals.elsevier.com/food-quality-and-preference"> &quot;See Me, Feel me&quot;: effects of 3D-printed surface patterns on beverage evaluation</a> <i>Food Quality and Preference</i>. Submitted</li>
+ <a href="http://www.journals.elsevier.com/food-quality-and-preference"> &quot;See Me, Feel me&quot;: effects of 3D-printed surface patterns on beverage evaluation</a> <i>Food Quality and Preference</i>. Submitted.</li>
 
-<li style="list-style-type:none">Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted</li>
+<li style="list-style-type:none">Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted. [<a href="files/2017_gluons.pdf">pdf</a>]</li>
 <li value="2016">SeungRyeol Kim, Bokyung Lee and Daniel Saakes. <a href="http://www.design-science.or.kr/">Gesture-based Trafficator to Improve Driver to Traffic Communication</a> In<i> KSDS Fall Conference 2016 </i>. October 2016. [<a href="files/2016_gesture_trafficator_paper.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Bokyung Lee, Minjoo Cho, Joonhee Min and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/bodymeter">Posing and Acting as Input for Personalizing Furniture</a> <i>NordiCHi Papers 2016.</i> Accepted. [<a href="files/2016_bodymeter.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Foong-Yi Chia, Bokyung Lee and Daniel Saakes. <a href="http://mid.kaist.ac.kr/projects/twoshelves">Collaboration in the Living Room or How Couples Design Together</a> <i>NordiCHi Poster 2016.</i> [<a href="files/2016_twoshelves.pdf">pdf</a>]</li>

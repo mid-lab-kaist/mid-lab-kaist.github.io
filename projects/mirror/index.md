@@ -34,16 +34,19 @@ Mirror Mirror reacts on the contemporary fast fashion trend of disposable clothi
 <hr>
 
 **Publications**   
+<ul>
+	<li>Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo. Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> [<a href="/publications/files/2016_mirror.pdf">pdf</a>]</li>
+	<li>Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo 공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality In<i> HCI KOREA 2016.</i> Accepted. [<a href="/publications/files/2016_ar_fashion_design_system.pdf">pdf</a>]</li>
+	<li>Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Studio Installation</i> Accepted.</li>
+	<li>Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Talks</i> Accepted.</li>
+</ul>
 
-Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han and Woontack Woo. Mirror Mirror: An On-Body T-Shirt Design System</a> <i>CHI '16 Papers and Notes</i> [<a href="/publications/files/2016_mirror.pdf">pdf</a>]
+**Demos**  
+<ul>
+	<li>Maker Festival (Creative Korea Expo 2015), 26 Nov 2015 - 29 Nov 2015. Seoul, South Korea.</li>
+	<li>SIGGRAPH 2015 Studio, 9 Aug 2015 - 13 Aug 2015. Los Angeles, California, USA.</li>
+	<li>Dongdaemun Exhibition, 18 July 2015 - 25 July 2015. Seoul, South Korea.</li>
+	<li>CHI 2015 KAIST Visit, 24 Apr 2015. Daejeon, South Korea.</li>
+</ul>
 
-
-Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo 공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality In<i> HCI KOREA 2016.</i> Accepted. [<a href="/publications/files/2016_ar_fashion_design_system.pdf">pdf</a>]<br>
-Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Studio Installation</i> Accepted.<br>
-Daniel Saakes, Hui-Shyong Yeo, Seung-Tak Noh, Gyeol Han, Woontack Woo. Mirror Mirror: An On-Body Clothing Design System <i>SIGGRAPH '15: Talks</i> Accepted.
-
-**Demos**   
-Maker Festival (Creative Korea Expo 2015), 26 Nov 2015 - 29 Nov 2015. Seoul, South Korea.<br>
-SIGGRAPH 2015 Studio, 9 Aug 2015 - 13 Aug 2015. Los Angeles, California, USA.<br>
-Dongdaemun Exhibition, 18 July 2015 - 25 July 2015. Seoul, South Korea.<br>
-CHI 2015 KAIST Visit, 24 Apr 2015. Daejeon, South Korea.
+<br>

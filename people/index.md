@@ -61,12 +61,7 @@ weight: 3
 				<td style = "width: 30%;"><b>Name</b></td>
 				<td style = "width: 15%;"><b>Duration</b></td>
 				<td style = "width: 55%;"><b>Project</b></td>
-			</tr>	
-			<tr>
-				<td>Tanya Parshakova</td>
-				<td>2015 - 2016</td>
-				<td><a href = "../projects/ratchair/">RatChair</a></td>
-			</tr>			
+			</tr>						
 			<tr>
 				<td>Minkyeong Lee</td>
 				<td>2016</td>
@@ -91,7 +86,12 @@ weight: 3
 				<td>Jaewoong Han</td>
 				<td>Spring 2016</td>
 				<td>3D Printing and Mold Making</td>
-			</tr>					
+			</tr>			
+			<tr>
+				<td>Tanya Parshakova</td>
+				<td>2015 - 2016</td>
+				<td><a href = "../projects/ratchair/">RatChair</a></td>
+			</tr>
 			<tr>
 				<td>Sangyeob Lee</td>
 				<td>Summer 2015</td>

@@ -5,6 +5,27 @@
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
 
+- title: Consumer to Creator
+  abstract: Research into the purchasing process of furniture items for the homes of casual users.
+  link: /projects/consumer_to_creator
+  picture: ctc.jpg
+  picture_change: ctc_change.jpg
+  picture_gallery: ctc_gallery.jpg
+
+- title: Calm Automaton
+  abstract: A customizable and programmable physical display that gently visualizes abstract data.
+  link: /projects/calm_automaton
+  picture: automaton.jpg
+  picture_change: automaton_change.jpg
+  picture_gallery: automaton_gallery.jpg
+  
+- title: Gluons
+  abstract: Small battery powered devices that can be used to create, test, and tune smart sensor/actuator networks.
+  link: /projects/gluons
+  picture: gluons.jpg
+  picture_change: gluons_change.jpg
+  picture_gallery: gluons_gallery.jpg
+  
 - title: BodyMeter
   abstract: A user-centered approach where posing and acting is input for personalizing furniture
   link: /projects/bodymeter

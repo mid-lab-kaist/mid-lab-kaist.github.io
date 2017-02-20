@@ -15,6 +15,6 @@ Latest hardware improvements on transceivers supporting Low PowerWide Area Netwo
 <hr>
 
 **Publication**<br>
-Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted. [<a href="files/2017_gluons.pdf">pdf</a>]<br>
+Alvaro Cassinelli and Daniel Saakes. <a href="http://tei.acm.org"> Data Flow, Spatial Physical Computing.</a> <i>TEI 2017 </i>. Accepted. [<a href="../../publications/files/2017_gluons.pdf">pdf</a>]<br>
 
 <br>

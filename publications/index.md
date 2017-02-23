@@ -22,7 +22,7 @@ weight: 5
  <a href="http://chi2017.acm.org/"> Calm Automaton: A DIY Toolkit for Ambient Displays</a> <i>CHI Interactivity 2017</i>. Accepted.</li>
 
 <li style="list-style-type:none">Jundong Park, Bokyung Lee, Gyeol Han, Daniel Saakes.
- <a href="http://conference.hcikorea.org/hcik2017/">미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface</a>. <i>HCI Korea 2017</i>. Accepted.</li>
+ <a href="http://conference.hcikorea.org/hcik2017/">미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface</a>. <i>HCI Korea 2017</i>. Accepted. [<a href="files/2017_ctc_hcik.pdf">pdf</a>]</li>
  
 <li style="list-style-type:none">Thomas Van Rompay, Friederike Finger, Daniel Saakes and Anna Fenko.
  <a href="http://www.journals.elsevier.com/food-quality-and-preference"> &quot;See Me, Feel me&quot;: effects of 3D-printed surface patterns on beverage evaluation</a> <i>Food Quality and Preference</i>. Submitted.</li>

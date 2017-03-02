@@ -88,7 +88,7 @@ weight: 3
 				<td>3D Printing and Mold Making</td>
 			</tr>			
 			<tr>
-				<td>Tanya Parshakova</td>
+				<td>Tetiana Parshakova</td>
 				<td>2015 - 2016</td>
 				<td><a href = "../projects/ratchair/">RatChair</a></td>
 			</tr>

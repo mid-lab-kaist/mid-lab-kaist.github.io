@@ -14,7 +14,7 @@ Food 3D printing is getting the spotlight by offering the opportunity to customi
 
 <hr>
 
-**Publication**<br>
+**Publications**<br>
 <ul>
 	<li>Bokyung Lee, Jiwoo Hong, Jaeheung Surh and Daniel Saakes. <a href="http://dis2017.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>DIS Pictorial 2017</i>. Accepted. [<a href="files/2017_ori-mandu.pdf">pdf</a>]</li>
 	<li>Bokyung Lee, Jiwoo Hong, Jaeheung Surh and Daniel Saakes. <a href="http://chi2017.acm.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>CHI Video Showcase 2017</i>. Accepted.</li>

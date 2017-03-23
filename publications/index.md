@@ -11,7 +11,7 @@ weight: 5
 
 
 <li value="2017">Bokyung Lee, Jiwoo Hong, Jaeheung Surh and Daniel Saakes.
- <a href="http://dis2017.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>DIS Pictorial 2017</i>. Accepted.</li>
+ <a href="http://dis2017.org/"> Ori-mandu: Korean Dumpling into Whatever Shape You Want</a> <i>DIS Pictorial 2017</i>. Accepted. [<a href="files/2017_ori-mandu.pdf">pdf</a>]</li>
 <li style="list-style-type:none">Bokyung Lee, Gyeol Han, Jundong Park and Daniel Saakes.
  <a href="http://chi2017.acm.org/"> Consumer to Creator: How households buy furniture to inform design and fabrication interfaces</a> <i>CHI'17</i>. Accepted.</li>
  

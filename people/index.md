@@ -67,11 +67,11 @@ weight: 3
 				<td>2016</td>
 				<td>Interactive Video Projections</td>
 			</tr>			
-			<tr>
+			<!--<tr>
 				<td>Seungryeol Kim</td>
 				<td>Summer 2016</td>
 				<td><a href = "../publications/files/2016_gesture_trafficator_paper.pdf">Gesture-Based Trafficator</a></td>
-			</tr>
+			</tr>-->
 			<tr>
 				<td>Sumin Jang</td>
 				<td>Summer 2016</td>

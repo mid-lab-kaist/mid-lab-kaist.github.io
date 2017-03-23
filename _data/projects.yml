@@ -4,7 +4,14 @@
   picture: mirror.jpg
   picture_change: mirror_change.jpg
   picture_gallery: mirror_gallery.jpg
-
+  
+- title: Ori-Mandu
+  abstract: A novel and hybrid process that uses custom fabricated tools that assist in the process of cooking dumplings.
+  link: /projects/ori-mandu
+  picture: ori-mandu.jpg
+  picture_change: ori-mandu_change.jpg
+  picture_gallery: ori-mandu_gallery.jpg
+  
 - title: Consumer to Creator
   abstract: Research into the purchasing process of furniture items for the homes of casual users.
   link: /projects/consumer_to_creator

@@ -2,6 +2,7 @@
 title: Mirror Mirror
 subtitle: An On-Body Clothing Design System
 layout: project
+project: mirror-mirror
 weight: 0
 ---
 

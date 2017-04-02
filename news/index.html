@@ -1,55 +1,23 @@
 ---
 title: news
-layout: news
+layout: bare
 weight: 2
 ---
 
-{% for post in paginator.posts %}
-	<div class = "grid no-gutters {% cycle 'white', 'blue' %}">
-		<div class = "unit one-quarter">
-		<a href = "{{ post.url }}">
-			{% if post.picture %}
-				<img src = "/news/img/{{ post.picture }}">
-			{% else %}
-				<img src = "/news/img/default.png">
-			{% endif %}
-		</a>
-
-		</div>
-		<div class = "unit one-quarter">
-			<h2><a href = "{{ post.url }}">{{ post.title }}</a></h2>
-
-			<p><b>{{ post.date | date_to_long_string }}.</b> {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-		
-			<br><br><a href = "{{ post.url }}"><b>Read More</b></a></p>
-		</div>
-	</div>	
-	<div class = "clearfix"></div>
-
-{% endfor %}
-
-<!--<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
-</div>-->
-
-<div style = "width:100%; text-align:center;">
-	<ul class = "pagination">
-		{% for i in (1..paginator.total_pages) %}
-			{% if i == paginator.page %}
-				<li class = "active"><a href = "#">{{ i }}</a></li>
-			{% else %}
-				{% if i == 1 %}
-					<li><a href = "/news/">{{ i }}</a></li>
-				{% else %}
-					<li><a href = "/news/page{{ i }}">{{ i }}</a></li>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	</ul>
+ <div class="grid">
+      <div class="unit whole">
+        <h1>{{page.title}}</h1>
+      </div>
 </div>
+
+{% for post in site.posts %}
+	<div class = "grid news" style="background-color:#ffffff">
+		<div class = "unit two-thirds">
+      {% if post.picture.size != undefined %}<img style=" border: 1px solid #cccccc; float: right; margin:4px; max-width:200px;" src='/news/img/{{ post.picture }}' alt="{{ post.title }}" />{% endif %}
+
+			<h2><a href = "{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+			<p class="date">posted on {{ post.date | date_to_long_string }}</d>
+  	</div>
+  </div>
+{% endfor %}

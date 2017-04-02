@@ -80,6 +80,32 @@ img {
   line-height: 1.4rem;
 }
 
+.news a {
+  text-decoration:none;
+}
+
+.news h2 {
+  font-size: 1.0rem;
+  line-height: 1.2rem;
+  margin:0;
+  padding:0;
+}
+
+.news p {
+  font-size: 1.0rem;
+  line-height: 1.4rem;
+  margin:0;
+  padding:0;
+}
+
+.news .date {
+  font-size: 0.8rem;
+  line-height: 1.4rem;
+  margin:0;
+  color: #aaa;
+  padding:0;
+}
+
 
 .home h2 {
   font-size: 1.2rem;

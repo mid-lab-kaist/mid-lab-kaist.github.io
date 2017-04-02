@@ -1,9 +1,0 @@
-<!-- gallery_stylesheets -->
-
-<!-- bx slider -->
-<script src = "/js/jquery-1.11.3.min.js"></script>
-<!-- bxSlider Javascript file -->
-<script src = "/js/jquery.bxslider.min.js"></script>
-
-<!-- bxSlider CSS file -->
-<link href = "/style/jquery.bxslider.css" rel="stylesheet" />

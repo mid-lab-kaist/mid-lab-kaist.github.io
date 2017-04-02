@@ -1,25 +1,12 @@
-<!doctype html>
-<html>
+{% include header.html %}
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>myDesignLab {{page.title}}</title>
-{% include header_stylesheets %}
-
-</head>
-
-<body>
-
-{% include header_nav %}
-
-<section>
-
+<article  style="background-color:#ffffdd">
+ <div class="grid">
+      <div class="unit whole">
+        <h1>{{page.title}}</h1>
+      </div>
+</div>
 {{content}}
+</article>
 
-</section>
-
-{% include footer %}
-
-</body>
-</html>
+{% include footer.html %}

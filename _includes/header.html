@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<head>
+<title>my design lab -- {{page.title}}</title>
+<link rel="stylesheet" href="/style/css/normalize.css">
+<link rel="stylesheet" href="/style/css/gridism.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200italic,300,300italic,400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/style/css/mid.css">
+</head>
+
+<body class="wrap">
+<!-- header nav -->
+<header>
+<nav>
+  {% for p in site.data.menu %}<a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a>{% endfor %}
+</nav>
+</header>

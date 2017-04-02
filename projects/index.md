@@ -1,34 +1,25 @@
 ---
 title: projects
-layout: projects
+layout: default
 weight: 4
 ---
-
-<section>
-	<h1 style = "text-align: center;">Projects</h1>
-</section>
-
-<section class = "projects" style = "max-width: 1400px; margin-left: auto; margin-right: auto;">
+<section class="projects">
 
 {% for p in site.data.projects %}
-{%capture pos %}{% cycle 'first', 'second', 'third', 'last' %}{% endcapture %}
-
-
+{%capture pos %}{% cycle 'first', 'second', 'third' %}{% endcapture %}
 {% if pos == 'first' %}
-<div class='grid no-gutters'>
+<div class="grid" style="background-color:#ddffdd;">
 {% endif %}
-<div class='unit one-quarter'>
-<a href="{{ p.link }}"><img src='img/{{ p.picture }}' onmouseover="this.src='img/{{ p.picture_change }}'" onmouseout="this.src='img/{{ p.picture }}'" alt="{{ p.title }}" /></a><p>{{ p.abstract }}</p>
+<div class="unit one-third" style="background-color:#ffffff;">
+<a href="{{ p.link }}"><img src='img/{{ p.picture }}' onmouseover="this.src='img/{{ p.picture_change }}'" onmouseout="this.src='img/{{ p.picture }}'" alt="{{ p.title }}" /></a><h2>{{p.title}}</h2><p>{{ p.abstract }}</p>
 </div>
-{% if pos == 'last' %}
+{% if pos == 'third' %}
 </div> <!-- grid -->
-<div class="clearfix"></div>
 {% endif %}
 {% endfor %}
 
-{% if pos != 'last' %}
+{% if pos != 'third' %}
 </div> <!-- grid -->
-<div class="clearfix"></div>
 {% endif %}
 
 </section>

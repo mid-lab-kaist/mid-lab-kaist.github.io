@@ -4,8 +4,7 @@ title: Gesture and Spatial Controlled System wins URP Award
 picture: tanya_urp.jpg
 ---
 
-Tanya, an undergraduate student at myDesignLab, won an Excellence Award for her Undergraduate Research Project (URP). 
 
-Tanya worked with the lab throughout 2015 on a system that controls everyday objects using gesture and spatial controls. She was awarded this award for extraordinary efforts and research outcomes.
+Tanya won the Excellence Award for her Undergraduate Research Project (URP) on [Gesture and Spatial controlled system of moving everyday objects](/project/ratchair).
 
-<div style = "text-align: center;"><img src = "../../../../projects/misc/tanya_urp_win.jpg" style = "width:50%;" rotate = "90"/></div><br>
+![Tanya in front of her Poster](/projects/ratchair/img/tanya_urp_win.jpg "Tanya wins URP Excellence Award")

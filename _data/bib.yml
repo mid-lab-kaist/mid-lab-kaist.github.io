@@ -17,13 +17,14 @@
   project: gluons
   pdf: ./files/cassinelli_tei_2017.pdf
 
-- id: park_hick_2017
+- id: park_hcik_2017
   title: "미래의 패브리케이션 인터페이스를 위한 두 가지 디자인 프로세스 사고 과정 Two Mental Models of Non-Professional Design Process for Future Fabrication Interface"
   authors: Jundong Park, Bokyung Lee, Gyeol Han and Daniel Saakes
   publication: "HCI Korea"
   date: 2017
   year: 2017
   project: consumer_to_creator
+  pdf: ./files/park_hcik_2017.pdf
 
 - id: cho_chi_adj_2017
   title: "Calm Automaton: A DIY Toolkit for Ambient Displays"
@@ -65,13 +66,14 @@
   year: 2016
   pdf: ./files/kim_ksds_2016.pdf
 
-- id: han_hick_2016
+- id: han_hcik_2016
   title: "공간 증강 현실 기반 패션 디자인 시스템을 위한 사용자 경험 연구 / User Research for Experience of Fashion Design System Based on Spatial Augmented Reality"
   authors: Gyeol Han, Seung-Tak Noh, Hui-Shyong Yeo, Daniel Saakes and Woontack Woo
   publication: "HCI Korea"
   date: 2016
   year: 2016
   project: mirror-mirror
+  pdf: ./files/han_hcik_2016.pdf
 
 - id: saakes_chi_2016
   title: "Mirror Mirror: An On-Body T-shirt Design System"
@@ -100,6 +102,8 @@
   publication: "interactions. 23(2)"
   date: March + April 2016
   year: 2016
+  project: i-eng
+  pdf: ./files/jeong_interactions_2016.jpg
 
 - id: lee_nordichi_2016
   title: "Posing and Acting As Input for Personalizing Furniture"
@@ -176,7 +180,7 @@
 
 - id: jeong_ubicomp_adj_2015
   title: "I-Eng: An Interactive Toy for Second Language Learning"
-  authors: Hayeon Jeong, Daniel Pieter Saakes and Uichin Lee
+  authors: Hayeon Jeong, Daniel Saakes and Uichin Lee
   publication: "UbiComp/ISWC'15 Adjunct"
   date: 2015
   year: 2015
@@ -379,3 +383,4 @@
   publication: "The Best of Instructables Volume I: Do-It-Yourself Projects from the World's Biggest Show and Tell, Maker Media, North Sebastopol, CA"
   date: October 2008
   year: 2008
+

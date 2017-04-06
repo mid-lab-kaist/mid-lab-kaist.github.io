@@ -10,7 +10,7 @@ weight: 3
 <section class="people">
 <div class="grid">
 		 <div class="unit whole">
-		 <h1>People</h1>
+		 <h1>Meet the team</h1>
 		 </div>
 </div>
 

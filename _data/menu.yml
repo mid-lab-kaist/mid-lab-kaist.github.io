@@ -1,4 +1,4 @@
-- title: home
+- title: '<img src="/style/img/lablogo_small.png" style="height:2rem; width:4rem;" /> My <em>Design</em> Lab'
   url: /
 - title: people
   url: /people/
@@ -6,6 +6,3 @@
   url: /projects/
 - title: publications
   url: /publications/
-- title: contact
-  url: /contact/
- 

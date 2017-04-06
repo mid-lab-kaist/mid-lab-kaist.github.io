@@ -21,13 +21,26 @@ nav a:hover {
 
 }
 
+nav {
+  border-bottom-color: #666666;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+  padding:0;
+  margin:0;
+
+
+}
 
 footer {
   border-top-color: #666666;
   border-top-width: 1px;
   border-top-style: dashed;
+  display: block;
 }
 
+.clearfix {
+  clear: both;
+}
 
 
 body {

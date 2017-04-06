@@ -1,6 +1,6 @@
 ---
 title: CHI 2017
-layout: event
+layout: bare
 weight: 0
 ---
 

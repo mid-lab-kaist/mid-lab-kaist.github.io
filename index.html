@@ -14,20 +14,18 @@ weight: 1
 
 <div class = "grid">
 <div class = "unit two-thirds">
-    <img src="/projects/ori-mandu/img/gallery.jpg"/>
-    <h2>Ori-Mandu: korean dumplings in whatever shape you want</h2>
+  {% include project_summary.html project="ori-mandu" %}
 </div>
 <div class = "unit one-third" >
   <img src="/projects/ratchair/img/gallery.jpg"/>
   <h2>Furniture that learns to move itself by vibration</h2>
-  <p>The Ratchairs have been vibrating since 2015. This year we will go to CHI! for the video showcase track. Watch the new video.</p>
+  <p>The Ratchairs have been vibrating since 2015. Watch the new video.</p>
 </div>
 </div>
 
 <div class = "grid">
  <div class = "unit one-third" >
-   <img src="/projects/calm_automaton/img/gallery.jpg"/>
-     <h2>Calm Automaton</h2>
+   {% include project_summary.html project="calm_automaton" %}
  </div>
 <div class = "unit one-third" >
   <img src="/projects/bodymeter/img/gallery.jpg"/>
@@ -35,20 +33,19 @@ weight: 1
     <h2>Body Meter</h2>
 </div>
 <div class = "unit one-third" >
-  <img src="/projects/mirror/img/gallery.jpg"/>
-  <h2>Mirror Mirror</h2>
+  {% include project_summary.html project="mirror" %}
 </div>
 </div>
 
 <div class = "grid">
 <div class = "unit two-thirds" >
-    <h2>About My Design Lab</h2>
+{% include project_summary.html project="calm_automaton" %}
 </div>
 <div class = "unit one-third" >
-  <h2>News</h2>
+  <h2>Latest News</h2>
+  {% include last_news.html %}
+  <h2><a href="/news">More news on the news page</a></h2>
 </div>
 </div>
-
-<div class="clearfix;"/>
 
 </section>

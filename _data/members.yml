@@ -1,56 +1,64 @@
 - name: Daniel Saakes
+  short: daniel
   title: Director
   picture: daniel.jpg
   website: saakes.net
   email: saakes@kaist.ac.kr
-  bio: Daniel Saakes (석 다니엘) is trained as an industrial design engineer at <a href = "http://www.tudelft.nl/" target = "_blank">Delft University of Technology</a> and he likes <strong>making things</strong> and <strong>making things that make things</strong>. In recent years he has been active at <a href = "http://www.studiolab.nl" target = "_blank">ID Studiolab</a>, <a href = "http://cameraculture.media.mit.edu/" target = "_blank">MIT Medialab</a>, <a href = "http://kmd.keio.ac.jp" target = "_blank">Keio University</a>, <a href = "http://www.designinterface.jp" target = "_blank">Japan Science and Technology Agency</a>, <a href = "http://www.nae-lab.org" target = "_blank">University of Tokyo</a> and <a href = "http://www.dh.umu.se" target = "_blank">Umea Institute of Design</a>.
+  bio: Daniel Saakes (석 다니엘) is trained as an industrial design engineer at <a href = "http://www.tudelft.nl/">Delft University of Technology</a> and he likes <strong>making things</strong> and <strong>making things that make things</strong>.
 
 - name: Lydia Bokyung Lee
+  short: Lydia
   title: PhD Candidate
   picture: bokyung.jpg
   website: lydiabklee.com
   email: boing222@kaist.ac.kr
   bio: Bokyung graduated from the undergraduate Industrial Design program at KAIST with MyPill++, a pill container design for seniors. She started in Spring of 2014 in the graduate school of Industrial Design with the tentative topic of Designing in the Living Room.
-  
+
 
 - name : Gyeol Han
+  short: gyeol
   title : Master's Candidate
   picture: gyeol.jpg
   website: gyeol.co
   email: hgyeols@gmail.com
   bio : Gyeol graduated KAIST's undergraduate Industrial Design program with BOP (Between Openness and Privacy) tools to protect privacy offline. She joined myDesignLab in Spring of 2015. She is interested in various design areas such as visual communication as well as merging technology with design.
-  
-- name : Gary Ng
-  title : Master's Candidate 
-  picture : gary.jpg
+
+- name: Gary Ng
+  short: gary
+  title: Master's Candidate
+  picture: gary.jpg
   website: garykcng.com
   email: garykcng@kaist.ac.kr
   bio : Gary received his bachelor's degree in Game Development and Entrepreneurship at the University of Ontario Institute of Technology in Canada. He joined the lab in Fall of 2015 and is interested in system design, UX/IX, and game design.
-  
+
 - name : Jundong Park
-  title : Master's Candidate 
+  short: jundong
+  title : Master's Candidate
   picture : jundong.jpg
   website: mid.kaist.ac.kr
   email: messinger@kaist.ac.kr
   bio : Jundong received his bachelor's degree in Industrial Design at KAIST with a sub-major in Mechanical Engineering. He has a great fondness for books and joined the lab in the Spring of 2016. Jundong is interested in how calm emotions relate to our busy-energetic modern lives and how design could be a medium between the two.
-  
+
 - name : Joon Gi Shin
-  title : Master's Candidate 
+  short: joongi
+  title : Master's Candidate
   picture : joongi.jpg
   website: mid.kaist.ac.kr
   email: joongishin@gmail.com
   bio : Joon received his bachelor's degree in Industrial Design at the University of the Arts in the United States. He joined the lab in Fall of 2016 and is interested in communication and UX design.
-  
+
 - name : Maria Reyes
-  title : Master's Candidate 
+  short: maria
+  title : Master's Candidate
   picture : maria.jpg
   website: mid.kaist.ac.kr
   email: mariajoserc94@kaist.ac.kr
   bio : Maria earned her bachelor’s degree in Industrial Design at KAIST with Doori Noori, which she was awarded the Excellence Award for. She joined myDesignLab in Spring of 2017 and is interested in interaction design and system design.
-  
+
 - name : SeungRyeol Kim
-  title : Master's Candidate 
+  short: seungryeol
+  title : Master's Candidate
   picture : seungryeol.jpg
   website: mid.kaist.ac.kr
   email: realkim93@kaist.ac.kr
-  bio : SeungRyeol earned his bachelor’s degree in Industrial Design at KAIST with his <a href="../../publications/files/2016_gesture_trafficator_paper.pdf">Trafficator</a> project. He is interested in cars, not only its design but also history, technology, and social role. He joined myDesignLab in the Spring of 2017.
+  bio : SeungRyeol earned his bachelor’s degree in Industrial Design at KAIST with his <a href="/publications/files/2016_gesture_trafficator_paper.pdf">Trafficator</a> project. He is interested in cars, not only its design but also history, technology, and social role. He joined myDesignLab in the Spring of 2017.

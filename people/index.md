@@ -14,14 +14,10 @@ weight: 3
 		 </div>
 </div>
 
-
-
 	{% for member in site.data.members %}		
-
 			<div class='grid'>
-
+			<a name="{{ member.short }}">
 			 <div class='unit two-thirds'>
-
 			 <img style=" border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src='img/{{ member.picture }}' alt="{{ member.name }}" />
 			 <h2>{{ member.name }} / {{ member.title }}</h2>
 			<p>{{ member.bio }}
@@ -30,21 +26,65 @@ weight: 3
 			</p>
 			</div>
 
+			</a>
+
 			</div>
 	{% endfor %}
+
+	<div class="grid">
+			 <div class="unit whole">
+			 <h1>Alumni</h1>
+			 </div>
+	</div>
+
+	{% for member in site.data.alumni %}		
+			<div class='grid'>
+			<a name="{{ member.short }}">
+			 <div class='unit two-thirds'>
+			 <img style=" border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src='img/{{ member.picture }}' alt="{{ member.name }}" />
+			 <h2>{{ member.name }} / {{ member.title }}</h2>
+			<p>{{ member.bio }}
+			<a href = "http://{{ member.website }}">{{ member.website }}</a>
+			<a href = "mailto:{{ member.email }}" >{{ member.email }}</a>
+			</p>
+			</div>
+
+			</a>
+
+			</div>
+	{% endfor %}
+
+	<div class="grid">
+			 <div class="unit two-thirds">
+			 <h1>Alumni Researchers and Interns</h1>
+
+			<p>Minkyeong Lee (2016) <a href="/projects/consumer_to_creator">Consumer to Creator</a></p>
+			 <p>Sumin Jang	(Summer 2016)	Visualizing Furniture Layouts in AR</p>
+			 	<p> Jaewoong Han	(Spring 2016)	3D Printing and Mold Making</p>
+			 			 <p>Tetiana Parshakova	(2015 - 2016) <a href="/projects/ratchair">RatChair</a></p>
+			 			 <p>Sangyeob Lee	(Summer 2015)	Interactive Camera System Interface</p>
+			 			 <p>Seoyoung Baek and Joonhee Min	(Summer 2015)	Surface Texturing in 3D Printing</p>
+			 			 <p>Alex Balio and Sam Ukolov	(2014 - 2015)	Painting Drone</p>
+			 			 <p>Felix Shin	(2013 - 2015) <a href="/projects/tag_radar">Tagradar</a></p>
+			 			 <p>Hayeon Jeong	(Winter 2013) <a href="/projects/i_eng">I-Eng</a></p>
+
+
+
+
+
+			 </div>
+	</div>
+
 
 </section>
 
 
 <section class = "join">
  <div class='grid'>
-  <div class = "unit two-thirds" style="background-color:#ffddff">
+  <div class = "unit two-thirds" >
     <h1>Join My Design Lab</h1>
-    <p style = "margin-left: auto; margin-right: auto;">We are always looking for new students and partners so please <a href="/contact/">contact us</a> for more information.</p>
+    <p>We are always looking for new students and partners. Please <a href="/contact/">contact us</a> for more information.</p>
    </div>
-  <div class = "unit one-third" style="background-color:#ddffff">
-	 <h1>sajdfhaksjdf</h1>
- </div>
 </div>
 </section>
 

@@ -12,7 +12,7 @@ weight: 5
 {% if entry == year[1].first %}
 <h2>{{ year[0] }}</h2>
 {% endif %}
-<p>{{entry.authors}}. {% if entry.pdf.size != undefined %}<a href = "{{ entry.pdf}}">{{entry.title}}.</a>{% else %}{{entry.title}}.{% endif %} In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.project.size != undefined %}<a href = "/projects/{{entry.project}}">[project page]</a>{% endif %} {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}</p>
+<p><b>{% if entry.pdf.size != undefined %}<a href = "{{ entry.pdf}}">{{entry.title}}.</a>{% else %}{{entry.title}}.{% endif %}</b> {{entry.authors}}. In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.project.size != undefined %}<a href = "/projects/{{entry.project}}">[project page]</a>{% endif %} {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}</p>
 {% endfor %}
 {% endfor %}
 

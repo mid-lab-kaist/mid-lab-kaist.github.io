@@ -72,7 +72,7 @@
   publication: "HCI Korea"
   date: 2016
   year: 2016
-  project: mirror-mirror
+  project: mirror
   pdf: ./files/han_hcik_2016.pdf
 
 - id: saakes_chi_2016
@@ -83,7 +83,7 @@
   year: 2016
   doi: 10.1145/2858036.2858282
   status: key
-  project: mirror-mirror
+  project: mirror
   pdf: ./files/saakes_chi_2016.pdf
 
 - id: parshakova_siggraph_etech_2016
@@ -166,7 +166,7 @@
   date: 2015
   year: 2015
   doi: 10.1145/2785585.2792961
-  project: mirror-mirror
+  project: mirror
   pdf: ./files/saakes_siggraph_studio_2015.pdf
 
 - id: saakes_siggraph_studio_talk_2015
@@ -176,7 +176,7 @@
   date: 2015
   year: 2015
   doi: 10.1145/2785585.2792691
-  project: mirror-mirror
+  project: mirror
   pdf: ./files/saakes_siggraph_studio_talk_2015.pdf
 
 - id: jeong_ubicomp_adj_2015
@@ -389,4 +389,3 @@
   publication: "The Best of Instructables Volume I: Do-It-Yourself Projects from the World's Biggest Show and Tell, Maker Media, North Sebastopol, CA"
   date: October 2008
   year: 2008
-

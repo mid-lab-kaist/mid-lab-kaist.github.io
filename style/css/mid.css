@@ -1,9 +1,10 @@
 
 header {
-  background-color: #FFFFFF;
+  display: block;
   border-bottom-color: #666666;
   border-bottom-width: 1px;
   border-bottom-style: dashed;
+  clear:both;
 }
 
 nav a {
@@ -22,20 +23,49 @@ nav a:hover {
 }
 
 nav {
-  border-bottom-color: #666666;
-    border-bottom-width: 1px;
-    border-bottom-style: dashed;
   padding:0;
   margin:0;
-
-
 }
 
 footer {
+  display: block;
   border-top-color: #666666;
   border-top-width: 1px;
   border-top-style: dashed;
-  display: block;
+}
+
+footer h2 {
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+footer h2 a {
+  text-decoration: none;
+}
+
+footer p {
+  font-weight: 400;
+  margin: auto;
+  font-size: 1.0rem;
+  line-height: 1.4rem;
+}
+
+
+.follow {
+  margin: 0;
+  padding: 0;
+}
+
+.follow li {
+  display:inline-block;
+  width: 15%;
+}
+
+section {
+  display:block;
+}
+
+article {
+  display:block;
 }
 
 .clearfix {
@@ -43,11 +73,29 @@ footer {
 }
 
 
+.smalldate {
+  font-weight: 300;
+  font-size: 0.4rem;
+}
+
 body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+.news-sidebar p {
+  padding: 0;
+  margin: 0;
+  padding-bottom:10px;
+  line-height: 1.2rem;
+  font-size: 1.0rem;
+  color:#666666;
+}
+.news-sidebar p a {
+  text-decoration: none;
+  font-weight: 500;
+  color:#51A7F9;
+}
 
 h1, h2,h3 {
   font-weight: 700;

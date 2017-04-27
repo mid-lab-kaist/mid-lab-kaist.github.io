@@ -11,6 +11,7 @@ weight: 3
 <div class="grid">
 		 <div class="unit whole">
 		 <h1>Meet the team</h1>
+		 <img src="img/all.jpg">
 		 </div>
 </div>
 

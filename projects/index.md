@@ -23,3 +23,5 @@ weight: 4
 {% endif %}
 
 </section>
+
+<div class="clearfix"/>

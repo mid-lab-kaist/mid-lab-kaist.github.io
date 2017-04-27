@@ -13,16 +13,13 @@
 </head>
 
 <body class="wrap">
-<!-- header nav -->
-<nav>
+<header>
   <div class="grid" >
        <div class="unit two-thirds" style="padding-top:0; padding-bottom:0;">
+         <nav>
          {% for p in site.data.menu %}<a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a>{% endfor %}
+       </nav>
        </div>
-       <div class="unit one-third" style="padding-top:0; padding-bottom:0;">
-         <a href="/contact">contact</a>
-       </div>
-
   </div>
   <div class="clearfix"/>
-</nav>
+</header>

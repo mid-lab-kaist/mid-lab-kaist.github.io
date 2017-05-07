@@ -19,8 +19,8 @@ nav a {
   font-weight: 200;
   font-size: 1.3rem;
 }
-nav a em {
-  font-weight: 400;
+nav a b {
+  font-weight: 600;
   vertical-align: top;
   font-style: normal;
 }

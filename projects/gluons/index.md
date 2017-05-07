@@ -13,4 +13,4 @@ We propose a physical computing paradigm fully exploiting this novel technology.
 
 The overall system is a compound of (an unlimited) set of independent data-processing nodes supporting an event-driven data-flow programming scheme. We demonstrate in a few examples how such networks can be deployed - spatially programmed - through intuitive physical actions, and discuss the unique qualities and challenges of Spatial Physical Computing.
 
-<img src = "img/thumb.jpg" />
+<img src = "img/thumb.jpg" alt="image of all gluon prototypes"/>

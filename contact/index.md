@@ -59,4 +59,4 @@ Email: mydesign.kaist@gmail.com<br/>
 </div>
 
 </section>
-<div class="clearfix"/>
+<div class="clearfix" ></div>

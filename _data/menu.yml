@@ -1,4 +1,4 @@
-- title: '<img src="/style/img/lablogo_small.png" style="height:2rem; width:4rem;" /> my<em>design</em>Lab'
+- title: '<img src="/style/img/lablogo_small.png" style="height:2rem; width:4rem;" alt="lab logo" /> my<em>design</em>Lab'
   url: /
 - title: people
   url: /people/

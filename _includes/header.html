@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<head>
+<title>my design lab -- {{page.title}}</title>
+<link rel="stylesheet" href="/style/css/normalize.css">
+<link rel="stylesheet" href="/style/css/gridism.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200italic,300,300italic,400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/style/css/mid.css">
+<link rel="shortcut icon" type="image/png" href="/style/img/favicon.png"/>
+</head>
+
+<body class="wrap">
+<header>
+  <div class="grid" >
+       <div class="unit whole" style="padding-top:0; padding-bottom:0;">
+         <nav>
+         {% for p in site.data.menu %}<a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a>{% endfor %}
+       </nav>
+       </div>
+  </div>
+  <div class="clearfix"/>
+</header>

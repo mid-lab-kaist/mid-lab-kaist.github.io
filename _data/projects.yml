@@ -1,145 +1,123 @@
-- title: Mirror Mirror
-  abstract: A design system that combines spatial augmented reality with a mirror display.
-  link: /projects/mirror
-  picture: mirror.jpg
-  picture_change: mirror_change.jpg
-  picture_gallery: mirror_gallery.jpg
-  
-- title: Ori-Mandu
+- id: consumer_to_creator
+  title: Consumer to Creator
+  abstract: We studied 16 households in process of selecting and purchasing furniture items. Our insights help designing future fabrication interfaces.
+  link: /projects/consumer_to_creator
+  picture: ctc.jpg
+
+- id: ori-mandu
+  title: "Ori-Mandu: Korean dumplings in whatever shape you want"
   abstract: A novel and hybrid process that uses custom fabricated tools that assist in the process of cooking dumplings.
   link: /projects/ori-mandu
   picture: ori-mandu.jpg
-  picture_change: ori-mandu_change.jpg
-  picture_gallery: ori-mandu_gallery.jpg
-  
-- title: Consumer to Creator
-  abstract: Research into the purchasing process of furniture items for the homes of casual users.
-  link: /projects/consumer_to_creator
-  picture: ctc.jpg
-  picture_change: ctc_change.jpg
-  picture_gallery: ctc_gallery.jpg
 
-- title: Calm Automaton
-  abstract: A customizable and programmable physical display that gently visualizes abstract data.
-  link: /projects/calm_automaton
-  picture: automaton.jpg
-  picture_change: automaton_change.jpg
-  picture_gallery: automaton_gallery.jpg
-  
-- title: Gluons
-  abstract: Small battery powered devices that can be used to create, test, and tune smart sensor/actuator networks.
-  link: /projects/gluons
-  picture: gluons.jpg
-  picture_change: gluons_change.jpg
-  picture_gallery: gluons_gallery.jpg
-  
-- title: BodyMeter
+- id: mirror
+  title: Mirror Mirror
+  abstract: A design system that combines spatial augmented reality with a mirror display.
+  link: /projects/mirror
+  picture: mirror.jpg
+
+- id: bodymeter
+  title: BodyMeter
   abstract: A user-centered approach where posing and acting is input for personalizing furniture
   link: /projects/bodymeter
   picture: bodymeter.jpg
-  picture_change: bodymeter_change.jpg
-  picture_gallery: bodymeter_gallery.jpg
-  
-- title: TwoShelves
-  abstract: A shelf design application that runs on multiple tablets that projects the design real-time and real-scale in the living room. 
+
+- id: gluons
+  title: Gluons
+  abstract: Small battery powered devices that can be used to create, test, and tune smart sensor/actuator networks.
+  link: /projects/gluons
+  picture: gluons.jpg
+
+- id: calm_automaton
+  title: Calm Automaton
+  abstract: A customizable automaton toolkit to make gentle shape changing ambient displays to display information in the periphery.
+  link: /projects/calm_automaton
+  picture: calm_automaton.jpg
+
+- id: twoshelves
+  title: TwoShelves
+  abstract: A shelf design application that runs on multiple tablets that projects the design real-time and real-scale in the living room.
   link: /projects/twoshelves
   picture: twoshelves.jpg
-  picture_change: twoshelves_change.jpg
-  picture_gallery: twoshelves_gallery.jpg
-  
-- title: RatChair
+
+- id: ratchair
+  title: RatChair
   abstract: A strategy for displacing big objects by attaching relatively small vibration sources.
   link: /projects/ratchair
-  picture: ratchair.png
-  picture_change: ratchair_change.png
-  picture_gallery: ratchair_gallery.png
- 
-- title: LEDraw
-  abstract: A module based on long time exposure photography that allows you to draw in 2D or 3D with light.
-  link: /projects/ledraw
-  picture: ledraw.jpg
-  picture_change: ledraw_change.jpg
-  picture_gallery: ledraw_gallery.jpg 
+  picture: ratchair.jpg
 
-- title: User Review Analysis
+- id: user_review_analysis
+  title: User Review Analysis
   abstract: A new technique that uses big data to uncover user needs for product designers.
   link: /projects/user_review_analysis
-  picture: user_review_analysis.png
-  picture_change: user_review_analysis_change.png
-  picture_gallery: user_review_analysis_gallery.png
-  
-- title: Tag Radar
+  picture: user_review_analysis.jpg
+
+- id: tag_radar
+  title: Tag Radar
   abstract: A smart phone accessory that helps users to locate objects with radio frequency tags.
   link: /projects/tag_radar
-  picture: tag_radar.png
-  picture_change: tag_radar_change.png
-  picture_gallery: tag_radar_gallery.png
-  
+  picture: tag_radar.jpg
+
 - title: I-Eng
   abstract: An interactive toy set aiming to teach new languages to young children between the ages of 3 - 5.
   link: /projects/i_eng
   picture: i_eng.png
-  picture_change: i_eng_change.png
-  picture_gallery: i_eng_gallery.png
-  
-- title: Interactive Chopsticks
+
+- id: chopsticks
+  title: Interactive Chopsticks
   abstract: Interactive training chopsticks that help children develop fine motor skills and eye-hand coordination that are needed for eating with chopsticks.
   link: /projects/chopsticks
   picture: chopsticks.jpg
-  picture_change: chopsticks_change.jpg
-  picture_gallery: chopsticks_gallery.jpg
 
-- title: Flying Camera
+- id: flying_camera
+  title: Flying Camera
   abstract: Novel flying cameras that provide teleoperators a 3rd person view on ground robots.
-  link: http://saakes.net/projects/3rd-person
   picture: flying_camera.jpg
-  picture_change: flying_camera_change.jpg
+  link: /projects/flying_camera
 
-- title: Shader Printer
-  abstract: A stateful projector display that uses bi-stable color changing inks.
-  link: http://vimeo.com/42260705
-  picture: shader_printer.jpg
-  picture_change: shader_printer_change.jpg
 
-- title: Skin
-  abstract: An spatial augmented reality application to "sketch" materials on objects.
-  link: http://www.studiolab.nl/skin
-  picture: skin.jpg
-  picture_change: skin_change.jpg
 
-- title: Lampan
+- id: lampan
+  title: Lampan
   abstract: Ikea Hacking as open design.
-  link: http://saakes.net/projects/lampan
+  link: /projects/lampan
   picture: lampan.jpg
   picture_change: lampan_change.jpg
 
-- title: Photochromic Carpet
+- id: photochromic_carpet
+  title: Photochromic Carpet
   abstract: A large size interactive floor display that captures visitors' footsteps in playful prints to make an environment into a canvas of past activities.
-  link: http://saakes.net/projects/carpet
+  link: /projects/photochromic_carpet
   picture: carpet.jpg
-  picture_change: carpet_change.jpg
 
-- title: Paccam
+- id: paccam
+  title: Paccam
   abstract: A tool that assists users of laser cutters to make overlap-free 2D layouts.
-  link: http://saakes.net/projects/paccam
+  link: /projects/paccam
   picture: paccam.jpg
-  picture_change: paccam_change.jpg
 
 
-- title: Delft Blue By Me
-  abstract: A system that helps tourists design and order their customized Delft Blue pottery.
-  link: http://www.delftbluebyme.com/
+- id: delftblue_by_me
+  title: Delft Blue By Me
+  abstract: Custom made Delft Blue souveniers
+  link: /projects/delftblue_by_me
   picture: delftblue.jpg
-  picture_change: delftblue_change.jpg
+
+- id: shader_printer
+  title: Shader Printer
+  abstract: A stateful projector display that uses bi-stable color changing inks.
+  picture: shader_printer.jpg
+  link: /projects/shader_printer
 
 
-- title: Slow Display
+- id: slow_display
+  title: Slow Display
   abstract: A novel tradeoff between projection and print.
-  link: http://vimeo.com/13505605
-  picture: slow.jpg
-  picture_change: slow_change.jpg
+  link: /projects/slow_display
+  picture: slow_display.gif
 
-
-
-
-
+- id: skin
+  title: Material Design Workshop
+  abstract: Spatial augmented reality to "sketch" materials on objects.
+  link: /projects/skin
+  picture: skin.jpg

@@ -1,6 +1,58 @@
 ---
 title: home
-layout: index
+layout: bare
 weight: 1
-
 ---
+  <section class="home">
+
+<div class = "grid">
+  <div class = "unit one-third" >
+    <h1>My Design Lab</h1>
+    <p>We study people as the designers of their own life. We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
+    </p>
+    <p>We are based in the department of Industrial Design at KAIST in the republic of Korea.</p>
+  </div>
+
+<div class = "unit two-thirds">
+  {% include project_summary.html project="ori-mandu" %}
+</div>
+</div>
+
+<div class = "grid">
+ <div class = "unit one-third" >
+   {% include project_summary.html project="consumer_to_creator" %}
+ </div>
+<div class = "unit one-third" >
+{% include project_summary.html project="bodymeter" %}</div>
+<div class = "unit one-third" >
+  {% include project_summary.html project="mirror" %}
+</div>
+</div>
+
+<div class = "grid">
+<div class = "unit two-thirds" >
+{% include project_summary.html project="calm_automaton" %}
+</div>
+<div class = "unit one-third" >
+  <h2>Latest News</h2>
+  {% include last_news.html %}
+  <h2><a href="/news">More news on the news page</a></h2>
+</div>
+</div>
+
+<div class = "grid">
+<div class = "unit one-third" >
+  <a href="/projects/ratchair"><img src="/projects/ratchair/img/gallery.jpg"/></a>
+  <h2>Furniture that learns to move itself by vibration</h2>
+  <p>The Ratchairs have been vibrating since 2015. Watch the new video.</p>
+</div>
+<div class = "unit one-third" >
+  {% include project_summary.html project="gluons" %}
+</div>
+<div class = "unit one-third" >
+  {% include project_summary.html project="twoshelves" %}
+</div>
+</div>
+
+
+</section>

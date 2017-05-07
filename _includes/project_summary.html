@@ -1,0 +1,5 @@
+{% for p in site.data.projects %}
+{% if p.id == include.project %}
+<a href="{{ p.link }}"><img src="/projects/{{ p.id }}/img/{{ p.picture }}" alt="{{ p.title }}" /></a><h2>{{ p.title }}</h2><p>{{ p.abstract }}</p>
+{% endif %}
+{% endfor %}

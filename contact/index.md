@@ -41,8 +41,8 @@ Email: mydesign.kaist@gmail.com<br/>
 <div class = "unit two-thirds" >
 
 <h2>How to get to KAIST from the airport</h2>
-<p>The KAIST campus is south of Seoul about 1 hour with the high speed train. Many people like the bus (2.5 hours) but most convenient is to take an <a href="http://english.visitkorea.or.kr/enu/TRP/TP_ENG_2_1.jsp">AREX</a> from the airport to Seoul station. From Seoul station take a <a href="http://www.letskorail.com/ebizbf/EbizBfTicketSearch.do">KTX high-speed train</a> to Daejeon. In Daejeon take a taxi to KAIST, or use the subway.
-Visit the <a href="http://www.kaist.edu/html/en/kaist/kaist_01070704.html">how to get to KAIST page</a> for more details.
+<p>The KAIST campus is south of Seoul about 1 hour with the high speed train. Many people like the bus (2.5 hours) but most convenient is to take an <a href="http://english.visitkorea.or.kr/enu/TRP/TP_ENG_2_1.jsp">AREX</a> from the airport to Seoul station. From Seoul station take a <a href="http://www.letskorail.com/ebizbf/EbizBfTicketSearch.do">KTX high-speed train</a> to Daejeon.</p>
+<p> In Daejeon take a taxi to KAIST, or use the subway. From subway station KAIST/Wolpyeon to our building takes about 30 minutes on foot along the river. Visit the <a href="http://www.kaist.edu/html/en/kaist/kaist_01070704.html">how to get to KAIST page</a> for more details.
 </p>
 
 <h2>How to get to our building</h2>

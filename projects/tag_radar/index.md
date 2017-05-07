@@ -2,7 +2,7 @@
 title: TagRadar
 layout: project
 weight: 0
-project: tagradar
+project: tag_radar
 ---
 TagRadar is a smart phone accessory that helps users to locate objects with radio frequency tags. We employ a directional antenna and combine signal strength readings with headings obtained from the compass of the smart
 phone.

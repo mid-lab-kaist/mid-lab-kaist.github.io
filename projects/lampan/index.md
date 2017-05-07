@@ -20,6 +20,6 @@ Instructions are posted on the [instructables](http://www.instructables.com/id/B
 
 A DIY kit for the no.6 that contains the manual, the template and the fasteners. Just add 6 lamps. A token of appreciation given to new subscribers of the bright magazine
 
-![92 lamps version](img/no192.jpg)
+![92 lamps version](img/no92.jpg)
 
-The biggest and the baddest lamp is no 192. Larger it cannot get, because the base of a lampan is smaller than it’s shade. The total diameter of no. 192 is only 140 cm by approximation. Made in Delft with Aadjan van der Helm and Walter Aprile.
+The biggest and the baddest lamp is no 92. Larger it cannot get, because the base of a lampan is smaller than it’s shade. The total diameter of no. 92 is only 140 cm by approximation. Made in Delft with Aadjan van der Helm and Walter Aprile.

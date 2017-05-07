@@ -9,14 +9,22 @@ header {
 
 nav a {
   display: inline-block;
-  padding: 10px;
+  padding: 4px;
+  padding-left:0;
+  padding-right:10px;
   margin: 0;
-
+  vertical-align: top;
   text-decoration: none;
-  color:#666666;
+  color:#303030;
   font-weight: 200;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
+nav a em {
+  font-weight: 400;
+  vertical-align: top;
+  font-style: normal;
+}
+
 nav a:hover {
   text-decoration:underline;
 
@@ -49,6 +57,18 @@ footer p {
   line-height: 1.4rem;
 }
 
+.five_images {
+  padding:0;
+  margin:0;
+  width:100%;
+}
+
+.five_images img {
+  display:inline-block;
+  width: 19.5%;
+  margin:0;
+  padding:0;
+}
 
 .follow {
   margin: 0;
@@ -80,6 +100,7 @@ article {
 
 body {
   background-color: #fff;
+  color:#303030;
   font-family: 'Source Sans Pro', sans-serif;
 }
 

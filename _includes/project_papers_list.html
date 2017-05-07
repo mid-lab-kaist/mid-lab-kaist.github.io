@@ -5,7 +5,7 @@
 {% if entry.status == "key" %}
 {% if entry.project == include.project %}
 <p>
-{{entry.authors}}. {% if entry.pdf.size != undefined %}<a href = "files/{{ entry.id }}.pdf">{{entry.title}}.</a>{% else %}{{entry.title}}{% endif %} In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}
+{{entry.authors}}. {% if entry.pdf.size != undefined %}<a href = "/publications/files/{{ entry.id }}.pdf">{{entry.title}}.</a>{% else %}{{entry.title}}{% endif %} In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}
 </p>
 {% endif %}
 {% endif %}
@@ -16,7 +16,7 @@
 {% if entry.project == include.project %}
 {% if entry.status != "key" %}
 <p>
-{{entry.authors}}. {% if entry.pdf.size != undefined %}<a href = "files/{{ entry.id }}.pdf">{{entry.title}}.</a>{% else %}{{entry.title}}{% endif %} In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}
+{{entry.authors}}. {% if entry.pdf.size != undefined %}<a href = "/publications/files/{{ entry.id }}.pdf">{{entry.title}}.</a>{% else %}{{entry.title}}{% endif %} In <i>{{entry.publication}}</i>. {{entry.date}}. {% if entry.doi.size != undefined %}<a href = "https://dx.doi.org/{{entry.doi}}">[doi]</a>{% endif %} <a href="files/{{entry.id}}.bib">[bib]</a> {% if entry.prize.size != undefined %}<em>{{entry.prize}}.</em>{% endif %}
 </p>
 {% endif %}
 {% endif %}

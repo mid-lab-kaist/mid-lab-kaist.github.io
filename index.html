@@ -20,13 +20,10 @@ weight: 1
 
 <div class = "grid">
  <div class = "unit one-third" >
-   {% include project_summary.html project="calm_automaton" %}
+   {% include project_summary.html project="consumer_to_creator" %}
  </div>
 <div class = "unit one-third" >
-  <img src="/projects/bodymeter/img/gallery.jpg"/>
-
-    <h2>Body Meter</h2>
-</div>
+{% include project_summary.html project="bodymeter" %}</div>
 <div class = "unit one-third" >
   {% include project_summary.html project="mirror" %}
 </div>
@@ -45,9 +42,15 @@ weight: 1
 
 <div class = "grid">
 <div class = "unit one-third" >
-  <img src="/projects/ratchair/img/gallery.jpg"/>
+  <a href="/projects/ratchair"><img src="/projects/ratchair/img/gallery.jpg"/></a>
   <h2>Furniture that learns to move itself by vibration</h2>
   <p>The Ratchairs have been vibrating since 2015. Watch the new video.</p>
+</div>
+<div class = "unit one-third" >
+  {% include project_summary.html project="gluons" %}
+</div>
+<div class = "unit one-third" >
+  {% include project_summary.html project="twoshelves" %}
 </div>
 </div>
 

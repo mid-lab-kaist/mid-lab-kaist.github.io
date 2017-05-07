@@ -2,7 +2,7 @@
 title: I-Eng
 subtitle: An Interactive Toy for Second Language Learning
 layout: project
-project: i-eng
+project: i_eng
 weight: 0
 ---
 

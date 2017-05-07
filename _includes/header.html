@@ -15,7 +15,7 @@
 <body class="wrap">
 <header>
   <div class="grid" >
-       <div class="unit two-thirds" style="padding-top:0; padding-bottom:0;">
+       <div class="unit whole" style="padding-top:0; padding-bottom:0;">
          <nav>
          {% for p in site.data.menu %}<a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a>{% endfor %}
        </nav>

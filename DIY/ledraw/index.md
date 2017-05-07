@@ -1,6 +1,6 @@
 ---
 title: LEDraw
-layout: project
+layout: simple
 weight: 0
 ---
 

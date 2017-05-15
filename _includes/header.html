@@ -17,7 +17,7 @@
 <header>
   <div class="grid" >
        <div class="unit whole" style="padding-top:0; padding-bottom:0;">
-         <nav><a href="\"><img src="/style/img/lablogo_small.png" style="height:2rem; width:4rem;" alt="lab logo" /></a>
+         <nav><a href="/"><img src="/style/img/lablogo_small.png" style="height:2rem; width:4rem;" alt="lab logo" /></a>
          {% for p in site.data.menu %}<a {% if p.url == page.url %} class = "active"{% endif %} href = "{{ p.url }}">{{ p.title }}</a>{% endfor %}
        </nav>
        </div>

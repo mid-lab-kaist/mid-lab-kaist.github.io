@@ -26,14 +26,15 @@ then point your browser to
 
 **Adding New Projects**
 
-The preferred *naming* of projects is all *lowercase* using *underscore* _ to separate words. For instance consumer_to_creator, or calm_automaton.
+The preferred **naming** of projects is all *lowercase* using *underscore* _ to separate words. For instance consumer_to_creator, or calm_automaton.
 
 Put projects in the \_projects folder, and will be automatically rendered in the projects folder on the website. In rare cases we add things to the projects folder. For instance, i moved LeDraw to the DIY folder, but since already a few pages linked to it, i keep a redirect in the projects folder.
 
-The first few lines of a project is the so called *front matter*. Which is used for various functionality, such as helping search engines, compiling a list of projects and finding related papers.
+The first few lines of a project is the so called **front matter**. Which is used for various functionality, such as helping search engines, compiling a list of projects and finding related papers.
 Example front matter:
 
-\-\-\-
+```
+---
 project: user_review_analysis
 permalink: /projects/user_review_analysis/
 title: User Review Analysis
@@ -41,15 +42,23 @@ short: A new technique that uses big data to uncover user needs for product desi
 long: A new technique that uses big data to uncover user needs for product designers.
 picture: user_review_analysis.jpg
 layout: project
-\-\-\-
+---
+```
 
-*project:* this should match the folder
-*permalink:* the absolute path to the project folder, end with a /
-*title:* a human readable title.
-*short:* a description. Used in the project overview page for the summary.
+*project:* this should match the folder 
+
+*permalink:* the absolute path to the project folder, end with a / 
+
+*title:* a human readable title. 
+
+*short:* a description. Used in the project overview page for the summary. 
+
 *long:* a description that is used in google searches and when pages are linked in facebook.
+
 *picture:* a picture of the project 16:9 aspect ratio (go for 1920x1080 or 1280x720)
+
 *thumbnail:* the same picture but a low resolution version: (640x360)
+
 *layout:* we have several layouts. *project* is the simple layout. *project_advanced* has more options. Check the other projects for examples
 
 optional items for the frontmatter are

@@ -21,9 +21,9 @@ weight: 3
 			 <div class='unit two-thirds'>
 			 <img style=" border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src='img/{{ member.picture }}' alt="{{ member.name }}" />
 			 <h2>{{ member.name }} / {{ member.title }}</h2>
+			<p><a href = "http://{{ member.website }}">{{ member.website }}</a>
+			<a href = "mailto:{{ member.email }}" >{{ member.email }}</a></p>
 			<p>{{ member.bio }}
-			<a href = "http://{{ member.website }}">{{ member.website }}</a>
-			<a href = "mailto:{{ member.email }}" >{{ member.email }}</a>
 			</p>
 			</div>
 
@@ -44,9 +44,10 @@ weight: 3
 			 <div class='unit two-thirds'>
 			 <img style=" border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src='img/{{ member.picture }}' alt="{{ member.name }}" />
 			 <h2>{{ member.name }} / {{ member.title }}</h2>
+			 
+			<p><a href = "http://{{ member.website }}">{{ member.website }}</a>
+			<a href = "mailto:{{ member.email }}" >{{ member.email }}</a></p>
 			<p>{{ member.bio }}
-			<a href = "http://{{ member.website }}">{{ member.website }}</a>
-			<a href = "mailto:{{ member.email }}" >{{ member.email }}</a>
 			</p>
 			</div>
 

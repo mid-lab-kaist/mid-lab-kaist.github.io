@@ -1,10 +1,18 @@
+- name: Gary Ng
+  short: gary
+  title: Alumni (MSc)
+  picture: gary.jpg
+  website: garykcng.com
+  email: garykcng@kaist.ac.kr
+  bio : Gary received his bachelor's degree in Game Development and Entrepreneurship at the University of Ontario Institute of Technology in Canada. He joined the lab in Fall of 2015 and graduated from the lab in the 2017 Spring semester.
+
 - name : Minjoo Lisa Cho
   title : Alumni (MSc)
   short: minjoo
   picture: minjoo.png
   website: minjoolisacho.net
   email: koopoo87@kaist.ac.kr
-  bio: Minjoo received her bachelors degree in Electrical Engineering in 2011 at KAIST. Prior to joining the lab in Spring of 2015, she worked as a Product Manager at Samsung Electronics. Minjoo graduated from the lab in the 2016 Winter semester with her project <a href = "../projects/calm_automaton/">Calm Automaton</a>.
+  bio: Minjoo received her bachelors degree in Electrical Engineering in 2011 at KAIST. Prior to joining the lab in Spring of 2015, she worked as a Product Manager at Samsung Electronics. Minjoo graduated from the lab in the 2016 Fall semester with her project <a href = "../projects/calm_automaton/">Calm Automaton</a>.
 
 - name: Foong-Yi Chia
   short: foongyi
@@ -12,4 +20,4 @@
   picture: foong-yi.jpg
   website: foongyichia.net
   email: chiafyi@gmail.com
-  bio: Foong-Yi joined the lab in the 2013 Fall semester with a bachelor's degree in Aerospace Engineering. She researched inventing new products and making innovations that help people without a design background to design better. Her master's thesis project was <a href = "../projects/twoshelves/">TwoShelves</a>, a collaborative platform for couples designing at home. Foong-Yi graduated in the Spring of 2015 and is currently working for <a href = "http://samcokorea.com/">Samco Korea</a>.
+  bio: Foong-Yi joined the lab in the 2013 Fall semester with a bachelor's degree in Aerospace Engineering. Her master's thesis project was <a href = "../projects/twoshelves/">TwoShelves</a>, a collaborative platform for couples designing at home. Foong-Yi graduated in the Spring of 2015 and is currently working for <a href = "http://samcokorea.com/">Samco Korea</a>.

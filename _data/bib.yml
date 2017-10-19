@@ -67,6 +67,16 @@
   project: consumer_to_creator
   pdf: ./files/lee_chi_2017.pdf
 
+- id: reyes_ksds_2017
+  title: "Doori Noori - Designing for Non Co-located Communication Between Working Parents and their Preschoolers"
+  authors: Maria Jose Reyes, Daniel Saakes and Seok-hyung Bae
+  publication: "KSDS Spring Conference 2017"
+  date: June 2017
+  year: 2017
+  status: key
+  project: doori_noori
+  pdf: ./files/reyes_ksds_2017.pdf
+
 2016:
 - id: kim_ksds_2016
   title: "Gesture-based Trafficator to Improve Driver to Traffic Communication"

@@ -4,10 +4,21 @@
 <div class = "grid">
  <div class = "unit two-thirds">
     <h1>{{page.title}}</h1>
-
+     {% if page.picture.size != undefined %}<img alt="{{ page.title }}" src="/news/img/{{ page.picture }}"/>{% endif %}
      {{content}}
+
  </div>
  <div class = "unit one-third news-sidebar">
+
+     {% if page.next.url %}
+       <p><b>Next news item: </b><a href="{{page.next.url}}">{{page.next.title}}</a></p>
+     {% endif %}
+
+     {% if page.previous.url %}
+                <p><b>Previous news item: </b><a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+  {% endif %}
+
+
    <h2>Latest news items</h2>
    {% include last_news.html %}
  </div>

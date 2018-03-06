@@ -1,3 +1,19 @@
+- name : Gyeol Han
+  short: gyeol
+  title : Master's Candidate
+  picture: gyeol.jpg
+  website: gyeol.co
+  email: hgyeols@gmail.com
+  bio : Gyeol graduated KAIST's undergraduate Industrial Design program with BOP (Between Openness and Privacy) tools to protect privacy offline. She joined myDesignLab in Spring of 2015 and graduated from the lab in the 2017 Fall semester.
+
+- name : Jundong Park
+  short: jundong
+  title : Master's Candidate
+  picture : jundong.jpg
+  website: mid.kaist.ac.kr
+  email: messinger@kaist.ac.kr
+  bio : Jundong received his bachelor's degree in Industrial Design at KAIST with a sub-major in Mechanical Engineering. He joined in the Spring of 2016 and graduated from the lab in the 2017 Fall semester.
+
 - name: Gary Ng
   short: gary
   title: Alumni (MSc)

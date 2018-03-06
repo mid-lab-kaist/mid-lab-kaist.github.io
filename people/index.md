@@ -59,7 +59,10 @@ weight: 3
 	<div class="grid">
 			 <div class="unit two-thirds">
 			 <h1>Alumni Researchers and Interns</h1>
-
+			<p>Anthony Wilson (2017 - Spring 2018)</p>
+			<p>Woojae Kang (Winter - Spring 2018)</p>
+			<p>Jinyoung Jeong (Winter - Spring 2018)</p>
+			<p>Alex Calero (February 2018)</p>
 			<p>Minkyeong Lee (2016) <a href="/projects/consumer_to_creator">Consumer to Creator</a></p>
 			 <p>Sumin Jang	(Summer 2016)	Visualizing Furniture Layouts in AR</p>
 			 	<p> Jaewoong Han	(Spring 2016)	3D Printing and Mold Making</p>

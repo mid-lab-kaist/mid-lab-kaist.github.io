@@ -22,22 +22,6 @@
   email: joongishin@gmail.com
   bio : Joon received his bachelor's degree in Industrial Design at the University of the Arts in the United States. He joined the lab in Fall of 2016. He is interested in communication and UX design.
 
-- name : Gyeol Han
-  short: gyeol
-  title : Master's Candidate
-  picture: gyeol.jpg
-  website: gyeol.co
-  email: hgyeols@gmail.com
-  bio : Gyeol graduated KAIST's undergraduate Industrial Design program with BOP (Between Openness and Privacy) tools to protect privacy offline. She joined myDesignLab in Spring of 2015. She is interested in various design areas such as visual communication as well as merging technology with design.
-
-- name : Jundong Park
-  short: jundong
-  title : Master's Candidate
-  picture : jundong.jpg
-  website: mid.kaist.ac.kr
-  email: messinger@kaist.ac.kr
-  bio : Jundong received his bachelor's degree in Industrial Design at KAIST with a sub-major in Mechanical Engineering. He has a great fondness for books and joined in the Spring of 2016. Jundong is interested in how calm emotions relate to our busy-energetic modern lives and how design could be a medium between the two.
-
 - name : Maria Reyes
   short: maria
   title : Master's Candidate
@@ -54,3 +38,18 @@
   email: realkim93@kaist.ac.kr
   bio : Seungryeol earned his bachelor’s degree in Industrial Design at KAIST with his <a href="/publications/files/2016_gesture_trafficator_paper.pdf">Trafficator</a> project. He is interested in cars, not only its design but also history, technology, and social role. He joined myDesignLab in the Spring of 2017.
   
+- name : Jaeho Sung
+  short: jaeho
+  title : Master's Candidate
+  picture : jaeho.jpg
+  website: mid.kaist.ac.kr
+  email: jh_sung@kaist.ac.kr  
+  bio : Jaeho received his BS in Industrial Design with a double major in Mechanical Engineering at KAIST. He won Excellence Award with his BS thesis research <a href="http://windowfactory.org/">Window Factory</a>. He joined myDesignLab in Spring of 2018 and is interested in how state-of-the-art technologies, especially Deep Learning, can be applied to design area.
+
+- name : Donghyeok Yun
+  short: donghyeok
+  title : Master's Candidate
+  picture : donghyeok.jpg
+  website: mid.kaist.ac.kr
+  email: dbsehdgur200@kaist.ac.kr
+  bio : Donghyeok earned his bachelor’s degree in Industrial Design at KAIST with his Velofin project. He joined myDesignLab in the Spring of 2018. He is interested in sports product fitting service for long-turm ergonomic effects.

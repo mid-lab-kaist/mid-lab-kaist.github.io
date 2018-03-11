@@ -1,3 +1,57 @@
+2018:
+- id: lee_dis_2018
+  title: "Interactive and Situated Guidelines to Help Users Design a Personal Desk that Fits Their Bodies"
+  authors: Bokyung Lee, Joon Gi Shin, Hyo Shin Bae and Daniel Saakes
+  publication: "DIS '18"
+  date: 2018
+  year: 2018
+  project: body2desk
+
+- id: shin_chi_video_2018
+  title: "Rolling Graphics: Create Graphics on the Cross Section of a Roll Cake"
+  authors: Joon Gi Shin, Maria Jose Reyes, Suah Han, Moojin Joh and Daniel Saakes
+  publication: "CHI Extended Abstracts '18"
+  date: 2018
+  year: 2018
+  doi: 10.1145/3170427.3186602
+  project: rolling_graphics
+
+- id: shin_chi_wip_2018
+  title: "Actuating a Monitor for Posture Changes"
+  authors: Joon Gi Shin, Woohyeok Choi, Uichin Lee and Daniel Saakes
+  publication: "CHI Extended Abstracts '18"
+  date: 2018
+  year: 2018
+  doi: 10.1145/3170427.3188562
+  project: actuated_monitor
+
+- id: ng_tei_2018
+  title: "Situated Game Level Editing in Augmented Reality"
+  authors: Gary Ng, Joon-Gi Shin, Alexander Plopski, Christian Sandor and Daniel Saakes
+  publication: "TEI '18"
+  date: 2018
+  year: 2018
+  doi: 10.1145/3173225.3173230
+  project: ar_level_editor
+
+- id: rompay_fqp_2018
+  title: "The Sweetest Punch Effects of 3D-printed Surface Textures and Graphic Design on Ice-Cream Evaluation"
+  authors: Thomas J.L. Van Rompay, Lisa-Marie Kramer and Daniel Saakes
+  publication: "Food Quality and Preference"
+  date: 2018
+  year: 2018
+  doi: 10.1016/j.foodqual.2018.02.015
+  project: food_taste
+
+- id: Shin_ah_2018
+  title: "Couples Designing Their Living Room Together: A Study with Collaborative Handheld Augmented Reality"
+  authors: Joon Gi Shin, Gary Ng and Daniel Saakes
+  publication: "AH '18"
+  date: 2018
+  year: 2018
+  doi: 10.1145/3174910.3174930
+  project: sharedesign
+
 2017:
 - id: lee_dis_2017
   title: "Ori-mandu: Korean Dumpling into Whatever Shape You Want"
@@ -5,6 +59,7 @@
   publication: "DIS '17"
   date: 2017
   year: 2017
+  doi: 10.1145/3064663.3064790
   project: ori-mandu
   pdf: ./files/lee_dis_2017.pdf
 
@@ -48,11 +103,12 @@
   pdf: ./files/lee_chi_adj_2017.pdf
 
 - id: parshakova_chi_adj_2017
-  title: "Furniture that learns to move itself"
+  title: "Furniture That Learns to Move Itself"
   authors: Tetiana Parshakova, Minjoo Cho, Alvaro Cassinelli and Daniel Saakes
-  publication: "CHI '17 Extended Abstracts on Human Factors in Computing Systems"
+  publication: "CHI EA '17"
   date: 2017
   year: 2017
+  doi: 10.1145/3027063.3049778
   project: ratchair
   pdf: ./files/parshakova_chi_adj_2017.pdf
 
@@ -152,6 +208,7 @@
   date: 2016
   year: 2016
   doi: 10.1016/j.foodqual.2016.12.002
+  project: food_taste
   pdf: ./files/rompay_fqp_2016.pdf
 
 - id: ng_ksds_2016
@@ -273,7 +330,7 @@
   title: "An Industrial Designer's Perspective on Future Makers"
   authors: Tek-Jin Nam and Daniel Saakes
   publication: "Critical Alternatives 2015 workshop: The Future of Making: Where Industrial and Personal Fabrication Meet"
-  date: 2015
+  date: August 2015
   year: 2015
   pdf: ./files/nam_ca_2015.pdf
 

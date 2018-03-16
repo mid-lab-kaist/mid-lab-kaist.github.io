@@ -3,6 +3,10 @@ title: projects
 layout: default
 weight: 4
 featured:
+ - actuated_monitor
+ - ar_level_editor
+ - rolling_graphics
+ - couples_designing_together
  - consumer_to_creator
  - "ori-mandu"
  - mirror

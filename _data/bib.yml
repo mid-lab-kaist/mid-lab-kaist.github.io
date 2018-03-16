@@ -15,6 +15,7 @@
   year: 2018
   doi: 10.1145/3170427.3186602
   project: rolling_graphics
+  pdf: ./files/shin_chi_video_2018.pdf
 
 - id: shin_chi_wip_2018
   title: "Actuating a Monitor for Posture Changes"
@@ -24,15 +25,17 @@
   year: 2018
   doi: 10.1145/3170427.3188562
   project: actuated_monitor
+  pdf: ./files/shin_chi_wip_2018.pdf
 
 - id: ng_tei_2018
   title: "Situated Game Level Editing in Augmented Reality"
-  authors: Gary Ng, Joon-Gi Shin, Alexander Plopski, Christian Sandor and Daniel Saakes
+  authors: Gary Ng, Joon Gi Shin, Alexander Plopski, Christian Sandor and Daniel Saakes
   publication: "TEI '18"
   date: 2018
   year: 2018
   doi: 10.1145/3173225.3173230
   project: ar_level_editor
+  pdf: ./files/ng_tei_2018.pdf
 
 - id: rompay_fqp_2018
   title: "The Sweetest Punch Effects of 3D-printed Surface Textures and Graphic Design on Ice-Cream Evaluation"
@@ -41,7 +44,7 @@
   date: 2018
   year: 2018
   doi: 10.1016/j.foodqual.2018.02.015
-  project: food_taste
+  project: touch_taste
 
 - id: Shin_ah_2018
   title: "Couples Designing Their Living Room Together: A Study with Collaborative Handheld Augmented Reality"
@@ -50,7 +53,8 @@
   date: 2018
   year: 2018
   doi: 10.1145/3174910.3174930
-  project: sharedesign
+  project: couples_designing_together
+  pdf: ./files/Shin_ah_2018.pdf
 
 2017:
 - id: lee_dis_2017
@@ -208,7 +212,7 @@
   date: 2016
   year: 2016
   doi: 10.1016/j.foodqual.2016.12.002
-  project: food_taste
+  project: touch_taste
   pdf: ./files/rompay_fqp_2016.pdf
 
 - id: ng_ksds_2016

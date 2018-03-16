@@ -19,6 +19,11 @@ In my case i render with the following terminal command:
 
 `jekyll serve`
 
+or
+
+`bundle exec wjekyll serve`
+
+
 then point your browser to
 
 `localhost:4000`

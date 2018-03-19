@@ -21,7 +21,7 @@ In my case i render with the following terminal command:
 
 or
 
-`bundle exec wjekyll serve`
+`bundle exec jekyll serve`
 
 
 then point your browser to

@@ -18,6 +18,14 @@ Taking into account new (technological) developments in packaging design, this r
 
 Results testify to the potential of influencing taste evaluations by means of surface textures, with a smooth surface enhancing sweetness evaluation, and a sharp surface enhancing intensity evaluations. Furthermore, findings might imply that mismatches between surface textures and poster design may enhance product and taste liking.
 
+![cups](img/image001.png)
+
+![cups](img/Picture1.png)
+
+![cups](img/Picture2.png)
 
 
-Food fabrication offers a new dimension to home cooking. We see the design challenge not in automating cooking tasks, but in augmenting the tangible experience, skill building and enjoyment of baking. As an example of such augmentation, we present a novel concept for designing and fabricating roll cakes with custom cross-section graphics.
+![cups](img/cups.jpg)
+
+
+![cups](img/rhombus.png)

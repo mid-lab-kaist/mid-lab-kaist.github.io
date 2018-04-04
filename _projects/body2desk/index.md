@@ -13,6 +13,8 @@ We explored the application of *human factor* guidelines in personal fabrication
 
 ![Dependency map](img/dependency_map.png)
 
+
+
 Based on this, we developed situated and interactive guidelines to assist users in design applications. We applied these guidelines in a Virtual Reality (VR) system that lets users customize their desk and provides real-time feedback and feedforward on pose and design. We evaluated the system with six participants, had each one design a personal desk, fabricated their desks, and let them work on the desks for four hours. The design and evaluation contribute to fabrication tools as it helped users be aware of their pose and ergonomic knowledge, and be able to design for their bodies and needs.
 
 ![The virtual Reality tool: body2desk](img/freeze_me.gif)
@@ -20,3 +22,4 @@ Based on this, we developed situated and interactive guidelines to assist users 
 
 ![The custom desks as a result of the user study](img/in-use.jpg)
 
+{% include vimeo_player.html id="262968103" %}

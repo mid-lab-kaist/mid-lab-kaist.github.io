@@ -1,0 +1,41 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+
+<div class="container-fluid">
+    <div class="row">
+    {% for p in projects %}
+        <div class="col-sm">
+            <p>
+                <a href="{{ url_for('project', name = p.front_matter.project) }}">
+                    <img width="100%" src="/projects/{{ p.front_matter.project }}/img/{{p.front_matter.picture}}">
+                    {{ p.front_matter.title }}</a></p> 
+            <p>{% autoescape off %}{{ p.front_matter.short }}{% endautoescape %}</p> 
+        </div>
+
+        {# a three column layout #}
+        {% if loop.index is divisibleby 3 %}
+        {% if not loop.first  %}
+        {% if not loop.last  %}
+    </div>
+    <div class="row">    
+        {% endif %}
+        {% endif %}
+        {% endif %}
+        {# add empty columns after last project (if not divisable by 3) #}
+        {% if loop.last  %}
+        {% if loop.length % 3 == 2 %}
+        <div class="col-sm"></div>
+        {% endif %}
+        {% if loop.length % 3 == 1 %}
+        <div class="col-sm"></div>
+        <div class="col-sm"></div>
+        {% endif %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+
+
+
+{% endblock %}

@@ -1,0 +1,60 @@
+{% extends "base_template.html" %}
+
+{% block content %}
+<div class="container-fluid">
+
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>My Design Lab</h2>
+        <p class="my-text">We study people as the designers of their own life. We innovate in open design, physical design tools, custom design as service and local manufacturing using digital fabrication.
+        We are based in the department of Industrial Design at KAIST in the republic of Korea.</p>
+    </div>
+    <div class="col-sm-8 my-less-spacing">
+        {{ show_project( projects["slow_robots"] )|safe }}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-4 my-less-spacing">
+      {{ show_project( projects["smart_manikin"] )|safe }}
+    </div>
+    <div class="col-sm-4 my-less-spacing">
+      {{ show_project( projects["interruption_timings"] )|safe }}
+    </div>
+    <div class="col-sm-4 my-less-spacing">
+      {{ show_project( projects["actuated_monitor"] )|safe }}
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-sm-8 my-less-spacing">
+      {{ show_project( projects["rolling_graphics"] )|safe }}
+    </div>
+    <div class="col-sm-4">
+      <h5>News</h5>
+      {% for n in news %}
+      <p>
+        <a href="{{ n.permalink }}">{{ n.front_matter.title }}</a>
+        <span class="small">{{ n.date }}</span> 
+      </p>
+      {% endfor %}
+      <p><a href="/news/">more news</a></p>
+
+    </div>
+  </div>
+
+  <div class="row">
+      <div class="col-sm-4 my-less-spacing">
+        {{ show_project( projects["consumer_to_creator"] )|safe }}
+      </div>
+      <div class="col-sm-4 my-less-spacing">
+        {{ show_project( projects["bodymeter"] )|safe }}
+      </div>
+      <div class="col-sm-4 my-less-spacing">
+        {{ show_project( projects["mirror"] )|safe }}
+      </div>
+  </div>
+
+</div>
+
+{% endblock %}

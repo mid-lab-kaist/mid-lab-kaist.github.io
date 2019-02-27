@@ -1,0 +1,6 @@
+---
+title: Talk at HCI Korea 2016
+picture: hcik_2016.jpg
+---
+Gyeol Han presented her paper on "User Research for Experience of Fashion Design System Based on Spatial Augmented Reality" at the `HCI Korea 2016 <http://conference.hcikorea.org/hcik2016/>`_ conference. The paper reveals details of a new user study performed with the
+`Mirror Mirror <projects/mirror>`_ .

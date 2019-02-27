@@ -1,0 +1,39 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+<div class="container-fluid">
+
+{% for year in papers %}
+{% if year is not in [2001,2002,2003] %}
+<div class="row">
+    <div class="col-sm-1">      
+        <h5>{{ year }} </h5> 
+     </div>
+    
+  <div class="col-sm-11">   
+    <ul class="publication-list-my">
+        {% for entry in papers[year] %}
+        <li>
+        {% if entry.has_pdf %}
+            <strong><a href="files/{{ entry.key }}.pdf">{{ entry.title }}</a></strong>.
+        {% else %}
+            <strong>{{ entry.title }}</strong>.
+        {% endif %}
+        {{ entry.authors }}. In {{ entry.publication }}. {{ entry.year }}.
+        {% if entry.award %}<strong>{{ entry.award }}.</strong>{% endif %}
+        {% if entry.doi %}<a href="https://dx.doi.org/{{ entry.doi }}">[doi]</a>{% endif %}
+        <a href="files/{{ entry.key }}.bib">[bib]</a>
+        {% if entry.project %}<a href="{{ entry.project.folder }}"/>[project]</a>{% endif %}
+    </li>    
+        {% endfor %}
+  </ul>
+ </div>
+
+</div>
+
+{% endif %}
+{% endfor %}
+
+</div>
+
+{% endblock %}

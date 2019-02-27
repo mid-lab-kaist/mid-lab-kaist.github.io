@@ -1,0 +1,5 @@
+---
+title: Workshop at Yonsei university
+---
+Daniel Saakes delivered a workshop at the design department of Yonsei University in Seoul with the topic "Designing for designers". 
+In the workshop the participants developed a so called "fab app" an application for generating products for 3D printing.

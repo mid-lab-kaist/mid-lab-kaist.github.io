@@ -1,0 +1,75 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+<div class="container-fluid">
+
+<div class="row">
+    <div class="col-12">
+        <h2>Meet the team</h2>
+
+        <img width="100%" src="/people/img/all.jpg" />
+    </div>
+    </div>
+
+{% for member in front_matter.members %}
+<div class="row">
+
+<div class="col-sm-8">
+
+    <img style="border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src="/people/img/{{ member.picture }}" />
+    <h3>{{ member.name }}</h3>
+    <p>{% autoescape off %}{{ member.bio}}{% endautoescape %}</p>
+</div>
+
+<div class="col-sm-4">
+</div>
+
+</div>
+
+{% endfor %}
+
+<div class="row">
+    <div class="col-sm-12">
+        <h2>Alumni</h2>
+    </div>
+    </div>
+
+{% for member in front_matter.alumni %}
+<div class="row">
+<div class="col-sm-8">
+    <img style="border: 1px solid #cccccc; float: left; margin:4px; max-width:160px;" src="/people/img/{{ member.picture }}" />
+    <h3>{{ member.name }}</h3>
+    <p>{% autoescape off %}{{ member.bio}}{% endautoescape %}</p>
+</div>
+<div class="col-sm-4">
+</div>
+</div>
+{% endfor %}
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <h2>Interns</h2>
+    </div>
+    </div>
+
+{% for member in front_matter.interns %}
+<div class="row">
+<div class="col-sm-8">
+    <p>{{ member.name }} {{ member.date }} </p>
+</div>
+<div class="col-sm-4">
+</div>
+</div>
+{% endfor %}
+
+
+
+
+
+
+</div>
+
+
+
+{% endblock %}

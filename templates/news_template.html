@@ -1,0 +1,39 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+<div class="container-fluid">
+                
+{% for n in news %}
+
+<div class="row">
+  <div class="col-sm-1">
+    {% if loop.first or ( (not loop.first) and ( loop.previtem.date.year != n.date.year) ) %}
+    <h5>{{ n.date.year }}</h5>
+    {% endif %}
+  </div>
+  
+  {% if n.front_matter.picture %}
+  <div class="col-sm-5">
+  {% else %}
+  <div class="col-sm-11">
+  {% endif %}
+    <h5>{{ n.front_matter.title }}</h5>
+    {% if n.has_short %}
+      <p>{{ n.short|safe }}</p> 
+      <p><a href="{{ n.permalink }}">more...</a></p>
+    {% else %}
+      <p>{{ n.content|safe }}</p> 
+    {% endif %}
+    <p>posted at {{ n.date }} <a href="{{ url_for('news_item',name=n.name, year=n.date.year, month=n.date.month, day=n.date.day) }}">[permalink]</a></p> 
+  </div>
+  {% if n.front_matter.picture %}
+  <div class="col-sm-6">    
+    <img src="/news/img/{{ n.front_matter.picture }}" width="100%" />
+  </div>
+{% endif %}
+</div>
+{% endfor %}
+
+</div>
+
+{% endblock %}

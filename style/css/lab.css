@@ -1,0 +1,110 @@
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+a, p, div, li {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+}
+
+.figure img {
+  width:100%
+}
+.caption {
+  font-style: italic;
+  font-size: smaller;
+}
+
+.container-fluid {
+   max-width:900px;
+}
+
+ul {
+list-style-type: none;
+list-style-position: inside; 
+padding-left:0;
+font-size: 1.1rem;
+}
+
+.navbar-brand {
+  line-height: 1.5;
+  font-size: 1.2rem;
+  padding-bottom: 1px;
+
+}
+
+.nav ul{
+  margin:0;          
+}
+
+a h5 {
+  color: #000000
+}
+
+
+.border-top-my {
+border-top-style:dashed;
+border-top-width: 1px;
+}
+
+.border-bottom-my {
+border-bottom-style:dashed;
+border-bottom-width: 1px;
+}
+
+.navbar-my {   
+border-bottom-style:dashed;
+border-bottom-width: 1px;
+padding:0;
+padding-bottom:0.2rem;
+margin-bottom:0.8rem;
+
+}
+/* change the brand and text color */
+.navbar-my .navbar-brand,
+.navbar-my .navbar-text {
+color: #000000;
+}
+/* change the link color */
+.navbar-my .navbar-nav .nav-link {
+color: #000000;
+}
+
+
+.nav-link {
+font-size: 1.2rem;
+}
+
+/* change the color of active or hovered links */
+
+.navbar-my .nav-item.active .nav-link,
+.navbar-my .nav-item:hover .nav-link {
+color: #000000;
+text-decoration: underline;
+}
+
+.publication-list-my li {
+padding-bottom: 0.5rem;
+}
+
+.my-less-spacing h5 {
+margin-bottom: 0;
+margin-top: 0.5rem;
+}
+
+.my-text {
+font-size: 1.2rem;
+line-height: 1.9rem;
+}
+
+
+
+
+

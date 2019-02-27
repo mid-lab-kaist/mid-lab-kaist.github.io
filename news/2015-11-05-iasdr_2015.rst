@@ -1,0 +1,8 @@
+---
+title: myDesignLab at IASDR 2015
+picture: iasdr_2015.png
+---
+Bokyung Lee will present her paper `Online User Reviews as a Design Resource </projects/user_review_analysis>`_ at the 
+`biannual conference of the International Associations of Societies of Design Research <http://iasdr.org>`_ in Brisbane, Australia.
+
+Daniel Saakes will speak as a panelist on the topic of *Blending Design Research and Practice*.

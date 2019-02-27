@@ -1,5 +1,0 @@
----
-title: Paper Presentation at KSDS
----
-Seo Young Back and Junhee Min presented their paper "rich textures" at the bi-annual `Korean Society for Design Science <http://www.design-science.or.kr/>`_ 
-conference at `UNIST <http://www.unist.ac.kr/>`_ in Ulsan. They received the second best research achievement award.

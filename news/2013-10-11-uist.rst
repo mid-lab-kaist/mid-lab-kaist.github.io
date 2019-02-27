@@ -1,5 +1,0 @@
----
-title: Paper presentation at UIST conference
----
-Paper presentation at `ACM UIST in St. Andrews <https://uist.acm.org/uist2013/>`_. Although there are many sophisticated methods available for packing 2D shapes, oftentimes a human in the loop in required to satisfy soft constraints, for instance, to make tradeoffs between aesthetics and reducing material waste. 
-`PACCAM </projects/paccam>`_ supports users making manual layouts and is specifically geared towards the occasional users in fab labs. 

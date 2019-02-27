@@ -1,7 +1,0 @@
----
-title: Maker Faire Seoul 2015
-picture: maker_faire_2015.jpg
----
-myDesignLab was at Maker Faire Seoul 2015 to demonstrate gesture controlled moving furnature.
-Despite the chilly and rainy weather, a lot of people came out to check out this year's Maker Faire. Many people were impressed with the gestured moving furnature display that we had, with a lot of interest shown to our initial prototypes, the BrushBots, that we also had for show.
-Find out more about `Maker Faire Seoul <http://www.make.co.kr/?page_id=1336>`_.

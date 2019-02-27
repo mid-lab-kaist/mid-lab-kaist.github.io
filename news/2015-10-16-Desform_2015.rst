@@ -1,6 +1,0 @@
----
-title: Work Featured at DeSForM 2015
-picture: desform_2015.png
----
-Work by Professor Saakes on 3D printed designs are currently being featured at DeSForM 2015 in Milan, Italy. Gyeol Han from our lab had the opportunity to go to the event to check out the talks and workshops.
-Find out more about `DeSForM 2015 <http://www.desform2015.polimi.it/>`_.

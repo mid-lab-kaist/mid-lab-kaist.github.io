@@ -1,8 +1,0 @@
----
-title: Two Presentations at KSDS Spring 2016
-picture: ksds_spring_2016.jpg
----
-Gary Ng presented his paper on gesture based interface for remote inspection tasks with unmanned aerial vehicles at 
-the `KSDS spring conference <http://www.design-science.or.kr/>`_ at the Korea National University of Arts
-
-Daniel Saakes provided a tutorial on `effective prototyping </news/img/ksds_spring_2016/effective_prototyping.jpg>`_ .

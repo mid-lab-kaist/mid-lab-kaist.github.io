@@ -1,5 +1,0 @@
----
-title: Interactive Training Chopsticks presented at ACE 2014
-picture: chopsticks.jpg
----
-Foong Yi Chia presented `interactive training chopsticks <projects/chopsticks>`_ at the Advancement in Entertainment Computing conference 2014 and won the bronze demo award. The chopsticks embed advanced sensors to detect what the user is doing. Two interactive games use the chopsticks as a controller to teach children the fine motor skills and hand-eye coordination.

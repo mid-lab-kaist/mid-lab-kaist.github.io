@@ -1,5 +1,0 @@
----
-title: "projects at CHI'17"
----
-We will show a few new works at CHI, all on Monday! In the paper track we present `consumer to creator </projects/consumer_to_creator>`_ . 
-In the video showcase program we will show the new video of `Ratchair </projects/ratchair>`_, and how to custom make Korean dumplings with `Ori-Mandu </projects/ori-mandu>`_. In the interactivity track we will demonstrate `Calm Automaton </projects/calm_automaton>`_.

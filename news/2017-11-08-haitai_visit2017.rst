@@ -1,9 +1,0 @@
----
-title: Field Trip to the Haitai Factory in Daejeon
-picture: haitai_visit2017/haitai_visit2017b.jpg
----
-Today, students from the Digital Fabrication Course, along with Professor Daniel and Ms. Bokyung Lee, visited the Haitai Factory in Daejeon in order to experience first-hand the manufacturing process of the 오예스 (oh-yes) chocolate cakes.
-
-.. figure:: /news/img/haitai_visit2017/haitai_visit2017a.jpg
-   
-   Field Trip to the Haitai Factory in Daejeon

@@ -1,5 +1,0 @@
----
-title: Paper Presentation at KSDS
-picture: KSDS_2014_05.jpg
----
-Bokyung Lee will present her paper "user review analysis" at the bi-annual conference of the Korean Society of Design Science in Incheon.

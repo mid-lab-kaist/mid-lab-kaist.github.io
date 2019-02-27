@@ -1,0 +1,5 @@
+---
+title: Froukje Sleeswijk Visser visits My Design Lab
+picture: Froukje.jpg
+---
+`Froukje Sleeswijk Visser <http://studiolab.ide.tudelft.nl/studiolab/sleeswijkvisser/>`_ visited id KAIST and we hosted a workshop on "user insights" and "personalizing products".

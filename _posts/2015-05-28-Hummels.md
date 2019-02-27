@@ -1,8 +1,0 @@
----
-layout: post
-title: Prof.Caroline Hummel's visit to myDesignLab
-picture: hummels.jpg
----
-
-Prof.Caroline Hummels vistied myDesignLab on May 28th after giving her seminar at IDKAIST.
-

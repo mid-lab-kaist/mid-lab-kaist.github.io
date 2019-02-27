@@ -1,0 +1,44 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+<div class="container-fluid">
+
+
+<div class="row">
+  <div class="col-12">      
+      <h2>{{ news.front_matter.title }}</h2> 
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-8">      
+      {% if news.front_matter.picture %}
+      <img src="/news/img/{{ news.front_matter.picture }}" width="100%" />
+      {% endif %}
+  
+     <p>{{news.content|safe}}</p>
+     <p>Posted on: {{news.date}}</p>
+
+  </div>
+  <div class="col-4">
+     {% if news.next %}
+     <p><a href="{{news.next.permalink}}">
+        {% if news.next.front_matter.picture %}
+        <img src="/news/img/{{ news.next.front_matter.picture }}" width="100%" />
+        {% endif %}
+      next news item: {{news.next.front_matter.title}}</a></p>
+     {% endif %}
+     {% if news.prev %}
+     <p><a href="{{news.prev.permalink}}">
+        {% if news.prev.front_matter.picture %}
+        <img src="/news/img/{{ news.prev.front_matter.picture }}" width="100%" />
+        {% endif %}     
+      prevous news item: {{news.prev.front_matter.title}}</a></p>
+     {% endif %}
+
+    </div>
+</div>
+
+</div>
+
+{% endblock %}

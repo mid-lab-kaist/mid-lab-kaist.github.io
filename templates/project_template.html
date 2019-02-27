@@ -1,0 +1,39 @@
+{% extends "base_template.html" %}
+
+{% block content %}
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <h2>{{ project.front_matter.title }} </h2>  
+    </div>
+  </div>
+  <div class="row">
+      <div class="col-sm-8 my-text">
+        {% autoescape off %}{{ project.content }}{% endautoescape %}</p>
+      </div>  
+
+    <div class="col-sm-4">
+      {% if project.papers %}
+      {% for entry in project.papers %}
+      <p>
+          {% if entry.has_pdf %}
+          <strong><a href="files/{{ entry.key }}.pdf">{{ entry.title }}</a></strong>.
+          {% else %}
+          <strong>{{ entry.title }}</strong>.
+          {% endif %}
+          {{ entry.authors }}. In {{ entry.publication }}. {{ entry.year }}.
+          {% if entry.award %}<strong>{{ entry.award }}.</strong>{% endif %}
+          {% if entry.doi %}<a href="https://dx.doi.org/{{ entry.doi }}">[doi]</a>{% endif %}
+          <a href="files/{{ entry.key }}.bib">[bib]</a>
+        </p>
+      {% endfor %}
+      {% endif %}
+    </ul>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}

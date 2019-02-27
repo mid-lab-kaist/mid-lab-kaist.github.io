@@ -1,5 +1,0 @@
-{% for p in site.projects %}
-{% if p.project == include.project %}
-<a href="{{ p.permalink }}"><img src="{{ p.permalink }}img/{{ p.picture }}" alt="{{ p.title }}" /></a><h2>{{ p.title }}</h2><p>{{ p.short }}</p>
-{% endif %}
-{% endfor %}

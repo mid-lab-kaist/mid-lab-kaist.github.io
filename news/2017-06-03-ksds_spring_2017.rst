@@ -1,0 +1,6 @@
+---
+title: Doori Noori Presented at KSDS Spring 2017
+---
+On Saturday 3rd, members of our lab traveled to the 선신여대 in Seoul to present work about the electronic mailbox, Doori Noori at KSDS Spring 2017.
+`Doori Noori </projects/doori_noori>`_ is meant to emotionally connect parents and their preschoolers by allowing the transfer of postcards with photographs between their preschoolers at preschool and them parents at work.
+Find out more about `KSDS <http://www.design-science.or.kr/eng_index.asp>`_

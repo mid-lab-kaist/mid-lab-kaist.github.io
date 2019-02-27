@@ -1,0 +1,11 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+{% for p in projects %}
+<h2>{{ p.front_matter.title }} </h2> 
+<p>{% autoescape off %}{{ p.front_matter.short }}{% endautoescape %}</p>
+{% endfor %}
+
+{{ page_content }}
+
+{% endblock %}

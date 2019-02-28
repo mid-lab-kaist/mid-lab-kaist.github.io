@@ -41,7 +41,7 @@ class Vimeo(Directive):
     has_content = False
 
     def run(self):
-        s = '<div class="vimeo"><iframe src="http://player.vimeo.com/video/' + self.arguments[0] + '" frameborder="0" allowfullscreen> </iframe></div>'
+        s = '<div class="vimeo"><iframe src="https://player.vimeo.com/video/' + self.arguments[0] + '" frameborder="0" allowfullscreen> </iframe></div>'
         #s = '\ninsert video: ' + self.arguments[0] + '\n'
         #video_node = nodes.paragraph(text = s)
         return [ vimeo(text=self.arguments[0]) ]

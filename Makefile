@@ -10,6 +10,7 @@ upload :
 
 freeze :
 	python3 freeze.py
+	
 
 clean :
 	rm index.html people/index.html projects/index.html publications/index.html news/index.html contact/index.html events/index.html

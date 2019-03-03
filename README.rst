@@ -1,26 +1,57 @@
 lab website
 ============
 
+We moved from Jekyll (Ruby) to a simple Flask/Jinja2/Python contraption. We kept the "front matter" in yaml to set properties such as for people and projects, but switched from Markdown to Restructured Text. Although this is less of a standard, it allows to create custom directives and makes the inclusion of videos and such much easier.
+
+A consequence of not using Ruby is that we deal with two branches, one with the source code (the gh-pages branch) and one with the rendered version (the master branch). 
 
 installation
 ------------
 
-pip3 install ruamel.yaml markdown bibtexparser
+Install python3 and the following libraries (see also requirements.txt):
 
-currently depends on bibtexparser https://github.com/sciunto-org/python-bibtexparser
+
+pip3 install flask frozen_flask docutils ruamel.yaml bibtexparser
+
+
+Clone repository two times. This is sacrificing hard disk space for simplicity.
+
+make the following folder structure (you can choose any name for "my-website" as long as you keep the src and frozen part):
+
+my-website/src/
+my-website/frozen/
+
+in the "src" folder clone the gh-pages branch::
+
+cd src
+git clone -b gh-pages https://github.com/mid-lab-kaist/mid-lab-kaist.github.io.git
+
+in the "frozen" folder clone the master branch
+
+git clone https://github.com/mid-lab-kaist/mid-lab-kaist.github.io.git
+
+
+Once that is done you can keep the frozen folder untouched and do all work in the src folder.
+
 
 running the flask server locally
 --------------------------------
+
+in the "src" repository
 
 make run
 
 render a static version
 -----------------------
 
-make static
+in the "src" repository
+
+make freeze
 
 uploading website to github
 ---------------------------
+
+in the "sr" repository
 
 make upload
 
@@ -54,6 +85,8 @@ As for the entry in the bibtex file, we follow the same naming except we use : i
 6. if your publication is part of an existing project, add it in the project file's front matter. If it is a new project,
 start a new project (see above).
 
+basic Restructured Text commands
+--------------------------------
 
 
 

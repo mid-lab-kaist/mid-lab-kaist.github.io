@@ -1,0 +1,6 @@
+*/
+*.html
+*.png
+*.jpg
+*.bib
+*.pdf

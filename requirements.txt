@@ -1,2 +1,5 @@
+flask
 frozen_flask
- 
+ruamel.yaml
+bibtexparser
+docutils

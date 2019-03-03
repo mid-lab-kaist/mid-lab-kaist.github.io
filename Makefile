@@ -10,7 +10,7 @@ upload :
 
 freeze :
 	python3 freeze.py
-	
+	rsync -amvr --include-from "rsync_pattern.txt" --exclude "*" . ../synced
 
 clean :
 	rm index.html people/index.html projects/index.html publications/index.html news/index.html contact/index.html events/index.html

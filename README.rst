@@ -1,61 +1,69 @@
 lab website
 ============
 
-We moved from Jekyll (Ruby) to a simple Flask/Jinja2/Python contraption. We kept the "front matter" in yaml to set properties such as for people and projects, but switched from Markdown to Restructured Text. Although this is less of a standard, it allows to create custom directives and makes the inclusion of videos and such much easier.
+We moved from Jekyll (Ruby) to a simple Flask/Jinja2/Python contraption. 
+We kept the "front matter" in yaml to set properties such as for people and projects, 
+but switched from Markdown to Restructured Text. Although this is less of a standard, 
+it allows to create custom directives and makes the inclusion of videos and such much easier.
 
-A consequence of not using Ruby is that we deal with two branches, one with the source code (the gh-pages branch) and one with the rendered version (the master branch). 
+A consequence of not using Ruby is that we deal with two branches or two repositories, 
+one with the source code and one with the rendered version.
+
+For sake of simplicity, i made one dev repository to be used to develop and test the site locally:
+"group_website_dev'. This repository contains a make file to build the static html site,
+which in turn can be uploaded to github with another makefile command.
+
+I cleaned both archives, so they are relatively small in size, but site assets such as pdf, are twice on your machine.
+
 
 installation
 ------------
 
 Install python3 and the following libraries (see also requirements.txt):
 
-
 pip3 install flask frozen_flask docutils ruamel.yaml bibtexparser
 
+Clone this repository ( group_website_dev ) and clone the mid-lab-kaist.github.io repository. 
 
-Clone repository two times. This is sacrificing hard disk space for simplicity.
+make sure that both repositories are cloned in the same folder. For instance you can choose any name for "my-website":
 
-make the following folder structure (you can choose any name for "my-website" as long as you keep the src and frozen part):
+my-website/group_website_dev
+my-website/mid-lab-kaist.github.io
 
-my-website/src/
-my-website/frozen/
 
-in the "src" folder clone the gh-pages branch::
-
-cd src
-git clone -b gh-pages https://github.com/mid-lab-kaist/mid-lab-kaist.github.io.git
-
-in the "frozen" folder clone the master branch
-
+git clone  https://github.com/mid-lab-kaist/group_website.git
 git clone https://github.com/mid-lab-kaist/mid-lab-kaist.github.io.git
 
 
-Once that is done you can keep the frozen folder untouched and do all work in the src folder.
+Once that is done you can keep the mid-lab-kaist untouched.
 
 
 running the flask server locally
 --------------------------------
 
-in the "src" repository
+cd into the "group_website_dev" repository folder
 
 make run
 
 render a static version
 -----------------------
 
-in the "src" repository
+In the "group_website_dev" repository folder
 
 make freeze
 
 uploading website to github
 ---------------------------
 
-in the "sr" repository
+In the "group_website_dev" repository folder
 
 make upload
 
-adding a project to the website
+good practise is to check the website functioning online after a few minutes 
+to confirm that your changes are uploaded.
+
+
+Adding a project to the website
 -------------------------------
 
 1. Make a new folder in the projects directory. Default naming is to use lowercase and underscores: e.g. actuated_monitor

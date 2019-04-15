@@ -19,7 +19,7 @@
       {% for entry in project.papers %}
       <p>
           {% if entry.has_pdf %}
-          <strong><a href="files/{{ entry.key }}.pdf">{{ entry.title }}</a></strong>.
+          <strong><a href="/publications/files/{{ entry.key }}.pdf">{{ entry.title }}</a></strong>.
           {% else %}
           <strong>{{ entry.title }}</strong>.
           {% endif %}
